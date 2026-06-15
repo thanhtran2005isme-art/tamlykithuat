@@ -140,12 +140,13 @@ export default function ProductVariantModal({ product, open, onClose, onConfirm 
         </div>
 
         {/* Phân loại — màu sắc */}
+        {/* TLHKT - Chương 7 (Parhi 2006): Nút lớn hơn → +20% tốc độ, +12% độ chính xác */}
         {colors.length > 0 && (
           <div style={{ padding: 16, borderBottom: '1px solid #f1f5f9' }}>
             <h4 style={{ margin: '0 0 12px', fontSize: 14, fontWeight: 600, color: '#0f172a' }}>
               Màu sắc <span style={{ color: '#64748b', fontWeight: 400 }}>({colors.length})</span>
             </h4>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
               {colors.map((c) => {
                 const active = c === color;
                 return (
@@ -154,17 +155,21 @@ export default function ProductVariantModal({ product, open, onClose, onConfirm 
                     type="button"
                     onClick={() => setColor(c)}
                     style={{
-                      display: 'inline-flex', alignItems: 'center', gap: 6,
-                      padding: '8px 14px', borderRadius: 8,
+                      display: 'inline-flex', alignItems: 'center', gap: 8,
+                      padding: '12px 18px', // Tăng từ 8px 14px → +50% diện tích
+                      minHeight: 48, // Đảm bảo touch target ≥ 48px (Parhi 2006)
+                      borderRadius: 10,
                       border: active ? '2px solid #dc2626' : '1px solid #e2e8f0',
                       background: active ? '#fef2f2' : '#fff',
                       color: active ? '#dc2626' : '#0f172a',
-                      fontSize: 13, fontWeight: active ? 600 : 500,
+                      fontSize: 14, fontWeight: active ? 600 : 500,
                       cursor: 'pointer',
+                      transition: 'all 0.2s ease',
                     }}
                   >
                     <span style={{
-                      width: 14, height: 14, borderRadius: '50%',
+                      width: 18, height: 18, // Tăng từ 14px → 18px
+                      borderRadius: '50%',
                       background: mapColorHex(c),
                       border: '1px solid #e2e8f0',
                     }} />
@@ -177,12 +182,13 @@ export default function ProductVariantModal({ product, open, onClose, onConfirm 
         )}
 
         {/* Size */}
+        {/* TLHKT - Chương 7 (Parhi 2006): Touch target lớn → +20% tốc độ nhập, +12% chính xác */}
         {sizes.length > 0 && (
           <div style={{ padding: 16, borderBottom: '1px solid #f1f5f9' }}>
             <h4 style={{ margin: '0 0 12px', fontSize: 14, fontWeight: 600, color: '#0f172a' }}>
               Kích cỡ
             </h4>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 8 }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
               {sizes.map((s) => {
                 const active = s === size;
                 return (
@@ -191,13 +197,16 @@ export default function ProductVariantModal({ product, open, onClose, onConfirm 
                     type="button"
                     onClick={() => setSize(s)}
                     style={{
-                      minWidth: 56, padding: '8px 14px',
-                      borderRadius: 8,
+                      minWidth: 64, // Tăng từ 56px → 64px  
+                      minHeight: 48, // Đảm bảo ≥ 48px cho touch (Parhi 2006)
+                      padding: '12px 18px', // Tăng từ 8px 14px
+                      borderRadius: 10,
                       border: active ? '2px solid #dc2626' : '1px solid #e2e8f0',
                       background: active ? '#fef2f2' : '#fff',
                       color: active ? '#dc2626' : '#0f172a',
-                      fontSize: 13, fontWeight: active ? 600 : 500,
+                      fontSize: 15, fontWeight: active ? 600 : 500, // Tăng font từ 13 → 15
                       cursor: 'pointer',
+                      transition: 'all 0.2s ease',
                     }}
                   >
                     {s}

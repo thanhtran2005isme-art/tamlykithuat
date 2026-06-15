@@ -263,13 +263,17 @@
 8. ✅ Bảng size trẻ em theo tuổi/chiều cao/cân nặng (C6 - Đối tượng đặc biệt).
 9. ✅ Thông tin chất liệu an toàn cho da bé (OEKO-TEX, hướng dẫn giặt) (C6 - Sức khỏe).
 
+**Đã làm (Variant Modals - Tối ưu theo Parhi 2006):**
+10. ✅ Tăng kích thước nút chọn size/màu: padding 12px 18px, minHeight 48px (C7 - Parhi 2006: +20% tốc độ, +12% chính xác).
+11. ✅ Áp dụng cho cả ProductVariantModal và VariantPickerModal + CSS.
+
 **Nên làm tiếp — tác động cao, dễ minh họa trong báo cáo:**
 | Ưu tiên | Việc | Chương | File | Trạng thái |
 |---|---|---|---|---|
 | ⭐⭐⭐ | Thanh tiến trình "Bước n/4" + chia bước rõ | C3, C7, C10 | `Checkout.tsx`, `components/checkout/*` | ✅ **XONG** |
 | ⭐⭐⭐ | Nhóm bộ lọc theo Miller 7±2 + Hick | C3, C4 | `Products.tsx`, `ProductListPage.tsx` | ✅ **XONG** |
 | ⭐⭐ | Bảng size trẻ em theo tuổi/chiều cao + chất liệu | C6 | `ProductDetail.tsx` | ✅ **XONG** |
-| ⭐⭐ | Tăng nút chọn size/màu (số liệu Parhi +20%) | C7 | `VariantPickerModal.tsx`, `ProductVariantModal.tsx` | 🔄 Tiếp theo |
+| ⭐⭐ | Tăng nút chọn size/màu (số liệu Parhi +20%) | C7 | `VariantPickerModal.tsx`, `ProductVariantModal.tsx` | ✅ **XONG** |
 | ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `NotificationBell.tsx`, `Header.tsx` | 🔄 Tiếp theo |
 | ⭐ | Accessibility: aria, tương phản, focus-trap modal | C5, C6 | toàn site, `useFocusTrap.ts` | Một phần đã có |
 | ⭐ | Admin: cảnh báo tồn kho + xác nhận hành động xóa | C8, C10 | `AdminInventoryAlerts.tsx`, các trang xóa | 🔄 Sau |
