@@ -115,20 +115,33 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
 
       {/* Color dot + Wishlist row */}
       <div className="ivy-card-actions">
-        <div className="ivy-color-dots">
+        <div className="ivy-color-dots" role="list" aria-label="Màu sắc có sẵn">
           {product.colors && product.colors.length > 0 ? (
             product.colors.slice(0, 3).map((color, i) => (
-              <span key={i} className="ivy-color-dot" style={{ background: mapColor(color) }} title={color}></span>
+              <span 
+                key={i} 
+                className="ivy-color-dot" 
+                style={{ background: mapColor(color) }} 
+                title={color}
+                role="listitem"
+                aria-label={`Màu ${color}`}
+              ></span>
             ))
           ) : (
-            <span className="ivy-color-dot" style={{ background: '#e8d44d' }}></span>
+            <span 
+              className="ivy-color-dot" 
+              style={{ background: '#e8d44d' }}
+              role="listitem"
+              aria-label="Màu vàng"
+            ></span>
           )}
         </div>
         <button
           className={`ivy-wishlist-btn ${wishlisted ? 'active' : ''}`}
           onClick={handleWishlist}
           type="button"
-          aria-label={wishlisted ? 'Bỏ yêu thích' : 'Thêm vào yêu thích'}
+          aria-label={wishlisted ? `Bỏ ${product.name} khỏi yêu thích` : `Thêm ${product.name} vào yêu thích`}
+          aria-pressed={wishlisted}
         >
           {wishlisted ? <PiHeartStraightFill aria-hidden="true" /> : <PiHeartStraight aria-hidden="true" />}
         </button>
@@ -137,7 +150,8 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
           className={`ivy-compare-btn ${compared ? 'active' : ''}`}
           onClick={handleCompare}
           type="button"
-          aria-label={compared ? 'Bỏ so sánh' : 'Thêm vào so sánh'}
+          aria-label={compared ? `Bỏ ${product.name} khỏi so sánh` : `Thêm ${product.name} vào so sánh`}
+          aria-pressed={compared}
           title={compared ? 'Bỏ so sánh' : 'So sánh sản phẩm'}
         >
           {compared ? <PiScalesBold aria-hidden="true" /> : <PiScales aria-hidden="true" />}
@@ -166,7 +180,8 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
           onClick={handleAddToCart}
           type="button"
           disabled={isOutOfStock}
-          aria-label={isOutOfStock ? 'Sản phẩm đã hết hàng' : justAdded ? 'Đã thêm vào giỏ' : 'Thêm vào giỏ'}
+          aria-label={isOutOfStock ? `${product.name} đã hết hàng` : justAdded ? `Đã thêm ${product.name} vào giỏ` : `Thêm ${product.name} vào giỏ`}
+          aria-live={justAdded ? 'polite' : undefined}
         >
           {justAdded ? <PiCheckBold aria-hidden="true" /> : <PiShoppingBagOpenFill aria-hidden="true" />}
         </button>

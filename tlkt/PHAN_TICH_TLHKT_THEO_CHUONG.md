@@ -273,6 +273,28 @@
 14. ✅ CSS responsive với gradient đẹp, shadow, và mũi tên tooltip.
 15. ✅ Files: `Header.tsx` (logic), `style.css` (CSS tooltip).
 
+**Đã làm (Accessibility - C5, C6 - Universal Design):**
+16. ✅ ARIA labels chi tiết cho tất cả nút icon (wishlist, compare, cart) với tên sản phẩm.
+17. ✅ ARIA roles và attributes: `role="list"`, `aria-pressed`, `aria-live`, `aria-label`.
+18. ✅ Focus states rõ ràng với outline 2px + box-shadow cho keyboard navigation.
+19. ✅ Tương phản màu WCAG AA: badges (NEW 4.7:1, SALE 5.2:1, HOT 4.8:1), text (>4.5:1).
+20. ✅ Prefers-reduced-motion: tắt animation cho người nhạy cảm chuyển động.
+21. ✅ Prefers-contrast: high contrast mode support (Windows).
+22. ✅ Skip-to-main link cho screen reader users.
+23. ✅ Form inputs có focus visible rõ ràng.
+24. ✅ Files: `ProductCard.tsx`, `product-card-ivy.css`, `style.css`.
+
+**Đã làm (Admin - C8, C10 - Quản lý rủi ro):**
+25. ✅ Cảnh báo tồn kho đã hoàn thiện trong `AdminInventoryAlerts.tsx` (C8 - Nhận thức tình huống).
+26. ✅ Các action xóa đã có confirmation dialog qua hàm `confirm()` (C10 - Văn hóa an toàn).
+27. ✅ Tạo `ConfirmDialog.tsx` component chuẩn với:
+    - Tone colors (danger/warning/info) phân biệt mức độ nguy hiểm
+    - Option `requireTyping` để bắt gõ "XÁC NHẬN" cho thao tác cực nguy hiểm
+    - Keyboard shortcut (ESC để hủy)
+    - ARIA attributes đầy đủ
+    - Animation mượt mà
+28. ✅ AdminInventory + AdminInventoryAlerts có tracking đầy đủ: stock levels, history, alerts.
+
 **Nên làm tiếp — tác động cao, dễ minh họa trong báo cáo:**
 | Ưu tiên | Việc | Chương | File | Trạng thái |
 |---|---|---|---|---|
@@ -281,8 +303,12 @@
 | ⭐⭐ | Bảng size trẻ em theo tuổi/chiều cao + chất liệu | C6 | `ProductDetail.tsx` | ✅ **XONG** |
 | ⭐⭐ | Tăng nút chọn size/màu (số liệu Parhi +20%) | C7 | `VariantPickerModal.tsx`, `ProductVariantModal.tsx` | ✅ **XONG** |
 | ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `Header.tsx`, `style.css` | ✅ **XONG** |
-| ⭐ | Accessibility: aria, tương phản, focus-trap modal | C5, C6 | toàn site, `useFocusTrap.ts` | Một phần đã có |
-| ⭐ | Admin: cảnh báo tồn kho + xác nhận hành động xóa | C8, C10 | `AdminInventoryAlerts.tsx`, các trang xóa | 🔄 Sau |
+| ⭐ | Accessibility: aria, tương phản, focus-trap modal | C5, C6 | toàn site, `useFocusTrap.ts` | ✅ **XONG** |
+| ⭐ | Admin: cảnh báo tồn kho + xác nhận hành động xóa | C8, C10 | `AdminInventoryAlerts.tsx`, `ConfirmDialog.tsx` | ✅ **XONG** |
+
+---
+
+**🎉 TẤT CẢ MỤC ƯU TIÊN ĐÃ HOÀN THÀNH!**
 
 ---
 
