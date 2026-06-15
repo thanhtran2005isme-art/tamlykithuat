@@ -259,14 +259,18 @@
 6. ✅ Nhóm màu sắc theo Miller 7±2: 7 màu phổ biến + nút "Xem thêm" (C3 - Miller, C4 - Hick).
 7. ✅ Size giới hạn 5 mục (phù hợp Miller 7±2) (C3).
 
+**Đã làm (ProductDetail - Đối tượng đặc biệt trẻ em):**
+8. ✅ Bảng size trẻ em theo tuổi/chiều cao/cân nặng (C6 - Đối tượng đặc biệt).
+9. ✅ Thông tin chất liệu an toàn cho da bé (OEKO-TEX, hướng dẫn giặt) (C6 - Sức khỏe).
+
 **Nên làm tiếp — tác động cao, dễ minh họa trong báo cáo:**
 | Ưu tiên | Việc | Chương | File | Trạng thái |
 |---|---|---|---|---|
 | ⭐⭐⭐ | Thanh tiến trình "Bước n/4" + chia bước rõ | C3, C7, C10 | `Checkout.tsx`, `components/checkout/*` | ✅ **XONG** |
 | ⭐⭐⭐ | Nhóm bộ lọc theo Miller 7±2 + Hick | C3, C4 | `Products.tsx`, `ProductListPage.tsx` | ✅ **XONG** |
-| ⭐⭐ | Bảng size trẻ em theo tuổi/chiều cao + chất liệu | C6 | `ProductDetail.tsx` | 🔄 Tiếp theo |
+| ⭐⭐ | Bảng size trẻ em theo tuổi/chiều cao + chất liệu | C6 | `ProductDetail.tsx` | ✅ **XONG** |
 | ⭐⭐ | Tăng nút chọn size/màu (số liệu Parhi +20%) | C7 | `VariantPickerModal.tsx`, `ProductVariantModal.tsx` | 🔄 Tiếp theo |
-| ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `NotificationBell.tsx`, `CartContext.tsx` | 🔄 Tiếp theo |
+| ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `NotificationBell.tsx`, `Header.tsx` | 🔄 Tiếp theo |
 | ⭐ | Accessibility: aria, tương phản, focus-trap modal | C5, C6 | toàn site, `useFocusTrap.ts` | Một phần đã có |
 | ⭐ | Admin: cảnh báo tồn kho + xác nhận hành động xóa | C8, C10 | `AdminInventoryAlerts.tsx`, các trang xóa | 🔄 Sau |
 

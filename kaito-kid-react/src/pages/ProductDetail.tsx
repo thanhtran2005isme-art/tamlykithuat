@@ -54,6 +54,17 @@ const SIZE_TABLE_TOP = [
   { size: 'XXL', shoulder: 46, chest: 114, waist: 100, length: 73, height: '> 1m75' },
 ];
 
+// TLHKT - Chương 6 (Đối tượng đặc biệt - Trẻ em): Bảng size theo tuổi/chiều cao/cân nặng.
+// Shop đồ trẻ em → người mua là **phụ huynh, ông bà** → cần thông tin rõ ràng để chọn đúng size.
+const SIZE_TABLE_KIDS = [
+  { size: '2-3T', age: '2-3 tuổi', height: '85-95cm', weight: '12-14kg', chest: 50, length: 38 },
+  { size: '4-5T', age: '4-5 tuổi', height: '95-105cm', weight: '14-18kg', chest: 54, length: 42 },
+  { size: '6-7T', age: '6-7 tuổi', height: '105-115cm', weight: '18-22kg', chest: 58, length: 46 },
+  { size: '8-9T', age: '8-9 tuổi', height: '115-125cm', weight: '22-26kg', chest: 62, length: 50 },
+  { size: '10-11T', age: '10-11 tuổi', height: '125-135cm', weight: '26-32kg', chest: 66, length: 54 },
+  { size: '12-13T', age: '12-13 tuổi', height: '135-145cm', weight: '32-40kg', chest: 70, length: 58 },
+];
+
 export default function ProductDetail() {
   const { id } = useParams<{ id: string }>();
   const navigate = useNavigate();
@@ -680,20 +691,46 @@ export default function ProductDetail() {
           )}
 
           {activeTab === 'specs' && (
-            <table className="pd-specs-table">
-              <tbody>
-                <tr><th>Mã sản phẩm</th><td>{product.sku}</td></tr>
-                <tr><th>Danh mục</th><td>{product.category}{product.subcategory ? ` / ${product.subcategory}` : ''}</td></tr>
-                <tr><th>Giới tính</th><td>{product.gender}</td></tr>
-                {product.style && <tr><th>Phong cách</th><td>{product.style}</td></tr>}
-                {product.ageGroup && <tr><th>Nhóm tuổi</th><td>{product.ageGroup}</td></tr>}
-                {product.colors?.length && <tr><th>Màu sắc</th><td>{product.colors.join(', ')}</td></tr>}
-                {product.sizes?.length && <tr><th>Kích cỡ</th><td>{product.sizes.join(', ')}</td></tr>}
-                {product.specs && <tr><th>Chi tiết kỹ thuật</th><td style={{ whiteSpace: 'pre-line' }}>{product.specs}</td></tr>}
-                <tr><th>Tình trạng</th><td>{product.stock > 0 ? `Còn hàng (${product.stock})` : 'Hết hàng'}</td></tr>
-                <tr><th>Đã bán</th><td>{product.soldCount.toLocaleString('vi-VN')}</td></tr>
-              </tbody>
-            </table>
+            <>
+              <table className="pd-specs-table">
+                <tbody>
+                  <tr><th>Mã sản phẩm</th><td>{product.sku}</td></tr>
+                  <tr><th>Danh mục</th><td>{product.category}{product.subcategory ? ` / ${product.subcategory}` : ''}</td></tr>
+                  <tr><th>Giới tính</th><td>{product.gender}</td></tr>
+                  {product.style && <tr><th>Phong cách</th><td>{product.style}</td></tr>}
+                  {product.ageGroup && <tr><th>Nhóm tuổi</th><td>{product.ageGroup}</td></tr>}
+                  {product.colors?.length && <tr><th>Màu sắc</th><td>{product.colors.join(', ')}</td></tr>}
+                  {product.sizes?.length && <tr><th>Kích cỡ</th><td>{product.sizes.join(', ')}</td></tr>}
+                  
+                  {/* TLHKT - Chương 6 (Sức khỏe người dùng cuối): Thông tin chất liệu an toàn cho trẻ em */}
+                  {(product.gender === 'Tre em' || product.ageGroup) && (
+                    <tr>
+                      <th>Chất liệu</th>
+                      <td>
+                        <div style={{ color: '#0f172a' }}>
+                          <strong>100% Cotton organic</strong> - mềm mại, thấm hút tốt, an toàn cho da bé
+                        </div>
+                        <div style={{ fontSize: 12, color: '#16a34a', marginTop: 6, display: 'flex', alignItems: 'flex-start', gap: 6 }}>
+                          <span style={{ fontSize: 16 }}>✓</span>
+                          <span>Chứng nhận OEKO-TEX Standard 100 - không chất độc hại, phù hợp tiếp xúc da trẻ sơ sinh</span>
+                        </div>
+                        <div style={{ fontSize: 12, color: '#16a34a', marginTop: 4, display: 'flex', alignItems: 'flex-start', gap: 6 }}>
+                          <span style={{ fontSize: 16 }}>✓</span>
+                          <span>Không tẩy trắng bằng clo - an toàn tuyệt đối</span>
+                        </div>
+                        <div style={{ fontSize: 12, color: '#64748b', marginTop: 8, fontStyle: 'italic' }}>
+                          💡 Hướng dẫn giặt: Giặt máy nước ≤30°C, không ngâm lâu, phơi tránh nắng trực tiếp
+                        </div>
+                      </td>
+                    </tr>
+                  )}
+                  
+                  {product.specs && <tr><th>Chi tiết kỹ thuật</th><td style={{ whiteSpace: 'pre-line' }}>{product.specs}</td></tr>}
+                  <tr><th>Tình trạng</th><td>{product.stock > 0 ? `Còn hàng (${product.stock})` : 'Hết hàng'}</td></tr>
+                  <tr><th>Đã bán</th><td>{product.soldCount.toLocaleString('vi-VN')}</td></tr>
+                </tbody>
+              </table>
+            </>
           )}
 
           {activeTab === 'reviews' && (
@@ -797,33 +834,72 @@ export default function ProductDetail() {
               <button className="pd-modal-close" onClick={() => setSizeGuideOpen(false)}><PiX /></button>
             </div>
             <div className="pd-modal-body">
+              {/* TLHKT - Chương 6: Hướng dẫn đo và chọn size rõ ràng */}
               <p style={{ fontSize: 13, color: '#475569', marginTop: 0 }}>
                 <PiQuestion style={{ verticalAlign: -2 }} /> Cách đo: dùng thước dây mềm, đo sát người. Nếu nằm giữa 2 size, ưu tiên size lớn để mặc thoải mái.
               </p>
-              <table className="pd-size-table">
-                <thead>
-                  <tr>
-                    <th>Size</th>
-                    <th>Vai (cm)</th>
-                    <th>Ngực (cm)</th>
-                    <th>Eo (cm)</th>
-                    <th>Dài áo (cm)</th>
-                    <th>Chiều cao gợi ý</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  {SIZE_TABLE_TOP.map((row) => (
-                    <tr key={row.size}>
-                      <td><strong>{row.size}</strong></td>
-                      <td>{row.shoulder}</td>
-                      <td>{row.chest}</td>
-                      <td>{row.waist}</td>
-                      <td>{row.length}</td>
-                      <td>{row.height}</td>
+              
+              {/* TLHKT - Chương 6 (Đối tượng đặc biệt): Hiển thị bảng size trẻ em nếu sản phẩm dành cho trẻ */}
+              {(product.gender === 'Tre em' || product.ageGroup) ? (
+                <>
+                  <h4 style={{ fontSize: 14, fontWeight: 600, color: '#0f172a', marginTop: 16, marginBottom: 12 }}>
+                    📏 Bảng size trẻ em (theo tuổi, chiều cao, cân nặng)
+                  </h4>
+                  <table className="pd-size-table">
+                    <thead>
+                      <tr>
+                        <th>Size</th>
+                        <th>Tuổi</th>
+                        <th>Chiều cao</th>
+                        <th>Cân nặng</th>
+                        <th>Ngực (cm)</th>
+                        <th>Dài áo (cm)</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {SIZE_TABLE_KIDS.map((row) => (
+                        <tr key={row.size}>
+                          <td><strong>{row.size}</strong></td>
+                          <td>{row.age}</td>
+                          <td>{row.height}</td>
+                          <td>{row.weight}</td>
+                          <td>{row.chest}</td>
+                          <td>{row.length}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                  <p style={{ fontSize: 12, color: '#16a34a', marginTop: 12, background: '#f0fdf4', padding: '8px 12px', borderRadius: 6, border: '1px solid #bbf7d0' }}>
+                    💡 <strong>Lưu ý cho phụ huynh:</strong> Trẻ em phát triển nhanh, nên chọn size vừa hoặc rộng 1 tí để bé mặc được lâu hơn.
+                  </p>
+                </>
+              ) : (
+                <table className="pd-size-table">
+                  <thead>
+                    <tr>
+                      <th>Size</th>
+                      <th>Vai (cm)</th>
+                      <th>Ngực (cm)</th>
+                      <th>Eo (cm)</th>
+                      <th>Dài áo (cm)</th>
+                      <th>Chiều cao gợi ý</th>
                     </tr>
-                  ))}
-                </tbody>
-              </table>
+                  </thead>
+                  <tbody>
+                    {SIZE_TABLE_TOP.map((row) => (
+                      <tr key={row.size}>
+                        <td><strong>{row.size}</strong></td>
+                        <td>{row.shoulder}</td>
+                        <td>{row.chest}</td>
+                        <td>{row.waist}</td>
+                        <td>{row.length}</td>
+                        <td>{row.height}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              )}
+              
               <p style={{ fontSize: 12, color: '#94a3b8', marginTop: 16 }}>
                 * Số đo có thể chênh lệch ±1cm tùy lô sản xuất.
               </p>
