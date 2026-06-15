@@ -79,6 +79,9 @@ export default function ProductListPage({
   const [activeColors, setActiveColors] = useState<Set<string>>(new Set());
   const [minRating, setMinRating] = useState(0);
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false);
+  
+  // TLHKT - Chương 3 (Miller 7±2): State để hiển thị thêm màu khi cần
+  const [showMoreColors, setShowMoreColors] = useState(false);
 
   // Categories từ DB (load 1 lần)
   const [categories, setCategories] = useState<string[]>([]);
@@ -339,8 +342,23 @@ export default function ProductListPage({
             </FilterGroup>
 
             <FilterGroup title="Màu sắc">
+              {/* TLHKT - Chương 3 (Miller 7±2): Hiển thị 7 màu phổ biến đầu tiên.
+                  TLHKT - Chương 4 (Hick): Giảm số lựa chọn ban đầu → tăng tốc quyết định. */}
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
-                {COLORS.map((c) => (
+                {COLORS_POPULAR.map((c) => (
+                  <button
+                    key={c}
+                    onClick={() => toggleSet(activeColors, c, setActiveColors)}
+                    style={{
+                      padding: '4px 10px',
+                      border: `1.5px solid ${activeColors.has(c) ? '#ec4899' : '#e5e7eb'}`,
+                      background: activeColors.has(c) ? '#fdf2f8' : '#fff',
+                      color: activeColors.has(c) ? '#be185d' : '#475569',
+                      borderRadius: 6, cursor: 'pointer', fontSize: 12,
+                    }}
+                  >{c}</button>
+                ))}
+                {showMoreColors && COLORS_MORE.map((c) => (
                   <button
                     key={c}
                     onClick={() => toggleSet(activeColors, c, setActiveColors)}
@@ -354,6 +372,19 @@ export default function ProductListPage({
                   >{c}</button>
                 ))}
               </div>
+              {!showMoreColors && (
+                <button
+                  onClick={() => setShowMoreColors(true)}
+                  style={{
+                    marginTop: 8, padding: '4px 8px', background: 'none',
+                    border: '1px solid #e5e7eb', borderRadius: 4,
+                    color: '#64748b', fontSize: 11, cursor: 'pointer',
+                    display: 'flex', alignItems: 'center', gap: 4,
+                  }}
+                >
+                  <PiCaretDownBold /> Xem thêm màu ({COLORS_MORE.length})
+                </button>
+              )}
             </FilterGroup>
 
             <FilterGroup title="Đánh giá tối thiểu">
