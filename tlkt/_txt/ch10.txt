@@ -1,0 +1,342 @@
+                   Bài 10: Quản lý rủi ro và đánh giá lao động
+
+       Sau khi học xong Bài 10, người học có khả năng:
+     CLO6: Trình bày những vấn đề về lao động kỹ thuật, ứng dung tâm lý học
+ vào lao động kỹ thuật, tổ chức lao động khoa học, rủi ro trong lao động.
+     CLO9: Đề xuất giải pháp tổ chức quá trình lao động khoa học, quản lý rủi ro
+ trên cơ sở ứng dụng tâm lý học.
+    CLO10: Phát triển kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ
+ năng tư duy sáng tạo, tư duy hệ thống.
+      CLO13: Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ thuật. Ý
+ thức được giá trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật trong mối
+ liên hệ với tự nhiên, con người và xã hội nhằm định hướng đến sự phát triển bền
+ vững.
+
+
+       4.6. Quá tải và căng thẳng trong lao động
+       4.6.1. Nguồn gốc căng thẳng và quá tải nhận thức trong môi trường công
+việc
+       * Khái niệm căng thẳng
+       Căng thẳng (hay stress) là một trạng thái tâm lý và sinh lý mà cơ thể trải qua
+khi đối mặt với các tình huống đe dọa, thử thách hoặc thay đổi.
+       * Các thành phần của căng thẳng
+       + Yếu tố gây căng thẳng (Stressors)
+       Yếu tố gây căng thẳng là những sự kiện hoặc tình huống kích hoạt phản ứng
+căng thẳng. Chúng có thể là yếu tố bên ngoài ví dụ như áp lực công việc, xung đột
+gia đình, các sự kiện cuộc sống lớn (ly hôn, mất người thân). Hay yếu tố bên trong
+ví dụ như suy nghĩ tiêu cực, lo lắng, kỳ vọng cao về bản thân.
+       + Phản ứng căng thẳng
+       Phản ứng thể chất: Nhịp tim tăng, huyết áp cao, căng cơ, đổ mồ hôi.
+       Phản ứng tâm lý: Lo lắng, sợ hãi, mất tập trung, cảm giác choáng ngợp.
+
+                                             1
+        Phản ứng hành vi: Thay đổi thói quen ăn uống, giấc ngủ, tăng sử dụng chất
+kích thích (như rượu, thuốc lá).
+        + Ảnh hưởng của căng thẳng
+        Ảnh hưởng ngắn hạn, căng thẳng có thể giúp cá nhân tập trung và đối phó với
+các tình huống khó khăn. Đây là phản ứng "chiến đấu hoặc bỏ chạy" (fight or flight)
+của cơ thể. Ảnh hưởng dài hạn, khi căng thẳng kéo dài, nó có thể dẫn đến các vấn
+đề sức khỏe nghiêm trọng như: mặc các bệnh tâm lý như trầm cảm, lo âu, rối loạn
+giấc ngủ, hay các bệnh về thể chất: Bệnh tim mạch, hệ miễn dịch suy yếu, các vấn
+đề tiêu hóa.
+        * Căng thẳng trong công việc có thể đến từ nhiều yếu tố1, bao gồm: 1) Đến từ
+công việc; 2) Căng thẳng từ quan hệ đồng nghiệp môi trường làm việc; 3) Căng
+thẳng từ yếu tố tổ chức và 4) Căng thẳng từ phía cá nhân.
+        1) Căng thẳng đến từ công việc có thể do: quá tải trong công việc hoặc đến từ
+sự đơn điệu của công việc.
+        2) Căng thẳng từ quan hệ đồng nghiệp môi trường làm việc thiếu thân thiện,
+cạnh tranh không lành mạnh hoặc sự mâu thuẫn giữa các đồng nghiệp.
+         3) Căng thẳng từ yếu tố tổ chức như các quy định nghiêm ngặt, thiếu sự rõ
+ràng trong hướng dẫn nhiệm vụ và không có sự hỗ trợ từ cấp trên.
+        4) Căng thẳng từ phía cá nhân: Các vấn đề cá nhân như gia đình, tài chính hoặc
+sức khỏe cũng có thể gây ra căng thẳng và ảnh hưởng đến công việc.
+        4.6.2. Chiến lược quản lý căng thẳng và quá tải nhận thức
+        - Thiết kế công việc hợp lý
+        + Cần rà soát và điều chỉnh các yêu cầu công việc, đảm bảo phù hợp với năng
+lực của nhân viên. Tăng cường sự tự chủ, tự quyết định và cơ hội phát triển kỹ năng.
+
+
+         1
+         Borman, W. C., Ilgen, D. R., & Klimoski, R. J. (2003). Handbook of psychology: Industrial and organizational
+psychology (Vol. 12). Hoboken, NJ: John Wiley & Sons.
+
+                                                              2
+       + Thiết kế công việc theo hướng đa dạng hóa các nhiệm vụ và trách nhiệm có
+thể giúp giảm tính đơn điệu.
+       - Cải thiện giao tiếp và hỗ trợ: Tăng cường sự rõ ràng về vai trò, trách nhiệm
+và mục tiêu công việc. Xây dựng văn hóa hỗ trợ và phối hợp nhóm tốt.
+       - Cung cấp nguồn lực và đào tạo: Đảm bảo nhân viên có đủ thời gian, công cụ,
+kỹ năng và hỗ trợ cần thiết để hoàn thành công việc.
+       - Khuyến khích sự cân bằng công việc và cuộc sống: Thúc đẩy các hoạt động
+tái tạo năng lượng và giảm căng thẳng như nghỉ ngơi, tập thể dục, các hoạt động giải
+trí.
+       - Xây dựng chiến lược quản lý cá nhân: Giúp nhân viên phát triển kỹ năng
+quản lý thời gian, ưu tiên công việc và kiểm soát căng thẳng.
+Bằng việc áp dụng các chiến lược này, các tổ chức có thể quản lý hiệu quả căng
+thẳng và quá tải nhận thực, đảm bảo sức khỏe và hiệu suất tối ưu cho nhân viên.
+       4.7. Quản lý, đánh giá tai nạn trong lao động
+       4.7.1. Phân tích tai nạn của con người trong lao động
+       Trong tâm lý học, lỗi không chỉ đơn thuần là hành động sai sót hay vi phạm
+một quy tắc mà còn bao gồm những chiều sâu về nhận thức, cảm xúc và động lực
+của con người. Lỗi là một hành động hoặc quyết định gây ra kết quả không mong
+đợi hoặc không đạt yêu cầu. Lỗi có thể xuất phát từ những hạn chế của con người về
+nhận thức, kỹ năng, thông tin hoặc do ảnh hưởng từ các yếu tố môi trường. Lỗi của
+con người là một trong những nguyên nhân chính dẫn đến các sự cố, tai nạn trong
+công nghiệp và tổ chức.
+       Việc phân tích các dạng lỗi này giúp các nhà quản lý và chuyên gia tâm lý học
+kỹ thuật có thể đề ra các biện pháp phòng ngừa và kiểm soát rủi ro hiệu quả hơn.
+       - Các loại tai nạn khi làm việc với hệ thống kỹ thuật
+
+
+
+                                              3
+      + Tai nạn do lỗi thiết bị (Equipment Failures): Tai nạn xảy ra khi thiết bị không
+hoạt động đúng chức năng, dẫn đến nguy hiểm cho nhân viên. Ví dụ: Một máy CNC
+trong nhà máy sản xuất bị trục trặc kỹ thuật, gây ra tình trạng quá tải và làm rơi vật
+liệu nặng, gây thương tích nghiêm trọng.
+      + Tai nạn do thiếu đào tạo (Lack of Training): Nhân viên không được đào tạo
+đầy đủ về cách sử dụng và bảo trì thiết bị kỹ thuật, dẫn đến các tai nạn do sử dụng
+sai cách. Ví dụ: Nhân viên mới vô tình kích hoạt một cánh tay robot trong nhà máy
+khi chưa biết cách tắt khẩn cấp, gây ra tai nạn nghiêm trọng.
+      + Tai nạn do quá sức lao động (Overexertion): Làm việc quá giờ và không có
+thời gian nghỉ ngơi hợp lý khiến nhân viên mệt mỏi, giảm khả năng tập trung và dễ
+mắc lỗi. Ví dụ: Một kỹ sư phần mềm làm việc liên tục trong nhiều giờ liền, kết quả
+là vô tình xóa dữ liệu quan trọng của khách hàng.
+      + Tai nạn do quản lý kém (Poor Management): Quản lý không hiệu quả hoặc
+thiếu sự giám sát cũng có thể dẫn đến các tai nạn do nhân viên không tuân thủ các
+quy định an toàn. Ví dụ: Không kiểm tra định kỳ và bảo dưỡng thiết bị dẫn đến việc
+máy móc phát nổ hoặc trục trặc gây thương tích cho nhân viên.
+      + Tai nạn do yếu tố môi trường: Điều kiện làm việc không thích hợp như tiếng
+ồn lớn, ánh sáng kém hoặc nhiệt độ quá lạnh hoặc quá nóng cũng có thể gây ra lỗi.
+Ví dụ, công nhân làm việc trong điều kiện tiếng ồn lớn có thể khó nghe rõ các chỉ
+đạo từ đồng đội, dẫn đến việc thực hiện sai nhiệm vụ. Hay công nhân làm việc trong
+điều kiện ánh sáng yếu đã làm rơi công cụ, gây ra chấn thương cho bản thân và đồng
+nghiệp xung quanh.
+      + Tai nạn do sai lầm con người (Human Errors): Bao gồm các sai lầm như
+thao tác sai, quên bước quan trọng, làm việc không hiệu quả do căng thẳng tâm lý.
+Ví dụ: Một nhân viên y tế tiêm nhầm loại thuốc cho bệnh nhân do không kiểm tra
+kỹ thông tin.
+
+                                              4
+      - Nguyên nhân dẫn đến tai nạn
+      1. Nguyên nhân cá nhân
+      + Căng thẳng kéo dài và mệt mỏi làm giảm khả năng tập trung và phản xạ, dẫn
+đến dễ mắc lỗi
+      + Nhân viên thiếu kinh nghiệm thường dễ mắc sai lầm hơn trong quá trình
+thao tác kỹ thuật.
+      + Sức khỏe không ổn định cũng ảnh hưởng đến khả năng thực hiện công việc.
+      2. Nguyên nhân tổ chức
+      + Đào tạo không đầy đủ hoặc không có kế hoạch đào tạo liên tục sẽ dẫn đến
+sự thiếu hiểu biết và kỹ năng của nhân viên về thiết bị và quy trình.
+      + Thiếu sự chỉ đạo và giám sát từ quản lý có thể tạo ra môi trường làm việc
+thiếu tổ chức và không an toàn.
+      3. Nguyên nhân môi trường
+      + Ánh sáng, âm thanh, và nhiệt độ không phù hợp làm giảm khả năng làm việc
+của nhân viên.
+      + Thiết bị không đạt tiêu chuẩn hoặc không được bảo dưỡng định kỳ.
+      + Mối nguy hiểm về thể chất: Những mối nguy hiểm về thể chất do môi trường
+chung và hoạt động của máy móc hạng nặng gây ra bao gồm nguy cơ té ngã, bỏng,
+điện giật…
+      + Mối nguy hiểm về độ cao: Một trong những nguyên nhân hàng đầu gây
+thương tích và ảnh hưởng tính mạng ở người lao động là trượt chân, vấp ngã và té
+ngã. Điều này gây ra rủi ro nghiêm trọng cho tất cả nhân viên làm việc tại các cơ sở
+sản xuất.
+      + Các mối nguy hiểm về điện: Các mối nguy hiểm về điện như các chất dễ nổ
+hoặc dễ cháy và mạch điện quá tải, máy móc lắp đặt không đúng cách, hệ thống dây
+điện hở… có nguy cơ khiến nhân viên bị giật hoặc thậm chí gây cháy.
+
+                                             5
+      + Sự cố từ máy móc, thiết bị: Nguyên nhân chính dẫn đến các mối nguy hiểm
+tiềm ẩn là sử dụng một số loại thiết bị và máy móc hạng nặng như máy khoan hướng
+tâm, máy cắt, máy ép điện, máy phay, cưa, dụng cụ điện…
+      + Mối nguy hiểm hóa học: Những mối nguy hiểm hóa học bao gồm việc sử
+dụng các hóa chất nguy hiểm như dung dịch tẩy rửa ăn da, axit hay các chất dễ cháy
+như ethanol…
+      + Mối nguy hiểm sinh học: Nấm mốc, vi khuẩn và vi rút là những ví dụ về
+mối nguy hiểm sinh học.
+      + Mối nguy hiểm về cơ học: Chuyển động lặp đi lặp lại, nâng vật nặng và tiếp
+xúc với các rung động lặp đi lặp lại hoặc tiếng ồn lớn có thể gây tổn hại lâu dài cho
+sức khỏe của nhân viên.
+      + Mối nguy hiểm từ sơ suất như:
+      Bảo trì kém: Việc thiếu lịch bảo trì hoặc quy trình bảo trì không đúng sẽ làm
+tăng nguy cơ tai nạn và thương tích trong cơ sở sản xuất theo cấp số nhân.
+      Sự vô ý, sơ suất: Phần lớn các mối nguy hiểm, tai nạn và thương tích của cơ
+sở sản xuất xảy ra tại nơi làm việc thường là kết quả của các hành động vô ý, sơ suất.
+      4.7.2. Phòng ngừa và đánh giá tai nạn
+      Để ngăn ngừa và giảm thiểu tai nạn do lỗi của con người gây ra, các biện pháp
+sau đây cần được thực hiện:
+      Đào tạo, nâng cao kỹ năng cho người lao động: Cung cấp đầy đủ kiến thức,
+kỹ năng về an toàn, quy trình vận hành thiết bị, đồng thời rèn luyện các kỹ năng nhận
+thức, ra quyết định và thực hiện công việc chính xác.
+      Thiết kế môi trường làm việc an toàn: Cải thiện điều kiện làm việc, giảm thiểu
+các yếu tố gây mệt mỏi, phân tâm. Sử dụng công nghệ, thiết bị an toàn, đảm bảo tính
+nhân trắc học của các thiết bị, công cụ lao động.
+
+
+
+                                             6
+      Xây dựng văn hóa an toàn trong tổ chức: Tăng cường cam kết, trách nhiệm
+của lãnh đạo và nhân viên về an toàn. Khuyến khích báo cáo, chia sẻ thông tin về
+các rủi ro, sự cố để kịp thời có biện pháp phòng ngừa.
+      Thiết lập hệ thống theo dõi, đánh giá tai nạn: Nghiên cứu kỹ các trường hợp
+tai nạn, sự cố để nhận diện các nguyên nhân, đề ra biện pháp khắc phục. Thường
+xuyên rà soát, cập nhật các quy trình, quy định an toàn phù hợp với thực tế.
+      Việc áp dụng đồng bộ các biện pháp trên sẽ giúp tổ chức nâng cao hiệu quả
+phòng ngừa và quản lý rủi ro do lỗi của con người gây ra, đảm bảo an toàn cho người
+lao động cũng như hoạt động sản xuất kinh doanh.
+      Cụ thể chi tiết các biện pháp như sau2:
+      1. Xác định và đánh giá rủi ro
+      Bước đầu tiên để giải quyết vấn đề an toàn trong sản xuất là xác định và đánh
+giá rủi ro có thể xảy ra. Việc phân tích, nhận biết các nguồn nguy cơ tiềm ẩn về an
+toàn và biện pháp khắc phục là quan trọng trong vấn dự phòng để giảm thiểu rủi ro.
+      2. Báo cáo về các điều kiện không an toàn
+      Khi nhận biết điều kiện làm việc không an toàn, bao gồm môi trường và thiết
+bị làm việc bị hư hỏng, nhân viên cần thông báo cho ban quản lý. Trong trường hợp
+đặc biệt, khẩn cấp, nhân viên cần tuân theo quy trình khóa hoặc gắn thẻ cách ly. Nhà
+quản lý cần nhận biết sớm và có những biện pháp để ngăn ngừa thương tích.
+      3. Sử dụng máy móc, thiết bị, dụng cụ đúng cách
+      Sử dụng sai công cụ và máy móc là một trong những nguyên nhân phổ biến
+nhất gây thương tích tại nơi làm việc. Do đó, cần đảm bảo cách sử dụng mọi thiết bị
+để vận hành và chỉ sử dụng từng công cụ cho mục đích đã định.
+      4. Sử dụng thiết bị bảo hộ cá nhân (PPE)
+
+
+
+      2
+          https://vti-solutions.vn/09-bien-phap-vang-dam-bao-an-toan-trong-san-xuat/
+                                                            7
+      Thiết bị bảo hộ cá nhân (PPE) có thể bảo vệ nhân viên khỏi các chất độc hại
+và vật sắc nhọn khi họ vận chuyển vật liệu và vận hành thiết bị nặng. Thiết lập các
+yêu cầu đối với các chuyên gia phải mặc đồ bảo hộ trước khi vào nơi làm việc. Biện
+pháp này có thể bao gồm bảo vệ thính giác, bảo vệ mắt, găng tay phù hợp với nhiệm
+vụ, quần áo bảo hộ và nhu cầu về mặt nạ phòng độc. PPE phải được trang bị phù
+hợp và người vận hành cần được đào tạo về cách sử dụng PPE đúng cách để đảm
+bảo nó hoạt động hiệu quả và cung cấp các biện pháp bảo vệ cần thiết.
+      5. Đảm bảo lắp đặt đúng các cơ chế bảo vệ
+      Tất cả các cơ sở sản xuất phải được thiết kế để đảm bảo an toàn tại nơi làm
+việc. Ví dụ, máy tạo hình tấm và thiết bị cắt plasma được trang bị bộ phận bảo vệ và
+tính năng an toàn để bảo vệ ngón tay của người lao động. Hay các khu vực cần bảo
+vệ bao gồm băng tải, trục lăn, xích và bánh răng, dây đai và ròng rọc, máy ép… Điều
+quan trọng là tấm chắn phải được lắp đặt sao cho không dễ dàng tháo rời. Tương tự,
+xung quanh khu vực làm việc cần được bảo vệ bằng lan can và rào chắn và chỉ cho
+phép những công nhân có phận sự mới được vào khu vực.
+      6. Triển khai văn hóa an toàn
+      Duy trình sự an toàn hàng ngày tại nơi làm việc bằng cách kết hợp việc ngăn
+ngừa tai nạn vào văn hóa công ty. Đảm bảo rằng vấn đề an toàn được nêu bật ngay
+từ ngày đầu đào tạo nhân viên và hướng dẫn nhân viên cách xác định và báo cáo các
+vấn đề an toàn. Xây dựng cho đội ngũ nhân sự hiểu về trách nhiệm duy trì sự an toàn
+tại nơi làm việc và khuyến khích tất cả các nhân viên báo cáo nếu họ thấy có vấn đề
+về an toàn. Tổ chức các cuộc họp về vấn đề an toàn trong sản xuất thường xuyên với
+đội ngũ nhân viên.
+      Một phương pháp hiệu quả để thực hiện văn hóa an toàn trong sản xuất là tuân
+theo phương pháp 6s , một phương pháp bắt nguồn từ ngành sản xuất nhằm thúc đẩy
+năng suất và thiết lập các hướng dẫn và quy trình rõ ràng. Thuật ngữ này được xây
+
+                                            8
+dựng dựa trên phương pháp 5S ban đầu, bao gồm các nguyên tắc sắp xếp, sắp xếp,
+sàng lọc, tiêu chuẩn hóa và duy trì. Tuy nhiên, phương pháp 6S bổ sung thêm yếu tố
+an toàn.
+        7. Đào tạo về an toàn trong sản xuất
+        Với mức độ rủi ro cao liên quan đến công việc sản xuất, các nhà quản lý cần
+đảm bảo rằng nhân viên được đào tạo đầy đủ để thực hiện công việc một cách an
+toàn. Và có một hệ thống cho phép người sử dụng lao động theo dõi những khóa học
+đào tạo nào đã được hoàn thành và cung cấp cho nhân viên quyền truy cập dễ dàng
+vào các tài nguyên đào tạo đó.
+        Người vận hành phải được đào tạo về cách sử dụng thiết bị một cách an toàn
+trong quá trình sản xuất. Các thủ tục an toàn rõ ràng phải được người vận hành viết
+ra và ký tên. Điều này đảm bảo rằng họ hiểu chương trình đào tạo và đồng ý sử dụng
+thiết bị như dự định. Bất kỳ lỗ hổng nào trong quá trình đào tạo phải được giải quyết
+ngay lập tức và được các nhà điều hành xác nhận lại.
+        8. Giám sát môi trường làm việc
+        Việc đảm bảo lối vào và lối ra nơi làm việc không bị lộn xộn không chỉ quan
+trọng trong việc ngăn ngừa các mối nguy hiểm về an toàn hỏa hoạn mà còn quan
+trọng đối với môi trường làm việc hàng ngày. Khái niệm tương tự này cũng áp dụng
+cho các khu vực chung, như lối đi làm việc hoặc sàn sản xuất. Cần chú ý đến khu
+vực sản xuất để xác định và giảm thiểu rủi ro về an toàn trước khi tai nạn có thể xảy
+ra. Nếu một mối nguy hiểm tiềm ẩn cần có sự chú ý của người giám sát và thông báo
+mối nguy hiểm đó cho người khác trước khi rời khỏi khu vực để ngăn ngừa thương
+tích.
+        9. Dán nhãn khu vực nguy hiểm
+
+
+
+
+                                               9
+Các khu vực nguy hiểm tồn tại trong nhiều ngành công nghiệp và cơ sở. Việc đặt
+đúng các biển báo và nhãn cho những khu vực có thể có vấn đề hoặc gây thương tích
+là điều quan trọng để duy trì sự an toàn cho mọi người.
+
+
+
+
+                   CÂU HỎI ÔN TẬP VÀ BÀI TẬP CỦNG CỐ
+   1. Phân tích những nguyên nhân gây ra tai nạn lao động.
+   2. Bạn hãy chọn một lĩnh vực kỹ thuật cụ thể phù hợp với chuyên ngành
+       (ví dụ: cơ khí chế tạo máy, điện tử công nghiệp, công nghệ thông tin,...).
+   - Mô tả một tình huống lao động trong lĩnh vực đó có nguy cơ xảy ra tai nạn
+       lao động (ví dụ: lỗi thao tác máy móc, chập điện, ngã cao...).
+   - Phân tích các yếu tố tâm lý - kỹ thuật có thể gây ra tai nạn trong tình huống
+       đó (ví dụ: quá tải nhận thức, mất tập trung, giao diện máy phức tạp, thiếu cảnh
+       báo...).
+   -   Đề xuất những biện pháp cụ thể để ngăn ngừa tai nạn lao động.
+
+
+
+
+                                             10
+                   TÀI LIỆU THAM KHẢO CHƯƠNG 4
+[1] Anderson, J. R. (1996). ACT: A simple theory of complex cognition.
+    American Psychologist, 51(4), 355.
+[2] Bertalanffy,   L.   (1968).   General   System   Theory:    Foundations,
+    Development, Applications. George Braziller.
+[3] Borman, W. C., Ilgen, D. R., & Klimoski, R. J. (2003). Handbook of
+    psychology: Industrial and organizational psychology (Vol. 12).
+    Hoboken, NJ: John Wiley & Sons.
+[4] Brown, D. R., & Green, L. A. (2019). Climate control in office
+    environments. Occupational Health Review.
+[5] Card, S. K., Moran, T. P., & Newell, A. (1980). The keystroke-level model
+    for user performance time with interactive systems. Communications of
+    the ACM, 23(7), 396-410.
+[6] Card, S. K., Moran, T. P., & Newell, A. (1983). The Psychology of
+    Human-Computer Interaction. Lawrence Erlbaum Associates.
+[7] Herzberg, F., Mausner, B., & Snyderman, B. B. (1959). The Motivation
+    to Work. John Wiley & Sons Inc.
+[8] Kanse, L., & van der Schaaf, T. W. (2001). Recovery from failures in the
+    chemical process industry. Journal of Hazardous Materials, 83(3), 289-
+    305.
+[9] Kim, S. J., & Lee, Y. J. (2021). Organizational culture and innovation.
+    Management Science.
+[10] Klein, G. (1998). Sources of power: How people make decisions. MIT
+    Press.
+
+
+
+                                      11
+[11] Lee, K. W., & Chen, A. (2020). Noise and its effects on work efficiency.
+     International Journal of Occupational Safety and Ergonomics.
+[12] Lewin, K. (1943). Defining the "Field at a Given Time". Psychological
+     Review.
+[13] Norman, D. A. (2013). The design of everyday things: Revised and
+     expanded edition. Basic Books.
+[14] Northouse, P. G. (2018). Leadership: Theory and practice. Sage
+     Publications.
+[15] Reason, J. (1990). Human error. Cambridge University Press.
+[16] Salas, E., Bowers, C. A., & Rhodenizer, L. (2008). It is not how much you
+     have but how you use it: Toward a rational use of simulation to support
+     aviation training. The International Journal of Aviation Psychology, 8(3),
+     197-208.
+[17] Salas, E., Rosen, M. A., Held, J. D., & Weissmuller, J. J. (2009).
+     Performance measurement in simulation-based training: A review and
+     best practices. Simulation & Gaming.
+[18] Smith, A., & Jones, B. (2018). The impact of natural light on workplace
+     productivity. Journal of Environmental Psychology.
+[19] Taylor, F. W. (1911). The Principles of Scientific Management. Harper &
+     Brothers.
+[20] Tsai, M. H., & Wu, C. (2019). Interpersonal relationships at work. Journal
+     of Managerial Psychology, 34(5), 354-370.
+
+
+
+
+                                      12
+

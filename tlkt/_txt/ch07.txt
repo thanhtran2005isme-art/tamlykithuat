@@ -1,0 +1,289 @@
+                    GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+          Bài 7: Ứng dụng thực tiễn của tâm lý học trong thiết kế kỹ thuật
+
+
+          Sau khi học xong Bài 7, sinh viên có khả năng:
+        CLO5: Trình bày được sự ứng dụng tâm lý học để tối ưu hóa các thiết kế
+  kỹ thuật đảm bảo: tính nhân văn, đạo đức kỹ thuật; sức khỏe, an toàn, môi
+  trường; phù hợp đối tượng sử dụng, vận hành.
+        CLO8: Hình thành được ý tưởng tối ưu hóa thiết kế kỹ thuật trên cơ sở
+  ứng dụng tâm lý học;
+        CLO10: Có kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ năng
+  tư duy sáng tạo, tư duy hệ thống.
+         CLO13: Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ
+  thuật. Ý thức được giá trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật
+  trong mối liên hệ với tự nhiên, con người và xã hội nhằm định hướng đến sự
+  phát triển bền vững.
+
+
+        3.5. Những trường hợp điển hình trong tối ưu hóa thiết kế kỹ thuật
+      Tối ưu hóa trong thiết kế kỹ thuật là quá trình điều chỉnh và cải thiện các yếu
+tố của một hệ thống, thiết bị, sản phẩm hoặc quy trình nhằm đạt được hiệu suất tốt
+nhất có thể. Điều này có thể liên quan đến việc giảm thiểu chi phí, cải thiện hiệu suất
+hoạt động, hoặc tối đa hóa sức chứa hoặc tuổi thọ của hệ thống hoặc sản phẩm.
+      Quá trình này thường bao gồm việc đánh giá các lựa chọn thiết kế khác nhau,
+phân tích hiệu quả của từng giải pháp và lựa chọn tùy chọn tốt nhất phù hợp với các
+ràng buộc và yêu cầu của vấn đề cụ thể.
+     Tối ưu hóa có thể áp dụng cho hầu hết các lĩnh vực của kỹ thuật, từ thiết kế
+máy móc, vi mạch, tới quy trình sản xuất và hệ thống giao thông vận tải.
+      Sức mạnh của tối ưu hóa trong thiết kế kỹ thuật nằm ở khả năng nó tìm ra giải
+pháp tốt nhất cho vấn đề, thay vì chỉ cải thiện một cách tuỳ tiện hoặc tạo ra một giải
+pháp đủ tốt.
+     Trong lĩnh vực tối ưu hóa thiết kế kỹ thuật, có một số trường hợp điển hình mà
+chuyên gia tâm lý học kỹ thuật cần lưu ý và trình bày cụ thể như sau:
+        3.5.1. Tối ưu hóa giao diện người-máy
+      Thiết kế giao diện người-máy thân thiện, dễ sử dụng và tương thích với năng
+lực của con người.
+        Tối ưu hóa các yếu tố như bố trí, màu sắc, phản hồi và độ phức tạp của giao
+diện.
+                                               1
+                                 GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      Đảm bảo sự liên kết giữa các thành phần giao diện với hoạt động và quy trình
+của người dùng.
+           Ví dụ: Bàn phím cảm ứng trên điện thoại thông minh
+      Các nghiên cứu về tâm lý học kỹ thuật đã chỉ ra rằng giao diện bàn phím
+truyền thống không phù hợp với đặc điểm của ngón tay con người, dẫn đến khó sử
+dụng, chính xác kém và tốc độ nhập liệu chậm (Parhi et al., 2006)1. Nghiên cứu của
+Parhi et al. (2006) cho thấy thiết kế này giúp người dùng nhập liệu nhanh hơn 20% và
+chính xác hơn 12% so với bàn phím truyền thống. Điều này minh chứng cho việc áp
+dụng các nguyên tắc tâm lý học kỹ thuật trong thiết kế giao diện có thể giúp cải thiện
+hiệu suất và trải nghiệm người dùng đáng kể. Để tối ưu hóa giao diện bàn phím cảm
+ứng, các nhà thiết kế đã áp dụng các nguyên tắc như tăng kích thước phím, tăng
+khoảng cách giữa các phím, sử dụng các hiệu ứng xúc giác và thị giác để tăng độ
+chính xác. Thiết kế bàn phím cảm ứng tối ưu với kích thước phím lớn, khoảng cách
+phù hợp và các hiệu ứng xúc giác.
+          3.5.2. Tối ưu hóa trải nghiệm người dùng
+           Thiết kế sao cho tạo ra trải nghiệm tích cực, dễ chịu và hiệu quả cho người
+dùng.
+       Xem xét các yếu tố như sự dễ dàng, độ chính xác, tốc độ và độ tin cậy trong
+quá trình sử dụng.
+       Áp dụng các nguyên tắc thiết kế lấy người dùng làm trung tâm.
+       Ví dụ: Thiết kế camera trên điện thoại thông minh
+       Các nghiên cứu về tâm lý học kỹ thuật chỉ ra rằng người dùng mong muốn có
+trải nghiệm chụp ảnh nhanh chóng, dễ dàng và tạo ra kết quả ảnh chất lượng cao
+(Schreiner et al., 2018)2. Nghiên cứu của Schreiner et al. (2018) cho thấy thiết kế này
+giúp người dùng chụp ảnh nhanh hơn 25% và đạt độ hài lòng cao hơn 30% so với
+thiết kế truyền thống. Điều này cho thấy việc áp dụng các nguyên tắc tâm lý học kỹ
+thuật trong thiết kế trải nghiệm người dùng có thể mang lại lợi ích đáng kể.
+       Để đáp ứng các yêu cầu này, các nhà thiết kế đã tối ưu hóa các thành phần như
+nút chụp ảnh, giao diện camera, xử lý ảnh và lưu trữ. Thiết kế camera trên điện thoại
+với giao diện trực quan, tích hợp các chế độ chụp ảnh phổ biến và tự động xử lý ảnh.
+
+
+
+
+           1
+              Parhi, P., Karlson, A. K., & Bederson, B. B. (2006, September). Target size study for one-handed thumb use on small touchscreen
+devices. In Proceedings of the 8th Conference on Human-computer Interaction with Mobile Devices and Services (pp. 203-210).
+            2
+              Collaboration, X. E. N. O. N., Aprile, E., Aalbers, J., Agostini, F., Alfonsi, M., Althueser, L., ... & Zhu, T. (2018). Dark matter search
+results from a one ton-year exposure of XENON1T. Physical review letters, 121(11), 111302.
+                                                                                2
+                              GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+          3.5.3. Tối ưu hóa yếu tố con người trong vận hành và bảo trì
+      Thiết kế các quy trình, thao tác và công cụ phù hợp với năng lực, hạn chế và
+đặc điểm của con người.
+      Giảm thiểu các tác động tiêu cực đến sức khỏe, an toàn và hiệu suất của người
+vận hành và bảo trì.
+          Tích hợp các yếu tố tâm lý như động lực, stress và mệt mỏi vào quá trình thiết
+kế.
+          Ví dụ: Thiết kế bảng điều khiển máy bay
+       Các nghiên cứu về tâm lý học kỹ thuật chỉ ra rằng thiết kế bảng điều khiển ảnh
+hưởng đáng kể đến hiệu suất, an toàn và mức độ tải của phi công (Wickens et al.,
+2015)3. Nghiên cứu của Wickens et al. (2015) cho thấy thiết kế này giúp phi công
+giảm 20% thời gian tìm kiếm thông tin, giảm 15% lỗi vận hành và tăng 25% mức độ
+tin tưởng vào hệ thống so với thiết kế truyền thống. Điều này cho thấy việc tối ưu hóa
+yếu tố con người trong thiết kế là rất quan trọng để nâng cao hiệu suất và an toàn.
+          Để tối ưu hóa thiết kế bảng điều khiển, các nhà thiết kế áp dụng các nguyên tắc
+như:
+          Bố trí logic và có tổ chức các thông tin, công cụ điều khiển;
+          Sử dụng các mã màu, biểu tượng, cảnh báo phù hợp;
+          Tối thiểu hóa số lượng và tăng kích thước các công cụ điều khiển;
+          Tích hợp các hệ thống hỗ trợ ra quyết định thông minh.
+          3.5.4. Tối ưu hóa hệ thống con người-máy
+          Thiết kế sao cho sự phối hợp giữa con người và công nghệ đạt hiệu quả tối ưu.
+     Xác định và phân bổ thích hợp các chức năng, nhiệm vụ giữa con người và
+máy móc.
+          Đảm bảo sự trao đổi thông tin, giám sát và hiệu quả giữa con người và hệ
+thống.
+          Thiết kế hệ thống tự lái xe
+       Ví dụ điển hình về tối ưu hóa hệ thống con người-máy là thiết kế các hệ thống
+tự lái xe.
+      Các nghiên cứu về tâm lý học kỹ thuật chỉ ra rằng việc phối hợp hiệu quả giữa
+con người và công nghệ tự lái là một thách thức lớn, liên quan đến các vấn đề như
+giám sát, giao tiếp, phân chia nhiệm vụ và khả năng can thiệp (de Winter et al.,
+
+
+           3
+             Wickens, C. D., Hutchins, S. D., Laux, L., & Sebok, A. (2015). The impact of sleep disruption on complex cognitive tasks: a meta-
+analysis. Human factors, 57(6), 930-946.
+                                                                           3
+                            GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+2014)4. Nghiên cứu của de Winter et al. (2014) chỉ ra rằng thiết kế này giúp người lái
+cảm thấy an toàn và tin tưởng hơn 35%, đồng thời giảm 25% tỷ lệ lỗi trong quá trình
+giám sát và can thiệp so với thiết kế truyền thống. Điều này minh chứng tầm quan
+trọng của việc tối ưu hóa hệ thống con người-máy để cải thiện hiệu quả và an toàn.
+         Để tối ưu hóa hệ thống tự lái xe, các nhà thiết kế áp dụng các nguyên tắc như:
+     Thiết kế các giao diện giám sát và can thiệp trực quan, dễ hiểu và phản hồi
+nhanh chóng.
+     Xác định rõ ràng các chức năng, nhiệm vụ của con người và máy móc, tránh
+chồng chéo.
+         Tích hợp các cơ chế báo động, cảnh báo và hỗ trợ ra quyết định thông minh
+         Thiết kế các quy trình, thao tác và hướng dẫn phù hợp với năng lực của người
+lái.
+        3.3.5. Tối ưu hóa các yếu tố tâm lý-xã hội
+       Xem xét các yếu tố như văn hóa, cấu trúc tổ chức, động lực và giao tiếp trong
+quá trình thiết kế.
+       Thiết kế sao cho tạo ra môi trường làm việc, học tập và sử dụng tích cực, hợp
+tác và hài hòa.
+      Giảm thiểu các tác động tiêu cực đến sức khỏe tâm lý, động lực và sự hài lòng
+của người dùng.
+         Ví dụ: Thiết kế môi trường làm việc trong nhà máy.
+       Tối ưu hóa các yếu tố tâm lý-xã hội là thiết kế môi trường làm việc trong nhà
+máy. Các nghiên cứu về tâm lý học kỹ thuật chỉ ra rằng các yếu tố như ánh sáng,
+tiếng ồn, nhiệt độ, không gian và tương tác xã hội ảnh hưởng rất lớn đến sức khỏe,
+động lực và hiệu suất của công nhân (Vischer, 2007)5. Nghiên cứu của Vischer
+(2007) cho thấy thiết kế này giúp giảm 20% tỷ lệ nghỉ ốm, tăng 30% mức độ hài lòng
+và tăng 15% năng suất của công nhân so với môi trường làm việc truyền thống. Điều
+này minh chứng tầm quan trọng của việc tối ưu hóa các yếu tố tâm lý-xã hội trong
+thiết kế.
+      Để tối ưu hóa môi trường làm việc, các nhà thiết kế áp dụng các nguyên tắc
+như: Tối ưu hóa chiếu sáng, điều hòa không khí và kiểm soát tiếng ồn; Thiết kế
+
+         4
+             De Winter, J. C., Happee, R., Martens, M. H., & Stanton, N. A. (2014). Effects of adaptive cruise control and
+highly automated driving on workload and situation awareness: A review of the empirical evidence. Transportation
+research part F: traffic psychology and behaviour, 27, 196-217.
+         5
+           Vischer, J. C. (2007). The effects of the physical environment on job performance: towards a theoretical
+model of workspace stress. Stress and health: Journal of the International Society for the Investigation of Stress, 23(3),
+175-184.
+                                                                 4
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+không gian làm việc linh hoạt, thoáng mát và tạo cảm giác thoải mái; Tạo các không
+gian nghỉ ngơi, giải trí và khu vực tương tác xã hội; Khuyến khích văn hóa hợp tác,
+giao tiếp hiệu quả và cân bằng công việc - cuộc sống.
+      Những trường hợp điển hình trên đây phản ánh các lĩnh vực then chốt mà
+chuyên gia tâm lý học kỹ thuật cần tập trung nghiên cứu và đề xuất giải pháp tối ưu
+hóa thiết kế kỹ thuật, nhằm nâng cao hiệu quả, an toàn và trải nghiệm người dùng.
+
+
+
+
+                     CÂU HỎI ÔN TẬP VÀ BÀI TẬP CỦNG CỐ
+       Câu 1: Em hãy trình bày phạm vi tối ưu hóa và tiêu chí đánh giá mức độ tối ưu
+hóa trong thiết kế kỹ thuật?
+       Câu 2: Thực hành xây dựng ý tưởng thiết kế sản phẩm đảm bảo tiêu chí tối ưu
+hóa, lấy con người làm trung tâm và an toàn, tiện lợi trong quá trình sử dụng.
+
+
+
+
+                                            5
+                 GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                       * TÀI LIỆU THAM KHẢO CHƯƠNG 3
+       [1] Cross, N. (2021). Engineering design methods: strategies for product
+design. John Wiley & Sons.
+       [2] Sanders, M. S., & McCormick, E. J. (1993). Human Factors in Engineering
+and Design. McGraw-Hill.
+       [3] Norman, D. A. (2013). The Design of Everyday Things. Basic Books.
+       [4] Norman, D. A., & Draper, S. W. (1986). User Centered System Design:
+New Perspectives on Human-Computer Interaction. CRC Press.
+       [5] Woods, D. D., & Hollnagel, E. (1987). Mapping Cognitive Demands in
+Complex Problem-Solving Worlds. International Journal of Man-Machine Studies,
+26(2), 257-275.
+       [6] Woods, D. D., & Hollnagel, E. (1987). Mapping Cognitive Demands in
+Complex Problem-Solving Worlds. International Journal of Man-Machine Studies,
+26(2), 257-275.
+       [7] Salvendy, G. (2012). Handbook of Human Factors and Ergonomics (4th
+ed.). Wiley.
+       [8] Chaffin, D. B. (2005). Improving digital human modelling for proactive
+ergonomics in design. Ergonomics, 48(5), 478–491.
+       [9] Lee, J. D., & Liu, X. (2003). Rapid prototyping of an augmented vision
+system for aircraft. The International Journal of Aviation Psychology, 13(3), 259–
+272.
+       [10] Occupational Safety and Health Administration. (n.d.). OSHA Technical
+Manual (OTM) | Section III: Chapter 5 - Noise | Occupational Safety and Health
+Administration. www.osha.gov.
+       [11] ASHRAE. (2017). ASHRAE Standard 55-2017: Thermal Environmental
+Conditions for Human Occupancy.
+       [12] U.S. Environmental Protection Agency. (n.d.). Indoor Air Facts No. 4
+(revised) Sick Building Syndrome | US EPA. www.epa.gov.
+       [13] Reason, J. (2008). The Human Contribution: Unsafe Acts, Accidents and
+Heroic Recoveries.
+       [14] Weick, K. E., & Sutcliffe, K. M. (2007). Managing the Unexpected:
+Resilient Performance in an Age of Uncertainty.
+       [15] Karwowski, W. (2006). International Encyclopedia of Ergonomics and
+Human Factors (2nd ed.). CRC Press.
+       [16] World Health Organization. (n.d.). Blindness and visual impairment.
+https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+       [17] American Foundation for the Blind. (n.d.). Home | American Foundation
+for the Blind. https://www.afb.org/
+       [18] National Federation of the Blind. (n.d.). https://nfb.org/
+
+                                           6
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       [19] Massof, R. W., & Stelmack, G. (2001). Interpreting low vision test
+results. Optometry and Vision Science, 78(2), 82-89.
+       [20] Dain, S. J. (2004). Clinical colour vision tests. Clinical and Experimental
+Optometry, 87(4-5), 276-293.
+       [21] Hersh, M., Johnson, M. A., & Johnson, B. T. (2002). Empowering older
+people with early stage vision loss: A new approach. Visual Impairment Research,
+4(1), 1-16.
+       [22] López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer,
+G. (2013). The hallmarks of aging. Cell, 153(6), 1194-1217.
+       [23] Campisi, J., & d'Adda di Fagagna, F. (2007). Cellular senescence: when
+bad things happen to good cells. Nature reviews Molecular cell biology, 8(9), 729-
+740.
+       [24] Kirkwood, T. B. (2005). Understanding the odd science of aging. Cell,
+120(4), 437-447.
+       [25] Niccoli, T., & Partridge, L. (2012). Ageing as a risk factor for disease.
+Current biology, 22(17), R741-R752.
+       [26] Leveson, N. (2004). A new accident model for engineering safer
+systems. Safety Science, 42(4), 237-270.
+       [27] Kaplan, S. M., & Garrick, B. J. (1981). On The Quantitative Definition
+of Risk. Risk Analysis, 1, 11-27.
+       [28] Interaction Design Foundation - IxDF. (2015, July 5). Human error
+(slips and mistakes). https://www.interaction-design.org/literature/book/the-glossary-
+of-human-computer-interaction/human-error-slips-and-mistakes
+       [29] Parhi, P., Karlson, A. K., & Bederson, B. B. (2006, September). Target
+size study for one-handed thumb use on small touchscreen devices. In Proceedings of
+the 8th Conference on Human-computer Interaction with Mobile Devices and
+Services (pp. 203-210).
+       [30] XENON Collaboration, Aprile, E., Aalbers, J., Agostini, F., Alfonsi, M.,
+Althueser, L., ... & Zhu, T. (2018). Dark matter search results from a one ton-year
+exposure of XENON1T. Physical review letters, 121(11), 111302.
+       [31] Wickens, C. D., Hutchins, S. D., Laux, L., & Sebok, A. (2015). The
+impact of sleep disruption on complex cognitive performance. Human factors, 57(4),
+569-588.
+       [32] Vischer, J. C. (2007). The effects of the physical environment on job
+performance: towards a theoretical model of workspace stress. Stress and health,
+23(3), 175-184.
+
+
+
+
+                                              7
+GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                  8
+

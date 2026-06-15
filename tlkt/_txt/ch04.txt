@@ -1,0 +1,672 @@
+                                      Bài 4:
+ Hành vi, động lực và một số định luật tâm lý trong lao động kỹ thuật
+
+    Sau khi học xong Bài 4, sinh viên có khả năng:
+
+           - Trình bày được những kiến thức về những lý thuyết, định luật tâm lý ứng dụng
+    trong kỹ thuật;
+    - Thực hiện được các dự án thiết kế kỹ thuật nhỏ thuộc chuyên ngành dựa trên ứng
+    dụng tâm lý học kỹ thuật;
+
+    - Nhận biết và giải quyết được các vấn đề trong thiết kế kỹ thuật thuộc chuyên ngành
+    dựa trên ứng dụng tâm lý học;
+
+    - Có kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ năng tư duy sáng tạo và
+    tư2.7.
+       duyĐa
+           hệ thống;
+               nhiệmkĩvụnăng
+                          và thuyết
+                             mất tậptrình, kĩ năng
+                                        trung      làmlao
+                                               trong    việc nhóm.
+                                                           động
+      2.7.1.
+    - Tự  tin, Đa
+               làmnhiệm vụđộng lao động thuộc chuyên ngành kỹ thuật. Ý thức được giá
+                  chủ hoạt
+    trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật trong mối liên hệ với tự
+      2.7.1.1. Khái niệm
+    nhiên, con người và xã hội nhằm định hướng đến sự phát triển bền vững.
+
+      Đa nhiệm vụ là việc thực hiện nhiều nhiệm vụ cùng lúc. Đa nhiệm cũng có
+thể được mô tả là phân chia sự chú ý giữa các nhiệm vụ.
+      Ví dụ: Khi lái xe, chúng ta cùng lúc thực hiện những nhiệm vụ sau: vừa
+nghe nhạc vừa giữ cho xe di chuyển về phía trước ở giữa làn đường, vừa đọc biển
+báo giao thông, thỉnh thoảng cần kiểm tra màn hình điều hướng, đôi lúc nhận ra
+một vật thể nguy hiểm ở giữa đường.
+       Sự phân chia chú ý sẽ dựa trên mức độ khó khăn, phức tạp và tầm quan
+trọng của nhiệm vụ. Ví dụ, khi lái xe, cùng lúc chúng ta thực hiện nhiều nhiệm vụ
+khác nhau trong đó việc giữ làn đường và tránh nguy hiểm được ưu tiên hơn
+những nhiệm vụ khác. Khi cùng lúc chúng ta thực hiện hai nhiệm vụ đơn giản thì
+sự phân chia chú ý sẽ dễ dàng hơn khi một trong hai hoặc cả hai nhiệm vụ đều
+phức tạp.
+        Đa nhiệm có thể được chia thành đa nhiệm thời gian và đa nhiệm không
+gian:
+        - Đa nhiệm vụ thời gian: Thực hiện các nhiệm vụ xen kẽ nhau.
+      - Đa nhiệm vụ không gian: Thực hiện các nhiệm vụ cùng lúc trên các kênh
+đầu vào khác nhau (ví dụ: nghe nhạc và lái xe). Nghiên cứu chỉ ra rằng, phân chia
+                                         1
+sự chú ý đa phương thức tốt hơn là cùng phương thức. Phân chia sự chú ý giữa
+mắt và tai tốt hơn giữa hai kênh đều là thị giác hoặc đều là thính giác. Ví dụ, người
+lái xe qua một khúc cua, sự phân tâm thị giác gây bất lợi hơn là sự phân tâm thính
+giác.
+           Đa nhiệm cũng được chia thành đa nhiệm song song và đa nhiệm kế tiếp:
+      - Đa nhiệm song song (Parallel multitasking): Trong đa nhiệm song song,
+người dùng thực hiện nhiều tác vụ đồng thời mà không cần chuyển đổi giữa chúng.
+Chẳng hạn, nghe nhạc khi làm việc.
+      - Đa nhiệm nhanh chóng (Rapid multitasking): Đây là việc thực hiện nhiều
+tác vụ một cách liên tục nhưng không đồng thời, chuyển đổi nhanh chóng giữa
+các tác vụ. Ví dụ như việc chuyển giữa việc soạn thảo một báo cáo và trả lời
+email.1
+      Khả năng đa nhiệm vụ của con người bị ảnh hưởng bởi nhiều yếu tố, bao
+gồm: khả năng chú ý, ghi nhớ, xử lý thông tin và kinh nghiệm của của chủ thể;
+khả năng di chuyển chú ý và tránh bị phân tâm của chủ thể; tính chất của nhiệm
+vụ: một số nhiệm vụ dễ thực hiện đa nhiệm vụ hơn các nhiệm vụ khác, một số
+nhiệm vụ khó thực hiện đa nhiệm vụ; mức độ khó khăn của nhiệm vụ, nhiệm vụ
+càng khó, càng khó thực hiện đa nhiệm vụ hiệu quả.
+           - Ảnh hưởng của đa nhiệm vụ đến hiệu suất làm việc của người dùng:
+      Hiệu quả thực hiện đa nhiệm vụ thường thấp hơn so với thực hiện từng
+nhiệm vụ một. Đa nhiệm vụ có thể dẫn đến sai sót và tai nạn hoặc gây căng thẳng
+và mệt mỏi. Ví dụ: Một người phụ nữ vừa nhắn tin vừa đi bộ dọc đường, cô ấy
+đang trao đổi với đối tác về công việc. Đến gần lối rẽ sang đường, cô ấy có liếc
+mắt nhìn nhưng không chú ý sang bên phải, không thấy chiếc xe máy đang lao về
+phía mình. Còn người điều khiển xe máy cũng đang nói chuyện điện thoại, mắt
+nhìn về phía trước nhưng tâm trí lại tập trung vào việc trò chuyện với người bạn
+qua điện thoại. Cả hai không chú ý đến đối phương và tai nạn đã xảy ra.
+       Tuy nhiên, đa nhiệm vụ cũng có một số lợi ích: có thể giúp tiết kiệm thời
+gian; có thể giúp tăng cường khả năng tập trung; có thể giúp tăng hiệu suất làm
+việc. Ví dụ, một số người nghe nhạc khi học tập, khi làm việc sẽ tập trung và đạt
+hiệu quả cao hơn.
+      Khi xem xét đa nhiệm trong ngữ cảnh thiết kế kỹ thuật hoặc công việc hằng
+ngày, cần phải hiểu rõ mối quan hệ giữa đa nhiệm và hiệu suất và khả năng cụ thể
+của người dùng.
+           1
+            Kieras, D.E., Meyer, D.E. (1997). An overview of the EPIC architecture for cognition and performance with application to human-
+computer interaction. Human-Computer Interaction.
+
+                                                                    2
+      2.7.1.2. Ứng dụng trong thiết kế kỹ thuật
+     Đa nhiệm vụ có thể được áp dụng trong thiết kế kỹ thuật để thực hiện những
+mục đích sau:
+      Thiết kế hệ thống cho phép người dùng thực hiện nhiều nhiệm vụ cùng lúc.
+Ví dụ: thiết kế giao diện máy móc cho phép người dùng điều khiển nhiều thiết bị
+cùng lúc.
+      Thiết kế hệ thống tự động hóa các nhiệm vụ lặp đi lặp lại. Ví dụ: thiết kế hệ
+thống tự động điều khiển nhiệt độ trong nhà, hệ thống tự động điều khiển dây
+chuyền sản xuất; thiết kế hệ thống tự động hóa các nhiệm vụ nguy hiểm, chẳng
+hạn như hệ thống robot dọn dẹp chất thải độc hại.
+      Thiết kế hệ thống dễ dàng sử dụng cho nhiều người dùng với nhiều nhu cầu
+khác nhau. Ví dụ: thiết kế hệ thống phần mềm có thể được sử dụng bởi cả người
+mới bắt đầu và người dùng chuyên nghiệp.
+       Thiết kế hệ thống có thể cảnh báo người dùng về các nguy cơ tiềm ẩn. Ví
+dụ: thiết kế hệ thống cảnh báo người lái xe khi họ sắp va chạm với một chiếc xe
+khác.
+       Khi áp dụng đa nhiệm trong công việc hàng ngày, cần xem xét các yếu tố
+sau: độ khó của nhiệm vụ, mục tiêu công việc, môi trường làm việc, năng lực
+người dùng. Độ khó của tác vụ có thể ảnh hưởng đến khả năng đa nhiệm. Việc
+thực hiện hai tác vụ phức tạp cùng một lúc có thể gây ra nhiều lỗi hơn so với việc
+làm hai tác vụ đơn giản. Mục tiêu công việc cũng quan trọng khi áp dụng đa
+nhiệm. Nếu mục tiêu là hoàn thành nhiệm vụ nhanh nhất có thể, thì có thể không
+nên áp dụng đa nhiệm. Tuy nhiên, nếu mục tiêu là tăng cường sự linh hoạt và sự
+thích ứng, thì đa nhiệm có thể là một lựa chọn tốt. Môi trường làm việc có thể ảnh
+hưởng đến hiệu quả của đa nhiệm. Trong một môi trường ồn ào, việc thực hiện
+nhiều tác vụ cùng một lúc có thể trở nên khó khăn. Khả năng đa nhiệm có thể
+khác nhau giữa các người dùng. Một số người có khả năng tốt hơn trong việc
+chuyển đổi giữa các tác vụ, trong khi người khác lại khá khó khăn.
+      2.7.2. Mất tập trung trong lao động
+      2.7.3.1. Khái niệm
+      Mất tập trung trong lao động (hay xao nhãng) là tình trạng người lao động
+không thể tập trung tối đa vào công việc hoặc nhiệm vụ đang thực hiện làm cho
+hiệu suất lao động không cao.
+      2.7.3.2. Nguyên nhân
+      Có nhiều nguyên nhân dẫn đến mất tập trung trong lao động:
+
+                                        3
+       Yếu tố bên trong: căng thẳng, lo lắng, mệt mỏi, chán nản, thiếu động lực,
+sức khỏe không tốt. Ví dụ, áp lực trong tài chính, căng thẳng bởi mối quan hệ gia
+đình, bạn bè cũng có thể là nguyên nhân khiến chúng ta xao nhãng trong công
+việc. Trong những yếu tố trên thì mệt mỏi là một trong những nguyên nhân hàng
+đầu gây ra sự mất tập trung. Hiệu suất lao động kỹ thuật đòi hỏi sự tập trung và
+người lao động dễ mệt mỏi khi lao động trong thời gian dài 2. Sức khỏe cá nhân
+cũng ảnh hưởng lớn đến khả năng tập trung của một người. Những người mắc các
+chứng bệnh tiền đình, huyết áp không ổn định hoặc các vấn đề về mắt thường
+xuyên mất tập trung trong công việc
+      Yếu tố bên ngoài: Tiếng ồn, ánh sáng, nhiệt độ, sự gián đoạn từ đồng nghiệp
+hoặc khách hàng. Ví dụ, tiếng ồn lớn, hay một cuộc cãi cọ của hai người bên cạnh
+cũng là nguyên nhân khiến bạn mất tập trung vào nhiệm vụ đọc sách mà bạn đang
+thực hiện. Môi trường làm việc cũng là một nguyên nhân quan trọng gây mất tập
+trung nếu môi trường làm việc đó không thuận lợi, với nhiều tiếng ồn, nhiễu loạn.
+       Yếu tố liên quan đến công việc: Công việc quá khó hoặc quá dễ, công việc
+không phù hợp với sở thích và năng lực, thiếu hướng dẫn hoặc đào tạo. Một người
+không yêu thích công việc thường mất tập trung trong công việc hơn so với người
+yêu thích công việc đó.
+        Mất tập trung có thể ảnh hưởng đến hiệu quả công việc: khi chúng ta xao
+nhãng trong thực hiện nhiệm vụ (chẳng hạn trong học hành, làm việc), năng suất
+sẽ giảm xuống do dễ mắc sai sót hơn, tốc độ làm việc chậm hơn, tăng nguy cơ xảy
+ra tai nạn, gây mệt mỏi căng thẳng cũng đến sớm hơn.
+             2.7.3.3. Biện pháp khắc phục mất tập trung lao động
+      Mất tập trung là một vấn đề phổ biến trong môi trường làm việc kỹ thuật,
+có thể ảnh hưởng đến hiệu quả công việc và an toàn của người lao động. Một số
+biện pháp khắc phục mất tập trung lao động:
+      - Thiết kế môi trường làm việc: Sử dụng vật liệu cách âm, thiết kế văn
+phòng có nhiều vách ngăn để giảm tiếng ồn; cung cấp ánh sáng phù hợp, tránh
+ánh sáng quá chói hoặc quá tối; giữ nhiệt độ phòng ở mức thoải mái cho người
+lao động; đảm bảo không gian làm việc riêng tư, hạn chế sự gián đoạn từ đồng
+nghiệp hoặc khách hàng.
+
+
+
+
+2
+    Durand, G., & Chouaniere, D. (2006), "Fatigue at work: Measurement and parametric analysis", Work, 26(3), 243–252.
+
+
+
+
+                                                                    4
+      - Chia nhỏ công việc thành các phần nhỏ, giúp người lao động dễ dàng tập
+trung vào từng phần một; đặt ra mục tiêu rõ ràng giúp người lao động biết mình
+cần đạt được gì; người lao động hiểu rõ công việc và cách thực hiện.
+       - Sử dụng công nghệ để hạn chế sự mất tập trung như: sử dụng phần mềm
+chặn các trang web gây xao nhãng, sử dụng ứng dụng quản lý thời gian, sử dụng
+tai nghe chống ồn.
+      - Tạo văn hóa làm việc tích cực, xây dựng môi trường làm việc cởi mở,
+thoải mái, ghi nhận thành tích của người lao động.
+      2.8. Lý thuyết nhu cầu
+      Lý thuyết nhu cầu là một tập hợp các lý thuyết trong tâm lý học giải thích
+hành vi của con người dựa trên nhu cầu của họ. Các lý thuyết này cho rằng con
+người có những nhu cầu cơ bản cần được đáp ứng để có thể tồn tại và phát triển.
+Khi những nhu cầu này không được đáp ứng, con người sẽ cảm thấy bị thúc đẩy
+để hành động nhằm đáp ứng chúng.
+      Lý thuyết này cho rằng con người có 5 cấp độ nhu cầu, từ thấp đến cao:
+nhu cầu sinh lý, nhu cầu an toàn, nhu cầu xã hội, nhu cầu được tôn trọng và nhu
+cầu tự thể hiện.
+      Thuyết nhu cầu của Maslow, còn được gọi là Tháp nhu cầu Maslow, là một
+lý thuyết tâm lý được Abraham Maslow đề xuất năm 1943. Lý thuyết này cho
+rằng con người có 5 cấp độ nhu cầu, từ thấp đến cao.
+
+                                     Nhu
+                                    cầu tự
+                                     thể
+                                     hiện
+
+
+
+                                   Nhu cầu
+                                   được tôn
+                                    trọng
+
+
+
+
+                                Nhu cầu xã hội
+
+
+
+
+                                Nhu cầu an toàn
+
+
+
+
+                               Nhau cầu sinh học
+
+
+
+
+      Hình 2. 1: Tháp nhu cầu Maslow (1943)
+
+                                                 5
+      1. Nhu cầu sinh lý (Physiological needs)
+     Đây là những yêu cầu sinh học đối với sự tồn tại của con người. Ví dụ,
+không khí, thức ăn, thức uống, nơi ở, quần áo, hơi ấm, tình dục và giấc ngủ.
+      Nếu những nhu cầu này không được thỏa mãn, cơ thể con người không thể
+hoạt động tối ưu. Maslow coi nhu cầu sinh lý là quan trọng nhất, tất cả các nhu
+cầu khác đều trở thành thứ yếu cho đến khi những nhu cầu này được đáp ứng.
+      2. Nhu cầu an toàn (Safety needs)
+      Một khi nhu cầu sinh lý của một cá nhân được thỏa mãn, nhu cầu về an
+ninh và an toàn trở nên cần thiết hơn bao giờ hết. Mọi người đều muốn trải nghiệm
+sự an ninh, trật tự, khả năng dự đoán và kiểm soát trong cuộc sống của họ. Gia
+đình và xã hội có thể đáp ứng những nhu cầu này (ví dụ như cảnh sát, trường học,
+doanh nghiệp và cơ sở chăm sóc y tế).
+       Ví dụ: an toàn về cảm xúc, an toàn tài chính (ví dụ: việc làm, phúc lợi xã
+hội), luật pháp và trật tự, ổn định xã hội, tài sản, sức khỏe và phúc lợi (ví dụ: an
+toàn trước tai nạn và thương tích).
+      3. Nhu cầu được giao lưu tình cảm (Love and belongingness needs)
+      Sau khi nhu cầu sinh lý và khả năng an toàn đã được đáp ứng, mức độ thứ
+ba của nhu cầu con người là xã hội và liên quan đến cảm giác thân thuộc. Tính
+“thuộc về”, đề cập đến nhu cầu cảm xúc của con người đối với các mối quan hệ
+giữa các cá nhân, sự liên kết, kết nối và trở thành một phần của một nhóm người.
+      Ví dụ, nhu cầu về sự thân thuộc bao gồm tình bạn, sự thân thiết, tin cậy,
+quyền nhận và trao đi tình cảm.
+      4. Nhu cầu được kính trọng, quý mến (Esteem needs)
+       Là cấp độ thứ tư trong hệ thống phân cấp của Maslow và nó bao gồm giá
+trị bản thân, sự thành đạt và sự tôn trọng. Maslow đã phân loại nhu cầu về sự tôn
+trọng thành hai loại: lòng tự trọng đối với bản thân (phẩm giá, thành tích, khả
+năng làm chủ, độc lập) và mong muốn về danh tiếng hoặc sự tôn trọng từ người
+khác (địa vị, sự uy tín).Maslow chỉ ra rằng nhu cầu được tôn trọng hoặc danh tiếng
+là quan trọng nhất đối với con người, đặc biệt là với giới trẻ hiện nay.
+      5. Nhu cầu được thể hiện bản thân (Self-actualization needs)
+       Là cấp độ cao nhất trong tháp nhu cầu Maslow và cấp độ này đề cập đến
+việc thể hiện ra tiềm năng của một người, tự hoàn thiện bản thân, tìm kiếm sự phát
+triển cá nhân và trải nghiệm đỉnh cao. Maslow mô tả mức độ này là mong muốn
+hoàn thành mọi thứ và trở thành người giỏi nhất mà họ có thể làm.
+
+                                         6
+       Các cá nhân có thể nhận thức được hoặc tập trung vào nhu cầu này rất cụ
+thể. Ví dụ, một cá nhân có thể có mong muốn một cách mạnh mẽ để trở thành một
+người hay một bậc cha mẹ lý tưởng. Nói cách khác, mong muốn có thể được thể
+hiện về mặt kinh tế, học thuật hoặc trong thể thao. Đối với những người khác, nó
+có thể được thể hiện một cách sáng tạo, trong tranh, ảnh hoặc trong những sáng
+chế của bản thân họ.
+       Lý thuyết này cung cấp một bản tóm tắt hữu ích về nhu cầu của con người
+và có thể được sử dụng trong thiết kế sản phẩm, định vị sản phẩm hay định giá (ví
+dụ: nhu cầu về sức mạnh, trạng thái) và thiết kế của các cửa hàng bán lẻ.
+       Bên cạnh đó, nó cũng giúp các nhà tiếp thị tập trung lời kêu gọi quảng cáo
+của họ vào những nhu cầu cụ thể được chia sẻ bởi một phần lớn thị trường mục
+tiêu của họ. Vấn đề chính đối với lý thuyết cấp bậc nhu cầu của Maslow là nó
+không thể được kiểm tra theo kinh nghiệm – không có cách nào để đo lường chính
+xác mức độ thỏa mãn của một nhu cầu trước khi nhu cầu ở cao hơn nó bắt đầu
+hoạt động.
+      Thuyết nhu cầu của Maslow có nhiều ứng dụng trong các lĩnh vực khác
+nhau, bao gồm tâm lý học, giáo dục, quản trị kinh doanh, và marketing.
+      2.9. Một số định luật trong thiết kế kỹ thuật
+      2.9.1. Định luật Hick (Hick's Law)
+        Định luật Hick, còn được gọi là định luật Hick-Hyman, được giới thiệu bởi
+tiến sĩ William Edmund Hick và Ray Hyman vào những năm 1950. Định luật này
+mô tả mối quan hệ giữa thời gian phản ứng và số lượng sự chọn lựa có thể. Cụ
+thể, định luật của Hick khẳng định: Thời gian cần thiết để đưa ra quyết định sẽ
+tăng theo logarit của số lượng lựa chọn, tức là càng có nhiều lựa chọn con người
+càng mất nhiều thời gian để quyết định.
+
+
+
+
+      Hình 2. 2: Sơ đồ biểu diễn định luật Hick (nguồn: https://spiderum.com)
+                                       7
+      2.9.2. Định luật Fitt (Fitts' Law)
+       Định luật Fitts là một mô hình dự đoán, được đề xuất bởi tác giả Paul Fitts
+vào năm 1954. Theo định luật này, thời gian cần thiết để di chuyển đến mục tiêu
+là một hàm của khoảng cách đến mục tiêu và kích thước của mục tiêu. Cụ thể hơn,
+thì thời gian di chuyển dự đoán được bằng công thức sau:
+      MT = a + b log2(D/S + 1)
+      Trong đó:
+      - MT là thời gian di chuyển.
+      - D là khoảng cách đến mục tiêu.
+      - S là độ lớn của mục tiêu.
+      - a và b là các hệ số tuyến tính, phụ thuộc vào các đặc điểm chuyển động
+như tốc độ, độ chính xác yêu cầu, vv.
+      Định luật Fitts thường được áp dụng trong thiết kế giao diện của máy móc
+để đảm bảo người dùng có thể thao tác một cách nhanh chóng và dễ dàng. Cụ thể,
+mục tiêu cần thực hiện thường nằm ở vị trí dễ dàng truy cập và đủ lớn để nhắm
+bắt nhanh chóng và chính xác.
+      Thời gian cần thiết để di chuyển con trỏ đến một mục tiêu trên màn hình tỷ
+lệ nghịch với khoảng cách giữa con trỏ và mục tiêu, và tỷ lệ thuận với kích thước
+mục tiêu.
+      2.9.3. Luật Gestalt
+      Định luật Gestalt là một tập hợp các nguyên tắc tâm lý học, lý giải cách
+thức não người tiếp nhận một hình ảnh. Mắt và não bộ được tiếp xúc với một hình
+ảnh, chúng nhìn nhận và phân tách các chi tiết đơn lẻ trong ảnh đó theo nhiều cách
+khác nhau. Toàn bộ cấu trúc một vật thể, không phải lúc nào cũng được tạo thành
+từ những phần tử có mặt ở trong đấy.
+      Những nguyên tắc trong định luật Gestalt bao gồm:
+      1) Nguyên tắc đồng bộ (Similarity): Mắt chúng ta thường có xu hướng gom
+các vật thể tương tự về hình dáng, kích thước và màu sắc lại thành một nhóm với
+nhau.
+
+
+
+
+                                           8
+      Hình 2. 3: Hình ảnh minh họa nguyên tắc đồng bộ
+       Trong thiết kế, điều này có thể được áp dụng để tạo ra các nhóm các đối
+tượng tương tự, giúp người dùng dễ dàng quản lý thông tin hoặc định hướng. Ví
+dụ, trong một trang web, tất cả các liên kết có thể được đánh dấu bằng một màu
+cụ thể để người dùng biết rằng đây là một nhóm các đối tượng tương tự và nên
+được xử lý như nhau (nhấp chuột vào để chuyển đến một trang mới).
+       2) Nguyên tắc gần bên (Proximity): Nếu các phần tử nào đứng cạnh nhau
+thì não bộ sẽ có xu hướng gom chúng lại thành một nhóm tách biệt. Nghĩa là các
+đối tượng gần nhau thường được coi là có liên quan nhiều hơn các đối tượng ở xa
+nhau.
+
+
+
+
+      Hình 2. 4: HÌnh ảnh minh họa nguyên tắc gần bên
+
+
+                                      9
+      Theo Hình 2.12, ở hình bên phải, do có sự xuất hiện của các khoảng trắng,
+não bộ chúng ta sẽ mặc định được các hình tròn được chia thành 3 nhóm khác
+nhau
+      Trong thiết kế UXD (User Experience Design), nguyên tắc gần bên thường
+được dùng để giúp người dùng phân loại được các nhóm khác nhau mà không cần
+sử dụng các border (khung). Kết hợp cùng các khoảng trắng, người dùng chắc
+chắn nhận biết được cấu trúc và cách bố trí mà bạn muốn truyền tải.
+       3) Nguyên tắc hợp nhất (Unified Connectedness): Những yếu tố có bất kì
+sự kết nối nào về màu sắc, đường nét, cách trang trí và hình dạng thì não bộ sẽ tự
+động “hình dung” một mối liên hệ mật thiết cho chúng.
+
+
+
+
+      Hình 2. 5: Hình ảnh minh họa nguyên tắc hợp nhất
+      4) Nguyên tắc liên tục (Continuation) : Nội dung của nguyên tắc là trong
+vô thức, tâm trí luôn tự lấp đầy các khoảng trống giữa các vật thể, và tạo cho
+chúng một sự chuyển động liên tục.
+
+
+
+
+      Hình 2. 6: Hình ảnh minh họa nguyên tấc liên tục
+      Chúng ta thường quan sát những đối tượng nằm trên một đường thẳng hoặc
+cong liên tục, mặc dù có sự xuất hiện của các đối tượng khác có thể cắt ngang
+đường cong hay đường thằng đó. Ví dụ trong kỹ thuật, một dây chuyền lắp ráp
+được thiết kế theo nguyên tắc nối tiếp, mỗi bước trong quá trình lắp ráp sẽ tuân
+theo một đường liên tục, giúp công nhân dễ dàng quan sát và hiểu quá trình lắp
+ráp
+      5) Nguyên tắc Prägnanz: đầu óc con người không quen với những gì lộn
+xộn, phức tạp, và để tránh không bị rối loạn bởi những thứ kì dị và bất thường,
+
+                                       10
+con người luôn cố gắng giản lược chúng thành những điều thân thuộc, và cốt lõi
+nhất.
+
+
+
+
+      Hình 2. 7: Hình ảnh minh họa nguyên tắc Prägnanz (nguồn: CC BY 2.0)
+       Con người có xu hướng nhận thức các hình ảnh theo cách đơn giản và trực
+quan nhất. Cụ thể, trong tất cả các dạng hình thức có thể xuất hiện, trí óc sẽ nhận
+biết và "đơn giản hóa" chúng để tạo ra hình ảnh rõ ràng nhất, đơn giản nhất hoặc
+đối xứng nhất. Do vậy, trong kỹ thuật, người thiết kế nên sử dụng các hình ảnh
+đơn giản, rõ ràng và dễ nhận biết giúp người dùng dễ dàng hiểu được thông tin
+được truyền tải.
+       6) Nguyên tắc đóng kín (Closure): Nội dung nguyên tắc khi một vật thể có
+hình dạng không toàn diện hay không kín, mắt người có xu hướng hoàn thành nốt
+phần còn lại và lấp đầy khoảng trống, bằng cách tưởng tượng các đường nét, màu
+sắc hoặc hoa văn (pattern) xuất hiện ở xung quanh vật thể đó. Chỉ cần thể hiện đủ
+các tính chất thiết yếu của một chủ thể, những yếu tố khiếm khuyết còn lại sẽ được
+não bộ tự động thêm vào.
+
+
+
+
+      Hình 2. 8: Hình ảnh minh họa nguyên tắc đóng kín
+                                        11
+       Trong thiết kế kỹ thuật và công nghệ thông tin, nguyên lý này được áp dụng
+rất rộng rãi. Ví dụ, khi tạo ra logo, thiết kế giao diện, biểu tượng... người thiết kế
+thường tận dụng nguyên tắc đóng kín để tạo ra những hình vẽ kích thích sự tò mò,
+tưởng tượng của người dùng, giúp họ dễ dàng nhận biết và ghi nhớ.
+       Theo nguyên tắc này, người dùng sẽ tự động "lấp đầy" những không gian
+trống, những thông tin bị thiếu để "đóng kín" thông tin, hình ảnh mà họ đang tiếp
+nhận. Bởi vì con người có tự nhiên muốn thấy thứ gì đó hoàn chỉnh, đầy đủ.
+      Một ứng dụng điển hình khác của nguyên tắc này là trong thiết kế mạch
+điện. Khi thiết kế các mạch điện in, các kỹ sư thường sử dụng nguyên tắc đóng
+kín để tạo ra các đường mạch hoàn chỉnh, ngay cả khi một số phần của mạch
+không thể có đối tượng vật lý nối liền với nhau.
+       7) Nguyên tắc bầy đàn (Common Fate): Nguyên tắc thiết kế đồng bộ của
+Gestalt cho rằng các phần tử di chuyển theo cùng một hướng được coi là có liên
+quan nhiều hơn các phần tử giống nhau di chuyển theo các hướng khác nhau. Bất
+kể vị trí của chúng hoặc chúng có thể khác nhau như thế nào, chúng ta dễ dàng
+nhận thấy các yếu tố di chuyển theo cùng một hướng dường như có liên quan với
+nhau.
+
+
+
+
+      Hình 2. 9: Hình ảnh minh họa cho nguyên tắc bầy đàn
+      8) Nguyên tắc hình- nền (figure-ground): Theo tự nhiên, não bộ chúng ta
+sẽ phân biệt được chi tiết nào trong bức ảnh là trọng tâm (phần hình) và đâu là
+phần nền.
+
+
+
+
+                                         12
+     Hình 2. 10: Hình ảnh minh họa nguyên tắc hình-nền của nhà tâm lý học
+Edgar Rubin
+       9) Nguyên tắc không gian chung (Law of Common Region): Các thành phần
+liên quan với nhau nên cùng nằm trong không gian chung, điều đó làm các khối
+thông tin trở nên tách bạch và dễ hiểu, giữa các phần thông tin hay hình ảnh nếu
+có sự ngăn cách rõ ràng sẽ làm ta rất dễ dàng để nhận biết.
+
+
+
+
+      Hình 2. 11: Hình ảnh minh họa nguyên tắc không gian chung
+       10) Nguyên tắc đối xứng (Symmetry and Order): Nguyên tắc đối xứng mô
+tả xu hướng tự nhiên của con người trong việc nhận thức các yếu tố có sự đối
+xứng hoặc trật tự thành một tổng thể thống nhất và mạch lạc. Có hai loại đối xứng
+chính: đối xứng phản chiếu (ví dụ: cánh bướm, khuôn mặt con người, tòa nhà có
+kiến trúc cân đối), đối xứng quay (ví dụ: bánh xe, hoa cúc, đồng hồ). Đối xứng
+giúp tạo ra cảm giác cân bằng và hài hòa trong bố cục, thu hút sự chú ý của người
+nhìn hơn so với các yếu tố không đối xứng.
+
+
+
+
+                                       13
+      Hình 2. 12: Hình ảnh minh họa nguyên tắc đối xứng (nguồn: visme.co)
+      2.9.4. Định luật Jakob Nielsen
+      Định luật Jakob Nielsen được tạo ra bởi Jakob Nielsen, một nhà thiết kế
+web người Đan Mạch. Định luật này tập trung vào việc tối ưu hóa trải nghiệm
+người dùng trên các trang web và tiết kiệm thời gian người dùng bằng cách làm
+cho các trang web dễ sử dụng hơn.
+      Định luật Jakob Nielsen dựa trên hai nguyên lý chính:
+       Người dùng dành nhiều thời gian hơn xem web: Điều này có nghĩa là khi
+thiết kế một trang web, người thiết kế cần xem xét thời gian người dùng dành trên
+web. Điều này có thể bao gồm việc cung cấp nội dung có thể tiếp cận và thu hút
+người dùng, cũng như đảm bảo rằng trang web dễ di chuyển và không gây rối.
+       Biểu đồ F: Người dùng thường đọc web theo một mô hình có hình dạng
+giống như chữ F. Họ sẽ bắt đầu ở đầu trang, di chuyển xuong cuối trang và rồi
+quét qua trang theo chiều ngang. Điều này nên được xem xét khi bố trí nội dung
+trên trang web.
+      2.9.5. Định luật Parkinson
+       Định luật Parkinson được đặt theo tên của Cyril Northcote Parkinson, người
+Anh. Định luật này được nêu lên lần đầu tiên vào năm 1955. Định luật Parkinson
+nổi tiếng với câu nói: "Công việc sẽ mở rộng để lấp đầy thời gian dành cho nó".
+Điều này có nghĩa là nếu bạn đặt một khoảng thời gian cố định cho một nhiệm vụ
+cụ thể, nhiệm vụ đó sẽ mở rộng để chiếm hết thời gian đã được gán cho nó, dù
+công việc có thể hoàn thành trong thời gian ngắn hơn.
+       Có thể thấy rằng, đây có ý nghĩa rất lớn trong việc quản lý dự án và cũng
+rất quan trọng khi áp dụng vào thiết kế kỹ thuật.
+      2.9.6. Định luật Murphy
+      Định luật Murphy, được đặt theo tên của Edward A. Murphy - một kỹ sư
+người Mỹ, nói rằng "Mọi thứ có thể sai đều sẽ sai". Nó được nhìn nhận như một
+biểu đạt để nêu lên tính không thể lường trước được của sự cố. Nếu có nhiều cách
+
+                                       14
+để thực hiện một việc, và một trong số đó dẫn đến thảm họa, thì ai đó sẽ thực hiện
+theo cách đó.
+       Điều này có ý nghĩa đặc biệt trong thiết kế kỹ thuật, vì nó nhắc nhở chúng
+ta rằng không thể giả sử mọi thứ sẽ diễn ra theo cách mong đợi. Thay vào đó, các
+kỹ sư và thiết kế viên nên luôn dự phòng cho những sự cố không mong muốn và
+nghĩ về cách thức để ngăn chặn hoặc giảm thiểu tác động của chúng.
+       Qua định luật này, chúng ta nên chuẩn bị cho "tệ nhất có thể xảy ra" trong
+khi hi vọng "tốt nhất có thể xảy ra".
+      2.9.7. Định luật Occam (Lý thuyết dao cạo)
+       Dao cạo Ockham (tiếng Anh: Ockham's Razor) là một lý thuyết triết
+học nổi tiếng của nhà triết học người Anh William xứ Ockham. Nó được ông đưa
+ra vào năm 1324. William đã viết rằng lời giải thích đơn giản nhất thường là lời
+giải thích xác đáng nhất, hoặc "Điều gì có thể được giải thích bằng ít giả thuyết
+hơn thì lại được giải thích một cách vô ích bằng nhiều giả định hơn"[1]. Tức là
+nếu một vấn đề khoa học được giải thích bằng ít giả thuyết nhất thì sẽ đúng đắn
+nhất. Dao cạo Ockham đã chứng tỏ được giá trị lớn của mình trong việc nghiên
+cứu khoa học.
+      Định luật Occam, còn được gọi là nguyên lý sự đơn giản, nói rằng khi có
+nhiều giả thiết cho một hiện tượng cụ thể, giả thiết đơn giản nhất thường là đúng.
+Định luật này được đặt theo tên của William of Ockham, một triết gia và nhà thần
+học người Anh.
+      Trong kỹ thuật, định luật này được hiểu khi có nhiều phương pháp giải
+quyết một vấn đề kỹ thuật, giải pháp đơn giản nhất thường là tốt nhất, miễn là nó
+đáp ứng được các yêu cầu và tiêu chí của dự án.
+       Giải pháp đơn giản thường dễ dàng hơn để triển khai, bảo dưỡng, và sửa
+chữa, và cũng thường tiết kiệm chi phí hơn so với những giải pháp phức tạp. Định
+luật này gợi ý rằng chúng ta nên tránh làm cho một hệ thống kỹ thuật trở nên quá
+phức tạp nếu không cần thiết.
+      2.9.8. Định luật 80/20 (Quy tắc Pareto)
+      Quy tắc Pareto, còn được biết đến như là nguyên lý 80/20, nói rằng 80%
+kết quả đến từ 20% nguyên nhân. Đặt theo tên của Vilfredo Pareto, một kinh tế
+gia và nhà xã hội học Ý, nguyên lý này có thể được ứng dụng trong nhiều lĩnh
+vực khác nhau, bao gồm cả kỹ thuật.
+
+
+
+
+                                       15
+       Trong kỹ thuật, quy tắc Pareto thường được sử dụng trong quá trình phân
+tích và cải tiến. Để minh họa, giả sử một nhà sản xuất gặp vấn đề về chất lượng.
+Theo quy tắc Pareto, có thể có khoảng 20% nguyên nhân gây ra 80% lỗi.
+       Bằng cách tập trung vào các nguyên nhân chính này, nhà sản xuất có thể
+giảm đáng kể lượng lỗi mà không cần phải giải quyết mọi vấn đề. Cách tiếp cận
+này không chỉ giúp cải thiện hiệu quả của quá trình cải tiến, mà còn tiết kiệm được
+thời gian, nguồn lực và chi phí.
+      2.9.9. Định luật Deherty
+       Nhà nghiên cứu khoa học máy tính Walter J. Doherty, tác giả của định luật
+Doherty khuyên rằng các hệ thống phải được thiết kế sao cho thời gian phản hồi
+cho mỗi hành động của người dùng không vượt quá 400 mili giây để tối đa hóa
+sự hài lòng và năng suất của người dùng.
+      Trong thiết kế kỹ thuật, định luật Doherty thường được áp dụng để tối ưu
+hóa hiệu suất của hệ thống. Ví dụ, một ứng dụng di động có thể được thiết kế để
+cập nhật dữ liệu hoặc thực hiện hành động trong khoảng thời gian nhất định sau
+khi người dùng thao tác, giúp người dùng cảm thấy hệ thống phản hồi nhanh
+chóng và mượt mà.
+      Tuy nhiên, định luật Doherty không chỉ giới hạn ở việc tối ưu hóa thời gian
+phản hồi. Nó cũng nói rằng khi người dùng được hệ thống phản hồi nhanh chóng,
+họ cảm thấy thú vị hơn và dễ dàng hơn để tập trung vào công việc, dẫn đến sự hài
+lòng và hiệu suất làm việc tốt hơn. Nói cách khác, bằng cách tạo ra một hệ thống
+phản hồi nhanh chóng và linh hoạt, bạn không chỉ làm tăng hiệu suất công việc,
+mà còn tạo ra một trải nghiệm tốt hơn cho người dùng.
+      2.9.10. Định luật Zeigarnik
+       Định luật này, được đặt theo tên của nhà tâm lý học Bluma Zeigarnik, cho
+rằng con người có xu hướng nhớ rõ hơn về những công việc chưa hoàn thành so
+với những công việc đã hoàn thành.
+       Trong thiết kế kỹ thuật, định luật Zeigarnik có thể được ứng dụng để giữ
+cho người dùng quan tâm và tương tác với sản phẩm hay dịch vụ. Một ứng dụng
+phổ biến của Định luật Zeigarnik trong thiết kế giao diện máy móc là việc tạo ra
+các công việc chưa hoàn thành bằng cách sử dụng hình ảnh, thông báo hoặc biểu
+trưng. Mục đích là để gợi nhớ người dùng về những công việc họ cần hoàn thành,
+tạo ra một cảm giác thú vị, kích thích người dùng tiếp tục sử dụng sản phẩm.
+
+
+
+
+                                        16
+      2.9.11. Định luật Weber
+      Định luật Weber, được đặt tên theo nhà tâm thần học người Đức Ernst
+Heinrich Weber, là một trong những nguyên tắc cơ bản của tâm lý học giác quan.
+Theo định luật này, sự thay đổi nhỏ nhất mà một cảm giác cần phải thay đổi để
+được nhận thức là dựa trên tỷ lệ phần trăm của nó so với cảm giác ban đầu, chứ
+không phải là một lượng cố định.
+      Trong thiết kế kỹ thuật,định luật Weber có thể được áp dụng để cải thiện
+giao diện của máy móc và trải nghiệm người dụng. Trong thiết kế, sự khác biệt
+nhỏ trong màu sắc, kích thước, vị trí, hoặc âm thanh có thể tạo ra sự phân biệt
+đáng kể trong cảm nhận của người dùng.
+      2.9.12. Định luật Postel
+      Định luật Postel, còn được biết là "nguyên tắc Postel" được đặt tên theo nhà
+khoa học máy tính Jon Postel. Tác giả nguyên tắc phát biểu rằng: "Hãy chấp nhận
+mọi thứ, chỉ gửi đi những gì đúng".
+      Nguyên tắc này khuyến khích sự tương tác giữa các hệ thống khác nhau,
+mà có thể dựa trên những quy chuẩn không hoàn hảo hoặc không đồng nhất.
+       Ví dụ, trong thiết kế giao diện của máy móc, một ứng dụng có thể được
+thiết kế để chấp nhận dữ liệu đầu vào từ người dùng ở nhiều định dạng khác nhau,
+nhưng luôn chỉ gửi dữ liệu theo một định dạng cố định. Điều này có thể làm cho
+ứng dụng trở nên dễ sử dụng hơn, bởi vì người dùng không cần phải lo lắng về
+việc sử dụng định dạng đúng.
+       Tổng quát hơn, Định luật Postel nghĩa là các nhà thiết kế cần lường trước
+được sự không chính xác và thay đổi, và thiết kế sao cho sản phẩm của họ có thể
+thích ứng với nó.
+      2.9.13. Định luật Tesler
+      Theo định luật Tesler, mỗi hệ thống có một sự phức tạp tối thiểu mà bạn
+không thể giảm đi. Không phải mọi phần của ứng dụng hoặc hệ thống có thể được
+đơn giản hóa. Khi một phần của hệ thống được đơn giản hóa, phức tạp độ sẽ
+chuyển sang phần khác.
+      Ví dụ, giả sử bạn có một chương trình văn bản phức tạp với hàng trăm lệnh
+và chức năng. Bạn quyết định làm cho giao diện trở nên đơn giản hơn, tức là chỉ
+có một số lệnh gọn nhẹ cho người dùng cuối. Nhưng sự phức tạp của chương trình
+không biến mất, nó chỉ chuyển từ người dùng cuối sang những người phát triển
+và bảo dưỡng hệ thống.
+
+
+                                       17
+      2.9.14. Định luật Miller
+      Năm 1956, George Armitage Miller đã tìm ra được một con số phù hợp với
+mức giới hạn trí nhớ của một người bình thường, giúp học có thể tiếp nhận một
+cách nhẹ nhàng, đó là con số 7. Tuy nhiên, tùy từng người mà con số này có thể
+có sự điều chỉnh nhất định là 7 + 2.
+
+
+
+
+      Hình 2.23. Minh họa định luật Miller
+       Dung lượng của bộ nhớ làm việc là 7 + 2 mẩu thông tin. Tức là một người
+bình thường chỉ có thể tối đa tiếp nhận 7 + 2 (từ 5 đến 9) mẩu thông tin cùng một
+lúc. Điều này thường được gọi là "số bảy huyền bí" (The Magical Number Seven,
+Plus or Minus Two) [Miller, 1956]
+
+
+      * HƯỚNG DẪN TỰ HỌC, ÔN TẬP
+      1. Phân tích nội dung lý thuyết phát tín hiệu. Chỉ ra những ứng dụng của lý
+thuyết phát tín hiệu trong lĩnh vực kỹ thuật. Lấy ví dụ minh họa.
+       2. Phân tích nội dung lý thuyết sự tập trung chú ý. Đề xuất những ứng dụng
+của lý thuyết này trong lĩnh vực kỹ thuật.
+       3. Phân tích nội dung lý thuyết không gian ba chiều. Chỉ ra những ứng dụng
+của lý thuyết này trong lĩnh vực kỹ thuật.
+      4. Phân tích đặc điểm, yêu cầu của ngôn ngữ và giao tiếp kỹ thuật. Lấy ví
+dụ minh họa.
+       5. Phân tích đặc điểm trí nhớ ngắn hạn. Vận dụng những kỹ thuật ghi nhớ
+trong thiết kế kỹ thuật.
+                                       18
+        6. Phân tích tải nhận thức. Đề xuất biện pháp hạn chế tải nhận thức.
+       7. Phân tích nội dung lý thuyết phản ứng. Đề xuất ứng dụng của lý thuyết
+này trong lĩnh vực kỹ thuật.
+        8. Đa nhiệm vụ là gì? Đề xuất biện pháp hạn chế mất tập trung trong lao
+động.
+       9. Phân tích nội dung thuyết nhu cầu của Maslow. Chỉ ra những ứng dụng
+của lý thuyết này trong thiết kế kỹ thuật.
+      10. Phân tích nội dung của các định luật tâm lý và đề xuất những ứng dụng
+của những định luật này trong thiết kế sản phẩm kỹ thuật.
+        BÀI TẬP
+       Bài tập 1: Chọn một sản phẩm/ dịch vụ phù hợp với ngành đào tạo. Thiết
+kế từ 3 đến 5 câu hỏi nhằm khảo sát mức độ hài lòng của khách hàng về sản phẩm/
+dịch vụ đó.
+      Bài tập 2: Vận dụng những lý thuyết và định luật tâm lý (được trình bày
+trong chương 2) vào cải tiến hoặc thiết kế một sản phẩm kỹ thuật phù hợp với
+ngành đào tạo.
+
+
+
+
+                                        19
+      * TÀI LIỆU THAM KHẢO
+     [1] Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering
+psychology and human performance, New York, US.
+       [2] Trần Khánh Ngọc (2013), Dạy cách học cho học sinh trong dạy học
+phần Di truyền học – Sinh học 12 trung học phổ thông, Luận án tiến sĩ Giáo dục
+học, trường Đại học Sư phạm Hà Nội.
+       [3] Sách: Giao tiếp kỹ thuật - Tác giả: TS. Nguyễn Văn Lân:
+https://www.cet.edu.vn/ky-nang-giao-tiep
+      [4] Atkinson, R.C., & Shiffrin, R.M. (1968). "Human memory: A
+proposed system and its control processes". Psychology of Learning and
+Motivation. 2: 89-195.
+      [5] Squire, L.R. (1992) "Memory and the Hippocampus: A Synthesis
+from Findings with Rats, Monkeys, and Humans". Psychological Review. 99 (2):
+195-231.
+    [6] Crowder, R.G. (1993) "Short-term Memory: Where Do We Stand?"
+Memory & Cognition. 21 (2) 142-145.
+       [7] Kieras, D.E., Meyer, D.E. (1997). An overview of the EPIC
+architecture for cognition and performance with application to human-computer
+interaction. Human-Computer Interaction.
+      [8] Howard, I.P., & Rogers, B.J. (2002). Seeing in Depth, Vol. 2: Depth
+Perception. Ontario, Canada: I Porteous.
+      [9] "Fatigue at work: Measurement and parametric analysis", Durand,
+G., & Chouaniere, D. (2006). Work, 26(3), 243–252.
+
+
+
+
+                                     20
+21
+

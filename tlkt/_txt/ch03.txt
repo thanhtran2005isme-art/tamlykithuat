@@ -1,0 +1,1018 @@
+            Bài 3: Giao tiếp và trí nhớ trong lao động kỹ thuật
+
+  Sau khi học xong Bài 3, sinh viên có khả năng:
+
+         - Trình bày được những kiến thức về những lý thuyết tâm lý ứng dụng trong kỹ
+  thuật;
+  - Thực hiện được các dự án thiết kế kỹ thuật nhỏ thuộc chuyên ngành dựa trên ứng
+  dụng tâm lý học kỹ thuật;
+
+  - Nhận biết và giải quyết được các vấn đề trong thiết kế kỹ thuật thuộc chuyên ngành
+  dựa trên ứng dụng tâm lý học;
+
+  - Có kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ năng tư duy sáng tạo và
+  tư duy hệ thống; kĩ năng thuyết trình, kĩ năng làm việc nhóm.
+
+  - Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ thuật. Ý thức được giá
+  trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật trong mối liên hệ với tự
+  nhiên, con người và xã hội nhằm định hướng đến sự phát triển bền vững.
+
+
+
+
+       2.4. Ngôn ngữ và giao tiếp kỹ thuật
+       2.4.2. Giao tiếp kỹ thuật
+       Giao tiếp là một quá trình trao đổi thông tin giữa hai hoặc nhiều người,
+nhằm mục đích truyền đạt ý tưởng, suy nghĩ, cảm xúc, hoặc đạt được một mục
+đích cụ thể nào đó. Giao tiếp kỹ thuật là hoạt động truyền tải thông tin khoa học
+kỹ thuật một cách chính xác, rõ ràng và hiệu quả, nhằm đạt được mục đích giao
+tiếp cụ thể.
+
+       - Giao tiếp kỹ thuật có thể diễn ra bằng nhiều hình thức khác nhau, bao
+gồm:
+
+       + Giao tiếp bằng lời nói, âm thanh: Trò chuyện trực tiếp, thuyết trình, báo
+cáo, thông báo...
+
+      Thông báo, cảnh báo bằng âm thanh thường được sử dụng trong nhà máy,
+máy móc kỹ thuật. Thông báo, cảnh báo có thể được thể hiện qua giọng nói, âm
+thanh (chuông cảnh báo, chuông báo giờ vào lớp và nghỉ giải lao,...). Âm thanh
+sử dụng trong giao tiếp kỹ thuật thường sử dụng phép ẩn dụ để liên hệ với ý nghĩa
+
+
+                                          1
+của chúng. Ví dụ, âm thanh của xé giấy đi kèm với việc xóa một tệp, âm thanh
+của bắn súng điện tử khi loại bỏ một virut trong máy tính.
+
+       + Giao tiếp bằng văn bản: báo cáo, tài liệu kỹ thuật, email,... Tài liệu kỹ
+thuật bao gồm các hướng dẫn sử dụng, quy trình kỹ thuật, tiêu chuẩn kỹ thuật,...
+Tài liệu kỹ thuật cần được viết một cách rõ ràng, súc tích và dễ hiểu để người đọc
+có thể dễ dàng nắm bắt thông tin.
+
+      + Giao tiếp phi ngôn ngữ như: biểu đồ, hình ảnh, sơ đồ. Biểu đồ là hình
+thức giao tiếp kỹ thuật hiệu quả để trình bày dữ liệu một cách trực quan và dễ
+hiểu. Hình ảnh là hình thức giao tiếp kỹ thuật hiệu quả để minh họa cho nội dung
+được trình bày. Hình ảnh có thể giúp người xem hiểu rõ hơn về vấn đề và thu hút
+sự chú ý của họ. Sơ đồ là hình thức giao trình bày các mối quan hệ giữa các yếu
+tố khác nhau trong một hệ thống hoặc quy trình. Sơ đồ có thể giúp người xem
+hiểu rõ hơn về cách thức hoạt động của hệ thống hoặc quy trình.
+      - Ứng dụng trong thiết kế kỹ thuật
+
+      Ngôn ngữ kỹ thuật giúp các kỹ sư truyền tải thông tin thiết kế một cách
+chính xác, rõ ràng, không mơ hồ, nhầm lẫn. Sử dụng các thuật ngữ kỹ thuật chuyên
+ngành một cách chính xác, thống nhất để đảm bảo mọi người hiểu rõ ý đồ thiết
+kế. Tránh sử dụng ngôn ngữ mơ hồ, đa nghĩa có thể dẫn đến hiểu sai thông tin. Ví
+dụ: Thay vì nói "Bộ phận này cần phải chắc chắn", hãy sử dụng thuật ngữ kỹ thuật
+chính xác hơn như "Bộ phận này cần phải có độ bền kéo tối thiểu là 100 MPa".
+Thay vì nói "Hệ thống cần phải hoạt động nhanh hơn", hãy sử dụng chỉ số đo
+lường cụ thể như "Hệ thống cần phải có thời gian phản hồi tối đa là 1 giây".
+
+       Giao tiếp kỹ thuật hiệu quả giúp các thành viên trong nhóm thiết kế hiểu rõ
+vai trò, trách nhiệm của nhau và phối hợp nhịp nhàng. Trao đổi thông tin thiết kế
+một cách rõ ràng, súc tích giúp giải quyết vấn đề nhanh chóng và hiệu quả. Sử
+dụng ngôn ngữ phù hợp với đối tượng tiếp nhận, tạo sự đồng thuận và thống nhất
+trong nhóm. Ví dụ: Sử dụng các công cụ giao tiếp trực tuyến như email, chat
+nhóm để trao đổi thông tin thiết kế một cách nhanh chóng và hiệu quả. Tổ chức
+các buổi họp nhóm để thảo luận về các vấn đề thiết kế và đưa ra quyết định chung.
+Ghi chép lại các quyết định và hành động trong các buổi họp để đảm bảo mọi
+người đều hiểu rõ và thực hiện theo.
+
+       Ngôn ngữ kỹ thuật giúp các kỹ sư thuyết trình ý tưởng thiết kế một cách
+logic, khoa học và thuyết phục. Sử dụng các hình ảnh, biểu đồ, sơ đồ minh họa để
+làm rõ ý tưởng thiết kế. Trình bày vấn đề một cách khách quan, trung thực, dựa
+trên dữ liệu và bằng chứng khoa học. Ví dụ: Sử dụng các bài thuyết trình
+
+                                           2
+PowerPoint để trình bày ý tưởng thiết kế một cách trực quan và sinh động. Sử
+dụng các số liệu thống kê, dữ liệu thực tế để chứng minh hiệu quả của ý tưởng
+thiết kế. Trả lời các câu hỏi của người nghe một cách rõ ràng, súc tích và thuyết
+phục.
+
+       Ngôn ngữ kỹ thuật được sử dụng để ghi chép và lưu trữ thông tin thiết kế
+một cách đầy đủ, chính xác và có hệ thống. Việc sử dụng ngôn ngữ thống nhất
+giúp dễ dàng truy cập và tìm kiếm thông tin thiết kế trong tương lai. Lưu trữ thông
+tin thiết kế bằng ngôn ngữ kỹ thuật giúp bảo vệ quyền sở hữu trí tuệ của các kỹ
+sư. Ví dụ: Sử dụng các phần mềm quản lý tài liệu để lưu trữ thông tin thiết kế một
+cách có hệ thống. Đặt tên cho các tập tin thiết kế một cách rõ ràng và súc tích để
+dễ dàng tìm kiếm. Ghi chú lại các thông tin quan trọng về thiết kế trong các tài
+liệu.
+
+      Viết tài liệu kỹ thuật: Viết báo cáo kỹ thuật cần rõ ràng, súc tích, chính xác
+và đầy đủ thông tin về thiết kế, tính năng, chức năng, và cách sử dụng sản phẩm
+hoặc hệ thống. Viết hướng dẫn sử dụng nhằm cung cấp hướng dẫn dễ hiểu cho
+người dùng về cách sử dụng sản phẩm hoặc hệ thống một cách an toàn và hiệu
+quả. Viết tài liệu hướng dẫn nhằm cung cấp hướng dẫn chi tiết cho kỹ thuật viên
+về cách bảo trì, sửa chữa và vận hành sản phẩm hoặc hệ thống.
+
+       Ứng dụng giọng nói thiết kế kỹ thuật: Nhận dạng giọng nói có thể được sử
+dụng để giao tiếp với các thiết bị điện tử, chẳng hạn như điện thoại thông minh,
+máy tính và ô tô. Điều này cho phép người dùng thực hiện các tác vụ như thực
+hiện cuộc gọi, gửi tin nhắn và điều hướng mà không cần phải sử dụng tay. Nhận
+dạng giọng nói có thể được sử dụng để tự động hóa các tác vụ, chẳng hạn như
+nhập liệu và điều khiển các thiết bị gia dụng. Điều này có thể giúp tiết kiệm thời
+gian và công sức cho người dùng. Nhận dạng giọng nói có thể được sử dụng để
+tạo ra các trợ lý ảo, chẳng hạn như Siri và Alexa. Các trợ lý ảo này có thể thực
+hiện các tác vụ như đặt báo thức, đặt hẹn và tìm kiếm thông tin.
+
+      Công nghệ nói đã có hai đóng góp lớn cho lĩnh vực tương tác giữa con
+người và máy tính. Sự phát triển của giao diện dựa trên giọng nói, cho phép người
+dùng tương tác với máy móc bằng giọng nói của họ. Sự phát triển của các kỹ thuật
+để đo lường và dự đoán tác động của biến dạng giọng nói đối với sự hiểu biết.
+Biến dạng giọng nói có thể do nhiều yếu tố gây ra, chẳng hạn như tiếng ồn nền,
+suy giảm kênh hoặc sử dụng giọng nói tổng hợp.
+
+      Giao tiếp với khách hàng thể hiện qua những nhiệm vụ sau: Giới thiệu, tư
+vấn cho khách hàng một cách rõ ràng, thu hút và thuyết phục; lắng nghe và ghi
+
+                                         3
+nhận phản hồi của khách hàng để cải thiện thiết kế; giải đáp các thắc mắc của
+khách hàng một cách rõ ràng và chính xác.
+
+      Giao tiếp thông qua video kèm giọng nói khá giống với giao tiếp trực tiếp,
+mang lại trải nghiệm tích cực cho người dùng, giúp cho hoạt động giao tiếp qua
+máy tính, điện thoại của các nhóm không làm việc trực tiếp.
+
+      Sử dụng ngôn ngữ và giao tiếp để thiết kế sản phẩm và hệ thống dễ sử dụng
+cho người dùng, giảm thiểu nguy cơ tai nạn và sự cố do sử dụng sản phẩm, tạo ra
+các sản phẩm và hệ thống chất lượng cao, đáp ứng nhu cầu của khách hàng và
+đảm bảo an toàn.
+
+      2.5. Lý thuyết về trí nhớ
+      2.5.1. Quá trình trí nhớ
+      2.5.1.1. Khái niệm
+      Trí nhớ là quá trình tâm lý phản ánh vốn kinh nghiệm của cá nhân dưới
+hình thức biểu tượng bằng cách ghi nhới, gìn giữ, nhận lại, và nhớ lại những gì cá
+nhân đã trải qua. Hay nói cách khác trí nhớ là quá trình tâm lý nhận thức phản ánh
+những cái đã qua của con người.
+
+      Trí nhớ (memory) là các quá trình liên quan đến việc lưu giữ, truy xuất và
+sử dụng thông tin về kích thích, hình ảnh, sự kiện, ý tưởng và kỹ năng sau khi
+thông tin ban đầu không còn nữa.1
+
+      Như vậy, nét đặc trưng nhất của trí nhớ là trung thành với tất cả những gì
+cá nhân đã trải qua, tức là nó hoạt động một cách máy móc và thật thà; trí nhớ
+không làm thay đổi chút gì trong các yếu tố đã được cá nhân trải qua.
+
+2.5.1.2. Các loại trí nhớ
+
+      Dựa trên phương thức hình thành, trí nhớ bao gồm: trí nhớ vận động, trí
+nhớ cảm xúc, trí nhớ hình tượng, trí nhớ từ ngữ - logic.
+       Dựa trên thời gian lưu trữ và dung lượng, trí nhớ có thể được chia thành ba
+loại chính: trí nhớ cảm giác, trí nhớ ngắn hạn (trí nhớ làm việc), trí nhớ dài hạn.
+
+
+
+
+      1
+          Cognitive Psychology, 2011.
+
+                                        4
+      Hình 2. 1: Các loại trí nhớ
+      1) Trí nhớ cảm giác
+
+      Trí nhớ cảm giác là một hệ thống lưu trữ thông tin ngắn hạn, có khả năng
+lưu giữ thông tin vừa được tiếp nhận từ các giác quan trong khoảng thời gian ngắn
+(khoảng 200 – 500ms) trước khi nó phai mờ hoặc được chuyển sang trí nhớ ngắn
+hạn hoặc dài hạn.
+
+       Trí nhớ cảm giác hoạt động như một bộ đệm tạm thời, lưu trữ thông tin chi
+tiết và sống động về các kích thích giác quan như hình ảnh, âm thanh, mùi vị, xúc
+giác và vị giác.
+
+       Nó không liên quan đến ý thức hay nỗ lực ghi nhớ, mà là quá trình tự động
+diễn ra ngay khi tiếp nhận thông tin. Dung lượng của trí nhớ cảm giác có hạn, chỉ
+có thể lưu trữ một lượng thông tin nhất định trong một khoảng thời gian ngắn.
+Thông tin trong trí nhớ cảm giác sẽ nhanh chóng phai mờ nếu không được chú ý
+hoặc lặp lại.
+
+      * Quá trình trí nhớ cảm giác:
+
+      - Tiếp nhận thông tin: Thông tin được tiếp nhận từ các giác quan (mắt, tai,
+mũi, lưỡi, da).
+
+       - Mã hóa: Thông tin được chuyển đổi thành dạng mã mà bộ não có thể lưu
+trữ và xử lý.
+
+      - Lưu trữ: Thông tin được lưu trữ trong trí nhớ cảm giác trong khoảng thời
+gian ngắn.
+
+
+                                       5
+       - Lấy lại: Nếu được chú ý hoặc lặp lại, thông tin có thể được chuyển sang
+trí nhớ ngắn hạn hoặc dài hạn.
+
+      - Phai mờ: Nếu không được chú ý hoặc lặp lại, thông tin sẽ nhanh chóng
+phai mờ và biến mất khỏi trí nhớ cảm giác.
+
+      Giúp con người tiếp nhận và xử lý thông tin nhanh chóng từ môi trường
+xung quanh. Cung cấp nguồn dữ liệu ban đầu cho các quá trình nhận thức cao hơn
+như học tập, ghi nhớ và ra quyết định. Đóng vai trò quan trọng trong việc tạo ấn
+tượng ban đầu và định hình trải nghiệm của con người với thế giới xung quanh.
+
+     Dung lượng lưu trữ hạn chế, chỉ có thể lưu trữ thông tin trong thời gian
+ngắn và dễ bị ảnh hưởng bởi các yếu tố nhiễu và sự xao nhãng. Nếu thông tin
+không được chú ý hoặc lặp lại sẽ nhanh chóng phai mờ.
+
+          2) Trí nhớ làm việc
+
+      Bộ nhớ làm việc, còn được gọi là bộ nhớ ngắn hạn, là hệ thống chịu trách
+nhiệm lưu trữ và xử lý thông tin trong thời gian ngắn, thường chỉ từ vài giây đến
+vài phút 2.
+
+      Bộ nhớ làm việc là kho lưu trữ tạm thời, đòi hỏi sự chú ý để giữ lại thông
+tin mới (như số điện thoại mới) cho đến khi chủ thể sử dụng nó (quay số). Trí nhớ
+làm việc được ví như một loại "bàn làm việc" của ý thức, nơi chủ thể kiểm tra,
+đánh giá, biến đổi và so sánh các biểu tượng khác nhau.
+
+          Đặc điểm của trí nhớ làm việc:
+
+      Trí nhớ ngắn hạn có khả năng lưu giữ một lượng thông tin giới hạn. Thông
+thường, con người chỉ có thể lưu giữ khoảng 5-9 mục trong trí nhớ ngắn hạn cùng
+một lúc.
+
+        Thông tin trong trí nhớ ngắn hạn chỉ được lưu giữ trong một khoảng thời
+gian ngắn, thường chỉ vài giây đến vài phút. Nếu không được cập nhật hoặc lặp
+lại, thông tin sẽ bị mất đi.
+
+      Trí nhớ ngắn hạn giữ vai trò quan trọng trong quá trình xử lý thông tin tư
+duy ngắn hạn. Nó giúp tổ chức và sắp xếp thông tin, tạo ra kết nối giữa các mục
+thông tin khác nhau và tương tác với trí nhớ dài hạn.
+
+
+
+          2
+            Atkinson, R.C., & Shiffrin, R.M. (1968). "Human memory: A proposed system and its control processes". Psychology of Learning
+and Motivation. 2: 89-195.
+
+                                                                  6
+      Trí nhớ ngắn hạn cho phép chúng ta duy trì và làm việc với nhiều thông tin
+cùng một lúc. Điều này cho phép chúng ta thực hiện các tác vụ đa nhiệm và chuyển
+đổi giữa chúng một cách linh hoạt.
+
+       Trí nhớ ngắn hạn hoạt động bằng cách lưu trữ thông tin trong một hệ thống
+mạng lưới nơ-ron trong não bộ. Khi chúng ta tiếp nhận một thông tin mới, các nơ-
+ron này sẽ tạo ra các kết nối mới với nhau. Những kết nối này càng mạnh, thông
+tin càng được lưu trữ lâu hơn.
+
+      Bộ nhớ làm việc có những thành phần sau:
+
+       Vòng lặp âm thanh là một hệ thống cho phép chúng ta lặp lại thông tin trong
+tâm trí trong vài giây. Nó rất hữu ích cho việc ghi nhớ các số điện thoại, danh sách
+và các thông tin ngắn hạn khác.
+
+        Bộ đệm thị giác là một hệ thống cho phép chúng ta lưu trữ và xử lý thông
+tin thị giác trong thời gian ngắn. Nó rất hữu ích cho việc ghi nhớ hình ảnh, khuôn
+mặt và các thông tin thị giác khác.
+
+      Bộ điều khiển là hệ thống giám sát và điều phối hoạt động của vòng lặp âm
+thanh và bộ đệm thị giác. Nó cũng chịu trách nhiệm cho việc lựa chọn thông tin
+nào sẽ được lưu trữ trong bộ nhớ dài hạn.
+
+      Hạn chế của bộ nhớ làm việc
+
+       - Thời lượng của bộ nhớ: Bộ nhớ làm việc duy trì thông tin trong thời gian
+rất ngắn, chỉ thoáng qua. Trong trường hợp bình thường, rất ít thông tin được giữ
+lại quá 10 đến 15 giây3. Tính thoáng qua này của bộ nhớ làm việc gây ra một số
+khó khăn cho những nhiệm vụ cần ghi nhớ thông tin.
+
+       Giải pháp cho hạn chế này của bộ nhớ làm việc là tăng cường kích thích để
+sự hiển thị được lâu dài hơn. Chẳng hạn, thay vì chỉ có kích thích bằng ngôn ngữ
+nói thì có thể kết hợp với hiển thị thông tin đó dưới dạng chữ viết, ký hiệu.
+
+      - Dung lượng: giới hạn về sức chứa của bộ nhớ làm việc cũng là một hạn
+chế. Sự phân rã diễn ra nhanh hơn khi nhiều thông tin được lưu giữ trong bộ nhớ
+làm việc. Tốc độ của tín hiệu khác nhau hoặc sự khác biệt giữa mọi người ảnh
+hưởng trực tiếp đến khả năng của bộ nhớ làm việc.
+
+      Dung lượng của bộ nhớ làm việc con người có hạn, thường chỉ khoảng 7
+mục, điều này được thể hiện rõ trong định luật Miller (số 7 kì diệu).
+
+      3
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+
+                                                               7
+      - Kỹ thuật Chunking
+
+      Chunking là sự mã hóa lại thông tin bằng cách liên kết ngữ nghĩa các mẩu
+thông tin lại với nhau và là một kỹ thuật có giá trị để duy trì thông tin trong bộ
+nhớ làm việc. Hay Chunking là kỹ thuật chia nhỏ thông tin thành các cụm nhỏ
+hơn, dễ quản lý hơn để dễ dàng ghi nhớ và xử lý. Nó dựa trên nguyên tắc rằng bộ
+nhớ làm việc của con người có dung lượng giới hạn, chỉ có thể lưu trữ một lượng
+thông tin nhất định cùng một lúc.
+
+       Ví dụ: Thay vì cố gắng ghi nhớ một dãy số dài của số điện thoại 10 chữ số,
+bạn có thể chia nó thành 3 nhóm chữ số: 0979.779.178 hay cụm từ SKH.ASIO sẽ
+dễ nhớ hơn khi là một chuỗi ký tự dài SKHASIO. Thay vì cố gắng ghi nhớ một
+danh sách dài các mặt hàng tạp hóa, bạn có thể phân nhóm chúng theo loại: trái
+cây, rau, thịt, cá, sữa,...
+
+      Lợi ích của kỹ thuật Chunking: Chunking cho phép bạn lưu trữ nhiều thông
+tin hơn trong bộ nhớ làm việc của mình bằng cách chia nhỏ nó thành các phần
+nhỏ hơn; giúp bạn liên kết thông tin mới với thông tin hiện có trong bộ nhớ dài
+hạn, giúp bạn ghi nhớ thông tin tốt hơn; giúp chủ thể xử lý thông tin nhanh hơn
+và hiệu quả hơn bằng cách cho phép bạn tập trung vào từng phần nhỏ một.
+
+      - Yếu tố gây nhiễu trong trí nhớ làm việc
+
+       Có hai loại nhiễu ảnh hưởng đến trí nhớ làm việc là nhiễu chủ động và nhiễu
+hồi tố.
+
+      Nhiễu chủ động xảy ra khi hoạt động tham gia trước đó sẽ tác động, ảnh
+hưởng đến quá trình tái hiện mà thời gian giữa chúng ngắn hoặc với những người
+có dung lượng bộ nhớ làm việc thấp. Vì vậy, để sự trao đổi giữa hai nội dung khác
+nhau không bị ảnh hưởng bởi những thông tin trước đó thì giữa hai cuộc trao đổi
+nên có một khoảng thời gian nhất định, thường là khoảng 10 giây.
+
+      Nhiễu hồi tố phát sinh do sự ảnh hưởng của thông tin, hoạt động mới đến
+thông tin, những tài liệu trước đó. Ví dụ, khi chúng ta sử dụng một số điện thoại
+mới trong một thời gian nhất định thì sẽ khó nhớ số điện thoại cũ trước đây.
+
+     Các thông tin trong bộ nhớ làm việc cũng dễ bị sai lệch, bị quên nếu giữa
+chúng có sự tương tự nhau về nội dung. Ví dụ, hai từ mới tiếng Anh là: EXPECT,
+EXPERT sẽ gây khó khăn cho sinh viên trong việc ghi nhớ.
+
+       Sự tương đồng cũng làm tăng mức sai lệch do nhiễu chủ động và nhiễu hồi
+tố vì tài liệu cần nhớ bị nhầm lẫn với tài liệu tiếp theo hoặc tài liệu có trước, bởi
+chúng chia sẻ tính năng chung của vật liệu đó. Ví dụ, chuỗi kí tự SKH1129 sẽ dễ
+                                         8
+nhớ hơn chuỗi 8251129 do việc nhớ 4 chữ số trong trường hợp thứ hai bị ảnh
+hưởng bởi nhiễu chủ động có tính tương đồng bởi 3 chữ số đằng trước.
+
+          Vận dụng trong thiết kế kĩ thuật:
+
+          Tránh tạo ra mã với các chuỗi lớn có các kí tự tương tự nhau;
+
+      Sử dụng các mã khác nhau (bằng ngôn ngữ và hình ảnh) cho các nguồn
+thông tin khác nhau;
+
+      Đảm bảo rằng trước, trong và sau khi ghi nhớ tài liệu không có bất kì hoạt
+động không cần thiết nào sử dụng cùng một mã (kí tự, ngôn ngữ hoặc hình ảnh),
+đặc biệt là cùng một tài liệu như thông tin được lưu trữ.
+
+        Sử dụng các thang đo hoặc nhãn tỉ lệ khác nhau cho các thuộc tính hoặc các
+vị trí riêng biệt, duy nhất cho các đối tượng phải được theo dõi;
+
+      Khi thiết kế bất kỳ một sản phẩm kĩ thuật nào, phân tích bộ nhớ làm việc là
+một thành phần quan trọng của phân tích tác vụ tổng quát để xác định các trường
+hợp mà người vận hành có thể cần lưu giữ thông tin trong bất kì khoảng thời gian
+ngắn , có thể là vài giây.
+
+      Trong thực tiễn, mặc dù nhiều thông tin được lưu giữ, hiển thị sẵn trên màn
+hình mày móc, không đòi hỏi người vận hành phải nhớ thì những nguyên tắc trên
+vẫn nên được áp dụng cho các hệ thống này. Điều này sẽ giúp người vận hành
+giảm bớt gánh nặng và sự phụ thuộc của quá trình nhận thức vào màn hình; hoặc
+trong trường hợp có lỗi thệ thống, thông tin hiển thị có thể bị mất đi thì bộ nhớ
+làm việc chính xác trở nên cần thiết, hữu ích.
+
+          3) Trí nhớ dài hạn
+
+      Đây là hình thức trí nhớ lưu trữ thông tin trong một thời gian dài, có thể là
+tháng, năm, thập kỷ hoặc cả cuộc đời. LTM có dung lượng lưu trữ vô hạn và có
+thể chứa rất nhiều loại thông tin từ sự kiện cá nhân, kiến thức về thế giới cho đến
+những kỹ năng mà chúng ta học được. 4
+
+       Trí nhớ dài hạn đóng vai trò quan trọng trong việc giúp chúng ta học tập,
+ghi nhớ kiến thức và trải nghiệm, cũng như đưa ra quyết định dựa trên kinh nghiệm
+quá khứ. Nó là một hệ thống phức tạp cho phép chúng ta lưu trữ và truy xuất nhiều
+loại thông tin khác nhau, bao gồm sự kiện, kiến thức, kỹ năng và ký ức.
+
+
+          4
+             Squire, L.R. (1992) "Memory and the Hippocampus: A Synthesis from Findings with Rats, Monkeys, and Humans". Psychological
+Review. 99 (2): 195-231.
+
+                                                                  9
+      Trí nhớ dài hạn có thể lưu trữ nhiều loại thông tin khác nhau, bao gồm: các
+sự kiện, kiến thức, kỹ năng, ký ức. Sự kiện như ngày sinh nhật của bạn, ngày bạn
+tốt nghiệp đại học, hoặc những sự kiện lịch sử quan trọng. Kiến thức như kiến
+thức về toán học, khoa học, lịch sử hoặc ngôn ngữ. Kỹ năng như khả năng lái xe,
+chơi đàn piano hoặc nấu ăn. Ký ức như những kỷ niệm thời thơ ấu, những trải
+nghiệm du lịch hoặc những khoảnh khắc quan trọng trong cuộc sống.
+
+      Các giai đoạn trí nhớ:
+
+      - Ghi nhớ/ mã hóa
+
+      Giai đoạn đầu tiên, mã hóa, mô tả quá trình đưa mọi thứ vào hệ thống bộ
+nhớ. Mã hóa có thể có hai dạng được hiển thị trong sơ đồ: mã hóa vào bộ nhớ làm
+việc hoặc chuyển thông tin từ bộ nhớ làm việc sang bộ nhớ dài hạn. Quá trình mã
+hóa có thể bao gồm việc liên kết thông tin mới với thông tin đã có, hoặc tạo ra các
+kết nối mới giữa các nơ-ron trong não bộ.
+
+      - Lữu trữ
+
+       Sau khi thông tin được mã hóa, nó sẽ được lưu trữ trong các mạng lưới nơ-
+ron trong não bộ. Vị trí lưu trữ của thông tin sẽ phụ thuộc vào loại thông tin đó.
+Ví dụ như, những sự kiện thường được lưu trữ trong vỏ não, trong khi kỹ năng
+thường được lưu trữ trong tiểu não. Lưu trữ, giai đoạn thứ hai, đề cập đến cách
+thức thông tin được giữ hoặc biểu diễn trong hai hệ thống bộ nhớ. Các thuật ngữ
+mà chúng tôi sử dụng để mô tả nó khác nhau đối với bộ nhớ làm việc, trong đó
+chúng tôi nhấn mạnh mã không gian so với mã bằng lời nói, so với bộ nhớ dài
+hạn, trong đó chúng tôi nhấn mạnh kiến thức khai báo và thủ tục, các tập phim và
+mô hình tinh thần. Lưu trữ cũng được đặc trưng bởi thời gian lưu trữ, trước khi
+truy xuất diễn ra và bởi hoạt động nhận thức diễn ra trong quá trình lưu trữ.
+
+      - Tái hiện/ truy xuất
+
+       Giai đoạn thứ ba, truy xuất, đề cập đến khả năng của chúng ta để đưa mọi
+thứ ra khỏi bộ nhớ thành công. Khi chúng ta cần truy xuất một thông tin từ trí nhớ
+dài hạn, não bộ sẽ thực hiện một quá trình gọi là truy xuất. Quá trình truy xuất có
+thể bao gồm việc kích hoạt các mạng lưới nơ-ron liên quan đến thông tin đó.
+
+      Việc truy xuất không thành công với các nguyên nhân khác nhau của lỗi
+truy xuất hoặc quên. Đôi khi tài liệu chỉ đơn giản là không thể được lấy ra. Vào
+những lúc khác, nó được truy xuất không chính xác, như khi chúng tôi trộn các
+bước trong một quy trình ghi nhớ. Quên xảy ra do thời gian, do quá tải dung lượng,
+
+
+                                        10
+do tác động từ tài liệu được lĩnh hội ở thời điểm khác (gọi là nhiễu). Quên diễn ra
+với cả bộ nhớ làm việc và bộ nhớ dài hạn.
+
+      Đặc điểm của trí nhớ dài hạn:
+
+       Trí nhớ dài hạn có dung lượng rất lớn, có thể lưu trữ vô số thông tin khác
+nhau. Tuy nhiên, khả năng lưu trữ thông tin của mỗi người cũng có giới hạn nhất
+định. Thông tin được lưu trữ trong trí nhớ dài hạn có thể tồn tại trong thời gian
+dài, có thể là nhiều năm hoặc thậm chí là cả đời. Việc truy xuất thông tin từ trí
+nhớ dài hạn có thể mất nhiều thời gian hơn so với truy xuất thông tin từ trí nhớ
+ngắn hạn. Tuy nhiên, một khi thông tin đã được truy xuất, nó sẽ được lưu trữ trong
+trí nhớ dài hạn một cách lâu dài. Thông tin được lưu trữ trong trí nhớ dài hạn có
+thể thay đổi theo thời gian do ảnh hưởng của nhiều yếu tố như trải nghiệm mới,
+cảm xúc và sự lãng quên. Thông tin được lưu trữ trong trí nhớ dài hạn có thể được
+tái cấu trúc để phù hợp với những tình huống và hoàn cảnh mới. Trí nhớ dài hạn
+cho phép chúng ta tổng hợp thông tin từ nhiều nguồn khác nhau để tạo thành
+những kiến thức mới.
+
+       Bộ nhớ dài hạn (long term memory) là một hệ thống lưu trữ thông tin trong
+một khoảng thời gian dài, có thể tính bằng năm. Nó lưu giữ những ký ức, kiến
+thức và kỹ năng mà chúng ta học được và trải nghiệm qua. LTM khác với bộ nhớ
+ngắn hạn (Short Term Memory - STM) ở chỗ nó có dung lượng không giới hạn
+và có thể lưu trữ thông tin trong một thời gian dài.
+
+      Có nhiều cách để cải thiện trí nhớ dài hạn, bao gồm:
+
+       Sử dụng kỹ thuật ghi nhớ: Kỹ thuật ghi nhớ, chẳng hạn như phương pháp
+loci, có thể giúp bạn liên kết thông tin mới với thông tin hiện có trong trí nhớ dài
+hạn.
+
+       Phương pháp Loci là một kỹ thuật ghi nhớ lâu đời có hiệu quả cao giúp ghi
+nhớ thông tin bằng cách liên kết nó với các địa điểm quen thuộc. Phương pháp
+này được cho là có nguồn gốc từ Hy Lạp cổ đại. Các bước trong phương pháp
+này: 1) Bắt đầu bằng cách chọn một địa điểm mà bạn biết rõ từng ngóc ngách,
+chẳng hạn như nhà của bạn, trường học cũ hoặc nơi làm việc. 2) Tưởng tượng một
+hành trình đi qua các địa điểm khác nhau trong địa điểm đã chọn. Cố gắng ghi
+nhớ thứ tự các địa điểm này. 3) Khi bạn muốn ghi nhớ một thông tin mới, hãy liên
+kết nó với một hình ảnh sống động và sau đó đặt hình ảnh đó vào một vị trí cụ thể
+dọc theo hành trình của bạn. 4) Ôn lại hành trình của bạn thường xuyên để củng
+cố trí nhớ của bạn.
+
+
+                                        11
+      Ôn tập thường xuyên: Ôn tập thông tin thường xuyên là chìa khóa để lưu
+trữ nó trong trí nhớ dài hạn.
+
+       Ngủ đủ giấc rất quan trọng cho việc củng cố trí nhớ, quản lý căng thẳng có
+thể giúp cải thiện khả năng ghi nhớ và học tập.
+
+      * Ứng dụng lý thuyết trí nhớ trong thiết kế kỹ thuật
+
+       - Thiết kế giao diện của sản phẩm kỹ thuật: Các nhà thiết kế cần hiểu cách
+người dùng tiếp nhận, xử lý và lưu trữ thông tin để tạo ra các giao diện người
+dùng trực quan, dễ hiểu và dễ sử dụng. Các nguyên tắc ghi nhớ như lặp lại, liên
+kết và tổ chức thông tin có thể được áp dụng để giúp người dùng ghi nhớ các chức
+năng và thao tác của hệ thống. Hệ thống nên được thiết kế để giảm tải tối đa cho
+trí nhớ của người dùng, tự động thực hiện các thao tác lặp đi lặp lại và cung cấp
+các gợi ý khi cần thiết.
+
+       - Thiết kế hệ thống thông tin: Hệ thống thông tin nên được cấu trúc một
+cách hợp lý để người dùng dễ dàng tìm kiếm và truy cập thông tin cần thiết. Sử
+dụng các phương pháp phân loại và sắp xếp thông tin như phân cấp, theo chủ đề,
+theo thời gian, v.v. có thể giúp người dùng nhanh chóng tìm kiếm thông tin cần
+thiết. Cung cấp các công cụ tìm kiếm và lọc thông tin để giúp người dùng nhanh
+chóng thu hẹp phạm vi tìm kiếm và tìm kiếm thông tin chính xác.
+
+      - Thiết kế hệ thống hỗ trợ quyết định: Hệ thống hỗ trợ quyết định cần cung
+cấp đầy đủ thông tin cho người dùng để họ có thể đưa ra quyết định sáng suốt.
+Trình bày thông tin một cách trực quan, dễ hiểu để người dùng có thể nhanh chóng
+nắm bắt các yếu tố quan trọng. Sử dụng các công cụ phân tích dữ liệu để giúp
+người dùng xác định các xu hướng và đưa ra dự đoán chính xác.
+
+       - Thiết kế hệ thống an toàn: Hệ thống nên được thiết kế để giảm thiểu nguy
+cơ sai sót của con người, chẳng hạn như sử dụng các cảnh báo, khóa an toàn và
+các quy trình an toàn rõ ràng. Cung cấp các biện pháp phòng ngừa để giảm thiểu
+hậu quả của các sai sót của con người, chẳng hạn như hệ thống dự phòng và các
+quy trình khôi phục. Hệ thống nên cung cấp các chương trình đào tạo và nâng cao
+nhận thức về an toàn cho người dùng để giúp họ hiểu rõ các nguy cơ tiềm ẩn và
+biết cách phòng ngừa.
+
+      2.5.2. Tải nhận thức
+       2.5.2.1. Khái niệm
+
+
+
+                                       12
+      Tải nhận thức là tổng số lượng các hoạt động trí óc đặt lên trí nhớ làm việc
+khi thực hiện các nhiệm vụ học tập, tải đó được xác định bằng tổng tải nội tại, tải
+ngoại lai và tải lược đồ.
+
+       Lí thuyết tải nhận thức là lí thuyết học tập được Sweller (1988) phát triển
+theo một số lí thuyết được chấp nhận rộng rãi về cách bộ não con người tiếp nhận,
+xử lí và lưu trữ thông tin. Tải nhận thức khẳng định rằng nhu cầu chú ý hoặc khối
+lượng công việc tinh thần của người học có thể được chia thành ba yếu tố riêng
+biệt: tải nội tại, tải ngoại lai và tải lược đồ.
+
+      2.5.2.2. Các loại tải
+
+       + Tải nhận thức nội sinh (Intrinsic cognitive load): là loại tải nhận thức liên
+quan đến các hoạt động xử lý thông tin nội bộ, chẳng hạn như: Chuyển đổi thông
+tin mới thành một dạng mà bộ não có thể lưu trữ; tìm kiếm các mối liên hệ giữa
+thông tin mới và những gì đã học trước đây; phân tích thông tin và đưa ra quyết
+định; theo dõi tiến trình học tập và điều chỉnh chiến lược học tập nếu cần thiết.
+
+       Ví dụ, học lái máy bay phức tạp hơn học lái ô tô, vì số lượng trục mà nó có
+thể di chuyển, quay, và vì sự kết hợp phức tạp giữa các trục.
+
+      Tải nhận thức nội sinh luôn hiện hữu trong quá trình học tập và không thể
+tránh khỏi. Tuy nhiên, có thể giảm bớt tải nhận thức nội sinh bằng cách thiết kế
+các môi trường học tập hiệu quả và sử dụng các chiến lược học tập phù hợp.
+
+       + Tải nhận thức ngoại sinh (Extraneous cognitive load): là loại tải nhận thức
+liên quan đến các yếu tố bên ngoài gây khó khăn cho việc xử lý thông tin, chẳng
+hạn như: Giao diện của máy móc quá nhiều thông tin, bố cục lộn xộn, hoặc sử
+dụng các ký hiệu và biểu tượng không rõ ràng; ngôn ngữ phức tạp, cấu trúc không
+logic, thiếu hình ảnh minh họa; mô phỏng và trò chơi không hấp dẫn, thiếu cơ hội
+thực hành, phản hồi không kịp thời hoặc không hữu ích.
+
+     Tải nhận thức ngoại sinh có thể được kiểm soát bằng cách thiết kế các sản
+phẩm và dịch vụ dễ sử dụng, dễ học tập và hiệu quả.
+
+      + Tải lược đồ (Germane cognitive load): là loại tải nhận thức liên quan đến
+việc xây dựng và áp dụng kiến thức mới, chẳng hạn như: Học các khái niệm mới;
+luyện tập các kỹ năng và áp dụng chúng vào thực tế; phân tích thông tin, đưa ra
+quyết định và thực hiện các bước để giải quyết vấn đề.
+
+      Tải lược đồ là cần thiết cho việc học tập hiệu quả. Tuy nhiên, nó cũng có
+thể gây ra gánh nặng cho hệ thống làm việc của con người. Do đó, cần thiết phải
+
+                                         13
+thiết kế các môi trường học tập hỗ trợ người học trong việc xây dựng và áp dụng
+kiến thức mới một cách hiệu quả.
+
+      Ngoài ra, cần lưu ý rằng ba loại tải nhận thức này không hoạt động độc lập
+mà thường xuyên tác động lẫn nhau. Ví dụ, một thiết kế giao diện của máy móc
+phức tạp (tải nhận thức ngoại sinh) có thể khiến người học khó mã hóa thông tin
+mới (tải nhận thức nội sinh), dẫn đến việc học tập kém hiệu quả.
+
+      2.5.2.3. Ứng dụng thuyết tải nhận thức trong thiết kế kỹ thuật
+       Lý thuyết tải nhận thức có thể được áp dụng hiệu quả trong thiết kế kỹ thuật
+để cải thiện khả năng học tập, ghi nhớ và hiểu thông tin phức tạp của người dùng.
+
+       Thiết kế giao diện của máy móc: Tránh hiển thị quá nhiều thông tin trên
+màn hình cùng lúc, vì điều này có thể khiến người dùng quá tải và khó tập trung.
+Thay vào đó, hãy chia nhỏ thông tin thành các phần nhỏ hơn và hiển thị chúng
+theo từng giai đoạn. Bố cục giao diện nên rõ ràng, dễ hiểu và logic để người dùng
+có thể dễ dàng tìm kiếm thông tin cần thiết. Sử dụng các ký hiệu và biểu tượng
+trực quan để thay thế cho văn bản. Điều này có thể giúp người dùng hiểu thông
+tin nhanh hơn và dễ dàng hơn. Cung cấp phản hồi kịp thời cho người dùng khi họ
+thực hiện các hành động. Phản hồi nên rõ ràng, ngắn gọn và hữu ích. Cho phép
+người dùng tùy chỉnh giao diện để phù hợp với sở thích và nhu cầu của họ. Điều
+này có thể giúp người dùng cảm thấy thoải mái hơn và dễ dàng sử dụng giao diện
+hơn.
+
+      Thiết kế tài liệu hướng dẫn: Tránh sử dụng ngôn ngữ kỹ thuật hoặc biệt ngữ
+mà người dùng không hiểu. Thay vào đó, hãy sử dụng ngôn ngữ đơn giản và dễ
+hiểu để mọi người đều có thể dễ dàng tiếp thu thông tin. Chia nhỏ tài liệu thành
+các phần nhỏ hơn, dễ quản lý hơn. Điều này sẽ giúp người dùng dễ dàng theo dõi
+và ghi nhớ thông tin. Sử dụng nhiều hình ảnh, minh họa và sơ đồ để giúp người
+dùng hiểu thông tin dễ dàng hơn. Đưa ra các ví dụ thực tế để minh họa các khái
+niệm và quy trình. Đặt câu hỏi kiểm tra kiến thức sau mỗi phần để giúp người
+dùng đánh giá mức độ hiểu bài của họ.
+
+       Thiết kế phần mềm đào tạo: Sử dụng mô phỏng và trò chơi để giúp người
+dùng học tập một cách thú vị và hấp dẫn hơn. Cho phép người dùng thực hành
+những gì họ đã học để củng cố kiến thức. Cung cấp phản hồi kịp thời cho người
+dùng khi họ thực hiện các bài tập. Phản hồi nên rõ ràng, ngắn gọn và hữu ích.
+Chia nhỏ nội dung đào tạo thành các module nhỏ hơn, dễ quản lý hơn. Điều này
+sẽ giúp người dùng dễ dàng theo dõi và ghi nhớ thông tin. Bài học bao gồm nhiều
+
+
+                                        14
+cấp độ khó khác nhau để đáp ứng nhu cầu của người dùng ở các trình độ khác
+nhau.
+
+      Bằng cách áp dụng lý thuyết tải nhận thức trong thiết kế kỹ thuật, chúng ta
+có thể tạo ra các sản phẩm và dịch vụ dễ sử dụng, dễ học tập và hiệu quả hơn.
+
+      Áp dụng định luật Miller là một trong những biện pháp hạn chế tải nhận
+thức (đọc mục 2.9 trong Chương 2)
+
+      2.6. Lý thuyết phản ứng và lựa chọn hành động
+      2.6.1. Lý thuyết phản ứng
+      2.6.1.1. Khái niệm phản ứng
+       Phản ứng là một khái niệm quan trọng trong tâm lý học, đề cập đến cách
+con người phản ứng với các kích thích (stimuli) từ môi trường xung quanh. Các
+kích thích này có thể bao gồm các yếu tố vật lý (như ánh sáng, âm thanh), yếu tố
+tâm lý (như suy nghĩ, cảm xúc) và yếu tố xã hội (như hành vi của người khác).
+
+      Có hai loại phản ứng chính:
+
+     - Phản ứng tự nhiên: Là những phản ứng bẩm sinh, không cần học hỏi, ví
+dụ như phản ứng giật mình khi nghe tiếng động lớn.
+
+       - Phản ứng học được: Là những phản ứng được hình thành thông qua quá
+trình học tập. Họ sẽ lựa chọn hành động bằng cách xem xét những gì học đã chứng
+kiến, trải qua trong quá khứ. Ví dụ như phản ứng sợ hãi khi nhìn thấy con rắn.
+
+       Phản ứng của con người có thể được biểu hiện qua nhiều cách khác nhau:
+
+      - Hành vi: Cử động cơ, lời nói, nét mặt.
+
+      - Sinh lý: Thay đổi nhịp tim, huyết áp, nhịp thở.
+
+      - Tâm lý: Suy nghĩ, cảm xúc, niềm tin.
+
+      Phản ứng của con người chịu ảnh hưởng bởi nhiều yếu tố như: đặc điểm cá
+nhân (tuổi tác, giới tính, tính cách, di truyền), yếu tố môi trường (môi trường văn
+hóa, xã hội, kinh tế), yếu tố tình huống (hoàn cảnh cụ thể mà con người đang trải
+qua)
+
+      2.6.1.2. Lý thuyết phản ứng
+      Lý thuyết phản ứng nghiên cứu mối quan hệ giữa các kích thích (stimuli)
+và phản ứng (responses) của con người trong môi trường. Lý thuyết phản ứng
+
+                                        15
+được ứng dụng trong thiết kế sản phẩm kỹ thuật nhằm nâng cao hiệu quả và an
+toàn cho người sử dụng.
+
+      Dưới đây là một số yếu tố trong lý thuyết phản ứng:
+
+     Kích thích: Bất kỳ yếu tố nào trong môi trường tác động lên con người, ví
+dụ như âm thanh, ánh sáng, lực, v.v.
+
+       Phản ứng: Phản ứng của con người đối với kích thích, ví dụ như cử động
+cơ, thay đổi nhịp tim, v.v.
+
+       Thời gian phản ứng: Khoảng thời gian từ khi con người nhận thức được
+kích thích đến khi có phản ứng với kích thích đó.
+
+     Mức độ chính xác: Mức độ chính xác của phản ứng so với yêu cầu của
+nhiệm vụ.
+
+      2.6.1.3. Ứng dụng trong thiết kế kỹ thuật
+       Lý thuyết phản ứng đóng vai trò quan trọng trong thiết kế kỹ thuật, giúp tạo
+ra các sản phẩm và hệ thống hiệu quả, dễ sử dụng và an toàn cho người dùng.
+
+      - Ứng dụng trong thiết kế giao diện máy móc: Giúp thiết kế giao diện dễ sử
+dụng và phù hợp với khả năng nhận thức và phản ứng của con người. Sắp xếp
+thông tin hợp lý, sử dụng màu sắc và phông chữ dễ đọc, giúp người dùng nhanh
+chóng nhận thức và hiểu được thông tin. Sắp xếp vị trí các nút điều khiển hợp lý,
+dễ thao tác, giúp người dùng dễ dàng sử dụng.
+
+      - Thiết kế hệ thống điều khiển: Thiết kế hệ thống điều khiển dễ vận hành
+nhằm giảm thiểu sai sót của người sử dụng, đảm bảo an toàn trong quá trình vận
+hành. Cung cấp thông tin phản hồi chính xác và kịp thời cho người sử dụng, giúp
+họ điều chỉnh hành vi phù hợp. Cảnh báo người sử dụng về các nguy cơ tiềm ẩn,
+giúp họ tránh được tai nạn.
+
+       - Đánh giá khả năng làm việc: Đánh giá khả năng nhận thức, phản ứng, và
+xử lý thông tin của con người trong môi trường kỹ thuật. Lựa chọn người phù hợp
+với công việc nhằm đảm bảo người sử dụng có đủ khả năng để thực hiện công
+việc một cách an toàn và hiệu quả.
+
+      - Thiết kế sản phẩm: Thiết kế sản phẩm dễ sử dụng giúp người sử dụng dễ
+dàng thao tác và sử dụng sản phẩm. Thiết kế sản phẩm an toàn nhằm giảm thiểu
+nguy cơ tai nạn trong quá trình sử dụng sản phẩm. Thiết kế sản phẩm phù hợp với
+nhu cầu của người sử dụng.
+
+                                        16
+      2.6.2. Lựa chọn hành động
+      2.6.2.1. Khái niệm
+       Lựa chọn hành động là cách con người đưa ra quyết định trong quá trình
+hoạt động.
+
+       Trong thực tế, nhiều tai nạn nghiêm trọng trong đó lỗi của con người có
+liên quan có thể được quy cho việc ra quyết định của người vận hành bị lỗi. Ví dụ:
+Quyết định phóng tàu con thoi Challenger, sau đó phát nổ vì nhiệt độ lạnh tại thời
+điểm phóng đã phá hủy con tàu; quyết định năm 1987 của nhân viên trên tàu USS
+Vincennes bắn vào một chiếc máy bay không xác định, hóa ra là một máy bay vận
+tải dân sự của Iran chứ không phải là một máy bay chiến đấu thù địch. Ngược lại,
+một quyết định bi thảm đã được đưa ra bởi những người trên tàu USS Stark đang
+bay ở Địa Trung Hải một năm trước đó, không bắn vào một mục tiêu đang đến
+gần, hóa ra là thù địch và phóng một tên lửa khiến nhiều người thiệt mạng trên
+tàu Stark5.[1] Do vậy, cần thiết phải hiểu biết về việc ra quyết định của người
+dùng để giúp cho họ lựa chọn hành động đúng, tránh những quyết định sai lầm
+trong vận hành máy móc thiết bị.
+
+      * Một lựa chọn và quyết định hành động được ra dựa vào các yếu tố sau:
+
+       - Mức độ không chắc chắn về kết quả của hành động: ví dụ, quyết định mua
+một trong hai chiếc điện thoại sẽ có mức độ không chắc chắn về kết quả với quyết
+định tiến hành chuyến bay trong thời tiết có biến động.
+
+      - Thời gian: áp lực thời gian ảnh hưởng lớn đến quá trình ra quyết định.
+
+       - Sự quen thuộc và chuyên môn: việc ra quyết định phụ thuộc vào kinh
+nghiệm và chuyên môn. Một chuyên gia thường đưa ra quyết định nhanh, chính
+xác trong khi người mới có thể mất nhiều thời gian để suy ngẫm, có thể đưa ra lựa
+chọn tồi.
+
+      - Tính an toàn của lựa chọn: Một lựa chọn phổ biến là có tuân thủ quy định
+an toàn cụ thể nào đó hay không như: đội mũ bảo hiểm khi đi xem may, thắt dây
+an toàn trên ô tô. Lợi ích mang lại từ việc tuân thủ luôn được so sánh với ảnh
+hưởng tiêu cực của rủi ro bởi hành vi không tuân thủ gây ra.
+
+      - Tự nhận thức của người ra quyết định: Người ra quyết định biết gì về tính
+chính xác của phán đoán và lựa chọn của mình. Sự tự tin trong phán đoán có ảnh
+
+
+
+      5
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+
+                                                              17
+hưởng quan trọng và lâu dài với tự nhận thức, nó khiến người ra quyết định không
+tìm thêm bằng chứng hoặc không chuẩn bị cho trường hợp chẩn đoán sai.
+
+      * Tiêu chí của một quyết định tốt:
+
+       - Giá trị của quyết định : Một quyết định được coi quyết định tạo ra giá trị
+tối đa nếu lặp đi lặp lại nhiều lần. Tuy nhiên việc gán giá trị cho một quyết định
+thường mang tính cá nhân.
+
+      - Quyết định tốt là những quyết định tạo ra kết quả tốt và ngược lại, quyết
+định xấu tạo ra kết quả xấu. Tuy nhiên, chúng ta chỉ có thể đánh giá một quyết
+định tốt hay xấu chỉ sau khi kết quả đã có.
+
+      - Chuyên môn : Các chuyên gia trong lĩnh vực nào đó thường đưa ra quyết
+định chính xác hơn. Tuy nhiên, trong thực thế, không phải lúc nào các chuyên gia
+cũng đưa ra quyết định tốt hơn người mới.
+
+      * Quá trình ra quyết định:
+
+      Quá trình đưa ra lựa chọn, quá trình này thường gồm một số bước.
+
+      Ví dụ, khi chúng ta cần đưa ra lựa chọn khi đi mua một sản phẩm, người
+mua cần xem xét, so sánh một loại các sản phẩm đó. Chẳng hạn mua một chiếc
+điện thoại hay một chiếc máy tính, chúng ta cần xem xét giá cả, giá trị sử dụng,
+việc bảo trì, bảo hành6,… của sản phẩm và nên thực hiện theo các bước sau:
+
+       Bước 1: xếp hạng thứ tự của từng thuộc tính (mỗi thuộc tính gán với trọng
+số cụ thể, trọng số càng cao thì thuộc tính càng quan trọng).
+
+      Bước 2: Đánh giá giá trị của từng sản phẩm trên mỗi thuộc tính (số càng
+cao, giá trị càng lớn).
+
+      Bước 3: Đánh giá tổng điểm của mỗi sản phẩm (giá trị x tầm quan trọng).
+
+      Bước 4: chọn mua sản phẩm có tổng điểm cao nhất.
+
+                                            Đặc điểm
+                                        Tầm                          Giá cả              Bảo                           …..
+                                  quan trọng:              (1)                     hành (4)
+                    Các
+              sản phẩm                      A                        2                        3
+                                            B                        3                        1
+
+      6
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+
+                                                              18
+                                               ….                       …                        …
+
+
+                           Sản phẩm A: 2x1+3x4=14
+                           Sản phẩm B: 3x1+1x4=7
+      Trong ví dụ trên: sản phẩm A và B được đánh giá dựa trên 2 thuộc tính là
+giá cả và bảo hành. Trong đó, giá cả được gán trọng số 1 (ít quan trọng) và bảo
+hành được gán trọng số 4 (quan trọng). Sản phẩm A được đánh giá 2 điểm về giá
+cả và 3 điểm về bảo hành, sản phẩm B được đánh giá 3 điểm về giá cả và 1 điểm
+về bảo hành. Tổng điểm của sản phẩm A là 2x1+3x4=14, tổng điểm của sản phẩm
+B là 3x1+4x1=7. Như vậy, sản phẩm A có tổng điểm cao hơn, là phương án lựa
+chọn tốt hơn.
+
+         * Thời gian ra quyết định:
+
+       Thời gian ra quyết định phụ thuộc vào: phương thức kích thích, cường độ
+kích thích, mức độ chắc chắn về thời gian, sự mong đợi,
+
+       Các kích thích RT đến thính giác đơn giản nhanh hơn khoảng 30 đến 50
+mili giây so với các kích thích thị giác được trình bày trong thị giác (tương ứng
+khoảng 130 mili giây và 170 mili giây) 7. Sự khác biệt này được cho là do sự khác
+biệt về tốc độ xử lý cảm giác giữa hai phương thức. Cần lưu ý rằng trong hầu hết
+các thiết kế trong thế giới thực, phương thức thính giác được ưa chuộng hơn cho
+các cảnh báo đơn giản vì tính đa hướng của nó; nó có thể được xử lý với tốc độ
+bằng nhau cho dù đầu được định hướng như thế nào.
+
+         Cường độ kích thích: Thời gian phản ứng giảm khi tăng cường độ của kích
+thích.
+
+      Sự mong đợi: càng chờ đợi lâu, càng mong đợi hành động thì khi tín hiệu
+xảy ra, chúng ta hành động càng nhanh (nhưng cũng có thể dẫn đến xảy ra lỗi).
+
+       Tuy nhiên , trong thế giới thực, có một loại sự kiện khác dường như bất ngờ
+đến mức nhà điều hành đơn giản là không hình dung được sự xuất hiện của chúng
+- sự kiện 'thiên nga đen'. Thời gian đưa ra quyết định còn phụ thuộc vào số lượng
+các lựa chọn (Định luật Hick- Hyman, trình bày trong mục 2.9).Mối quan hệ giữa
+tốc độ và độ chính xác: Con người có xu hướng mắc nhiều lỗi hơn khi họ phản
+
+
+
+         7
+             Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+
+                                                                 19
+hồi nhanh hơn. Do vậy, trong sản xuất cần cân đối giữa hai yếu tố an toàn và năng
+suất.
+
+      * Các mô hình lựa chọn hành động
+
+      Có nhiều mô hình khác nhau được sử dụng để mô tả quá trình lựa chọn
+hành động, bao gồm:
+
+      - Mô hình lý thuyết quyết định: Cho rằng con người lựa chọn hành động tối
+đa hóa lợi ích.
+
+      - Mô hình heuristic: Cho rằng con người sử dụng các quy tắc đơn giản để
+đưa ra quyết định nhanh chóng.
+
+      Heuristic hay “quy tắc của ngón tay cái” là phương pháp được sử dụng khi
+số lượng thuộc tính và đối tượng khá lớn, được gọi là loại bỏ theo khía cạnh.
+Thuộc tính quan trọng nhất được chọn đầu tiên, sau đó bất kỳ sản phẩm nào không
+nằm trong thuộc tính (khía cạnh) này sẽ bị loại khỏi việc xem xét, sau đó các sản
+phẩm còn lại được đánh giá bằng cách so sánh nhiều khía cạnh hơn. Điều này cho
+phép nhanh chóng giải quyết vấn đề nhỏ hoặc thu hẹp lựa chọn. Ví dụ, nhà tuyển
+dụng, bạn sẽ quyết định hủy bỏ bất cứ sơ yếu lý lịch nào mắc lỗi chính tả.
+
+      - Mô hình mạng nơ-ron: Cho rằng con người lựa chọn hành động dựa trên
+hoạt động của mạng nơ-ron trong não.
+
+      2.6.2.2. Ý nghĩa của lựa chọn hành động
+       Lựa chọn hành động phù hợp với nhu cầu và sở thích của con người giúp
+họ cảm thấy hài lòng. Lựa chọn hành động sai lầm có thể dẫn đến tai nạn, ngược
+lại lựa chọn hành động hiệu quả giúp con người hoàn thành nhiệm vụ nhanh chóng
+và chính xác. Vào tháng 6 năm 1989, các phi công của một chiếc máy bay thương
+mại bay qua Vương quốc Anh đã phát hiện ra một động cơ đang cháy nhưng thay
+vào đó đã tắt nhầm động cơ hoạt động bình thường. Điều này khiến máy bay đã
+bị rơi, với tổn thất lớn về người8.
+
+      2.6.2.3. Lỗi
+       Trong quá trình hoạt động của con người, trong đó có ra quyết định lỗi
+thường xuyên xảy ra. Ước tính 60 đến 90% các tai nạn, sự cố có nguyên nhân là
+từ lỗi của con người, trong xử lý văn bản mắc lỗi hoặc chọn các lệnh không hiệu
+
+
+
+
+      8
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+
+                                                              20
+quả trên 30% lựa chọn, trong số tất cả các vụ tai nạn trong ngành hàng không
+thương mại, 88% được phát hiện một phần là do lỗi của con người9.
+
+      Các loại lỗi:
+
+       Lỗi về nhận thức (mistake) là nhận thức và chẩn đoán tình huống không
+chính xác, có thể là kết quả của những thiếu sót về nhận thức, trí nhớ. Những loại
+lỗi này xuất hiện trong quá trình ra quyết định, đưa ra những lựa chọn hành động
+không chính xác do không đánh giá đúng tình hình.
+
+      Lỗi về hành động (slip) là hiểu biết đúng về tình huống, ý định thực hiện
+đúng nhưng thực hiện lại sai (thường là do vô tình). Lỗi hành động không chính
+xác thường do thiếu tập trung chú ý.
+
+       Lỗi không hoàn thành hành động: tức là bỏ qua một vài bước trong một
+trình tự thủ tuc. Nguyên nhân dẫn đến lỗi này thường là sự gián đoạn, do sự quên
+của bộ nhớ.
+
+       Lỗi sai chế độ: là thực hiện hành động sai do người vận hành không nhận
+thức được chế độ nào đang hoạt động. Lỗi này là hậu quả của sự thực hiện thao
+tác tương đối tự động hoặc khối lượng công việc cao. Ví dụ, trong sử dụng máy
+tính, do không nhận ra máy tính đang để ở chế độ chữ hoa nên việc đánh mật
+khẩu tài khoản của bạn bị sai.
+
+      2.6.2.4. Ứng dụng trong thiết kế kỹ thuật
+       - Thiết kế giao diện máy móc kỹ thuật (Human-machine interface): Hiểu
+biết về quá trình lựa chọn hành động giúp thiết kế giao diện dễ sử dụng và phù
+hợp với cách con người đưa ra quyết định; cung cấp thông tin cần thiết cho người
+dùng để đưa ra quyết định chính xác; sắp xếp vị trí các nút điều khiển hợp lý, dễ
+thao tác, giúp người dùng dễ dàng lựa chọn hành động phù hợp.
+
+       - Thiết kế hệ thống hỗ trợ quyết định (Decision Support System - DSS):
+Cung cấp thông tin và kiến thức giúp người dùng có đủ dữ liệu để đưa ra quyết
+định sáng suốt. Phân tích các lựa chọn giúp người dùng đánh giá ưu và nhược
+điểm của từng lựa chọn. Gợi ý cho người dùng các giải pháp phù hợp với mục
+tiêu của họ.
+
+      - Thiết kế hệ thống cảnh báo: Cảnh báo người dùng về các nguy cơ tiềm ẩn
+giúp người dùng nhận thức được các rủi ro và đưa ra quyết định phù hợp để tránh
+
+
+
+      9
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+
+                                                              21
+tai nạn. Hướng dẫn người dùng cách xử lý các tình huống nguy hiểm, giúp người
+dùng đưa ra quyết định nhanh chóng trong các tình huống khẩn cấp.
+
+       - Thiết kế sản phẩm: Thiết kế sản phẩm dễ sử dụng giúp người dùng dễ
+dàng lựa chọn cách sử dụng sản phẩm phù hợp với nhu cầu của họ; đảm bảo an
+toàn nhằm giảm thiểu nguy cơ tai nạn do người sử dụng lựa chọn hành động sai
+lầm; phù hợp với nhu cầu của người sử dụng đáp ứng nhu cầu và sở thích của
+người dùng, giúp họ đưa ra lựa chọn phù hợp.
+
+      - Biện pháp hạn chế và khắc phục lỗi:
+
+      + Đào tạo, bồi dưỡng nâng cao kiến thức cho người vận hành, cho họ được
+thực hành sử lỗi sẽ giảm tần suất mắc lỗi và giúp họ biết cách xử lý khi lỗi xuất
+hiện.
+
+      + Ban hành quy tắc trong vận hành máy móc. Chẳng hạn, ban hành danh
+sách kiểm tra thủ tục, quy trình các bước thực hiện trong vận hành máy móc, thực
+hiện nhiệm vụ.
+
+      + Các kỹ sư khi thiết kế máy móc kỹ thuật nên chú ý để phù hợp với tải
+nhận thức của người vận hành.
+
+       +Thiết kế những chi tiết trong máy móc kỹ thuật cần khác biệt với nhau để
+tránh nhầm lẫn. Sự khác biệt về màu sắc, hình dạng, tách biệt về không gian, bề
+mặt, cách sử dụng… sẽ giúp người vận hành dễ dàng phân biệt chúng.
+
+      + Thiết kế hệ thống hiển thị để hỗ trợ người vận hành phát hiện lỗi. Khi
+hành động xảy ra lỗi, cần có phản hồi rõ ràng và ngay lập tức.
+
+      + Thiết kế tính năng để hạn chế khả năng xảy ra lỗi. Ví dụ, như cảnh báo
+trước khi thực hiện một hành động quan trọng (xóa một tệp tài liệu), hay trì hoãn
+thực hiện lệnh khi có nguy cơ xảy ra lỗi (ô tô không khởi động nếu người lái xe
+chưa thắt dây an toàn, cửa xe không thể khóa nếu chìa khóa xe còn ở trong xe).
+
+      + Đưa ra lời nhắc: Thiết kế máy móc thiết bị đưa ra lời nhắc nhở với người
+dùng về những hành động, những bước cần thực hiện.
+
+      + Thiết kế máy móc để hạn chế lỗi chế độ: nhà thiết kế nên hạn chế tạo ra
+một số lượng lớn các chế độ hoặc làm cho các chế độ hoạt động của máy móc
+được phân biệt một cách rõ ràng (có thể bằng tín hiệu thị giác hoặc sự tách biệt
+không gian).
+
+
+
+                                       22
+       Lỗi được xem là nhược điểm không thể tránh khỏi trong quá trình con người
+vận hành máy móc thiết bị. Loại bỏ lỗi hoàn toàn là điều không thể, do vậy các
+nhà thiết kế cần thiết kế ra các máy móc thiết bị có khả năng chịu lỗi. Ví dụ, để
+tránh cho người dùng xóa nhầm một tệp tài liệu, trước khi thực hiện lệnh cần đưa
+ra lời nhắc “Bạn có chắc chắn muốn xóa tệp này không?” và khi lệnh được thực
+hiện thì tệp đó sẽ được giữ ở một nơi khác trong khoảng thời gian nhất định,
+người dùng vẫn có cơ hội phục hồi với nút “hoàn tác”.
+
+
+
+                             Câu hỏi, bài tập ứng dụng
+
+   1. Những yếu tố nào ảnh hưởng đến thời gian phản ứng của con người trong
+      môi trường làm việc kỹ thuật?
+
+   2. Trong một hệ thống điều khiển máy tự động, người vận hành thường xuyên
+      phải chọn giữa nhiều nút lệnh có chức năng khác nhau. Dựa trên lý thuyết
+      lựa chọn hành động, điều gì ảnh hưởng đến độ chính xác và thời gian lựa
+      chọn hành động của người vận hành?
+
+   3. Một kỹ sư vô tình điều chỉnh sai thông số nhiệt độ của máy ép khuôn dẫn
+      đến hỏng sản phẩm. Theo lý thuyết về lỗi, hành vi này thuộc loại lỗi nào và
+      có thể xuất phát từ nguyên nhân gì?
+
+
+
+
+* TÀI LIỆU THAM KHẢO
+     [1] Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering
+psychology and human performance, New York, US.
+     [2] Trần Khánh Ngọc (2013), Dạy cách học cho học sinh trong dạy học phần
+Di truyền học – Sinh học 12 trung học phổ thông, Luận án tiến sĩ Giáo dục học,
+trường Đại học Sư phạm Hà Nội.
+      [3] Sách: Giao tiếp kỹ thuật - Tác giả: TS. Nguyễn Văn Lân:
+https://www.cet.edu.vn/ky-nang-giao-tiep
+     [4] Atkinson, R.C., & Shiffrin, R.M. (1968). "Human memory: A proposed
+system and its control processes". Psychology of Learning and Motivation. 2: 89-
+195.
+     [5] Squire, L.R. (1992) "Memory and the Hippocampus: A Synthesis from
+Findings with Rats, Monkeys, and Humans". Psychological Review. 99 (2): 195-231.
+
+                                       23
+   [6] Crowder, R.G. (1993) "Short-term Memory: Where Do We Stand?"
+Memory & Cognition. 21 (2) 142-145.
+     [7] Kieras, D.E., Meyer, D.E. (1997). An overview of the EPIC architecture for
+cognition and performance with application to human-computer interaction. Human-
+Computer Interaction.
+     [8] Howard, I.P., & Rogers, B.J. (2002). Seeing in Depth, Vol. 2: Depth
+Perception. Ontario, Canada: I Porteous.
+    [9] "Fatigue at work: Measurement and parametric analysis", Durand, G., &
+Chouaniere, D. (2006). Work, 26(3), 243–252.
+
+
+
+
+                                        24
+

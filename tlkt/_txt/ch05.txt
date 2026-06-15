@@ -1,0 +1,1152 @@
+                                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+            Bài 5: Thiết kế kỹ thuật lấy con người làm trung tâm
+                 Sau khi học xong Bài 5, sinh viên có khả năng:
+          CLO5: Trình bày được sự ứng dụng tâm lý học để tối ưu hóa các thiết kế
+    kỹ thuật đảm bảo: tính nhân văn, đạo đức kỹ thuật; sức khỏe, an toàn, môi
+    trường; phù hợp đối tượng sử dụng, vận hành.
+          CLO8: Hình thành được ý tưởng tối ưu hóa thiết kế kỹ thuật trên cơ sở
+    ứng dụng tâm lý học;
+          CLO10: Có kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ năng
+    tư duy sáng tạo, tư duy hệ thống.
+           CLO13: Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ
+    thuật. Ý thức được giá trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật
+    trong mối liên hệ với tự nhiên, con người và xã hội nhằm định hướng đến sự
+    phát triển bền vững.
+
+
+            3.1. Thiết kế kỹ thuật lấy con người làm trung tâm
+            3.1.1. Thiết kế kỹ thuật
+            a. Kỹ thuật
+      Kỹ thuật là lĩnh vực ứng dụng các nguyên lý và phương pháp khoa học, toán
+học và thực tiễn vào việc thiết kế, phát triển, cải tiến và tối ưu hóa các sản phẩm, dịch
+vụ, hệ thống và quy trình nhằm đáp ứng các nhu cầu của con người. Kỹ thuật liên
+quan đến việc áp dụng các kiến thức và kỹ năng chuyên môn vào việc giải quyết các
+vấn đề thực tế.
+            b. Thiết kế kỹ thuật lấy con người làm trung tâm
+       Thiết kế kỹ thuật là quá trình đặt người dùng làm trung tâm, nghĩa là thiết kế
+các sản phẩm, dịch vụ và hệ thống dựa trên nhu cầu, mong muốn và đặc điểm của
+người dùng1. Ở đây, các tác giả nhấn mạnh đến việc đặt người dùng làm trung tâm
+trong thiết kế.
+       Có thể nói rằng thiết kế kỹ thuật là một quá trình sáng tạo, phát triển và cải
+tiến các sản phẩm, quy trình và hệ thống nhằm đáp ứng tối ưu nhu cầu của con
+người, dựa trên sự kết hợp kiến thức và kỹ năng liên ngành. Quá trình này đặt người
+
+
+            1
+                Norman, D. A., & Draper, S. W. (1986). User Centered System Design: New Perspectives on Human-Computer Interaction. CRC Press,
+tr. 25-26
+                                                                             1
+                          GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+dùng làm trung tâm và chú trọng đến việc cải tiến, sáng tạo để tạo ra các giải pháp
+hiệu quả.
+       Quy trình thiết kế kỹ thuật (Engineering design process) là một chuỗi các bước
+có hệ thống để giải quyết các vấn đề kỹ thuật. Nó bao gồm các giai đoạn như: xác
+định vấn đề, thu thập thông tin, tạo ra các ý tưởng, đánh giá và lựa chọn giải pháp tối
+ưu, và thực hiện thiết kế chi tiết2.
+       Quy trình thiết kế kỹ thuật lấy con người làm trung tâm (Human-Centered
+Design - HCD) là một phương pháp tiếp cận thiết kế và phát triển sản phẩm, hệ
+thống, và dịch vụ mà trong đó nhu cầu, mong muốn, và giới hạn của người sử dụng
+cuối cùng được đặt lên hàng đầu. Quy trình này thường bao gồm các bước sau3:
+       1. Nghiên cứu người dùng: Thu thập và phân tích dữ liệu về người dùng, bao
+gồm hành vi, nhu cầu, và mong muốn của họ. Các phương pháp phổ biến bao gồm
+phỏng vấn, quan sát, và khảo sát.
+       2. Xác định yêu cầu: Dựa trên phân tích người dùng, xác định các yêu cầu và
+tiêu chuẩn thiết kế cụ thể. Điều này bao gồm cả các yêu cầu chức năng và phi chức
+năng.
+       3. Thiết kế: Phát triển các ý tưởng và khái niệm thiết kế dựa trên các yêu cầu
+đã xác định. Giai đoạn này thường bao gồm việc tạo ra các mô hình và nguyên mẫu
+ban đầu.
+       4. Đánh giá và tinh chỉnh: Thử nghiệm các nguyên mẫu với người dùng thực tế
+để thu thập phản hồi và tiến hành các điều chỉnh cần thiết. Quá trình này có thể lặp đi
+lặp lại nhiều lần để đảm bảo sản phẩm cuối cùng đáp ứng tốt nhất nhu cầu của người
+dùng.
+       5. Triển khai và theo dõi: Sau khi sản phẩm hoàn thiện, tiến hành triển khai và
+tiếp tục theo dõi phản hồi từ người dùng để có thể thực hiện các cải tiến liên tục nếu
+cần thiết.
+       Thiết kế kỹ thuật lấy con người làm trung tâm không chỉ tập trung vào khía
+cạnh chức năng của sản phẩm mà còn chú trọng đến các yếu tố tâm lý của người
+dùng. Bằng cách hiểu và áp dụng các nguyên tắc tâm lý trong thiết kế, các nhà thiết
+
+
+
+      2
+          Cross, N. (2021). Engineering design methods: strategies for product design. John Wile
+      3
+          Gavriel Salvendy, Handbook of Human Factors and Ergonomics, Fourth Edition (2012)
+                                                               2
+                            GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+kế có thể tạo ra các giải pháp không chỉ hiệu quả mà còn mang lại trải nghiệm tích
+cực cho người dùng.
+      3.1.2. Yếu tố tâm lý con người trong thiết kế kỹ thuật
+       Các khía cạnh kỹ thuật của thiết kế kỹ thuật là quan trọng nhưng các sản phẩm,
+hệ thống hoặc quy trình được tạo ra đều nhằm mục đích sử dụng của con người. Do
+đó, yếu tố tâm lý con người đóng vai trò quan trọng trong việc đảm bảo rằng các giải
+pháp được thiết kế có hiệu quả và thân thiện với người dùng. Việc bỏ qua các yếu tố
+này có thể dẫn đến sản phẩm hoặc hệ thống khó sử dụng, dễ mắc lỗi hoặc thậm chí
+nguy hiểm. Các kỹ sư cần phải hiểu sâu sắc về nhận thức, nhu cầu, cảm xúc, hành vi
+của người sử dụng để có thể thiết kế ra các sản phẩm, hệ thống và dịch vụ phù hợp
+với họ.
+       Yếu tố tâm lý con người đóng vai trò quan trọng trong thiết kế kỹ thuật, bao
+gồm các khía cạnh như nhận thức, cảm xúc, động lực, và hành vi. Các yếu tố này ảnh
+hưởng trực tiếp đến cách người dùng tương tác và trải nghiệm với sản phẩm hoặc hệ
+thống4.
+       + Nhận Thức: Nhận thức của người dùng về cách sử dụng sản phẩm, bao gồm
+khả năng nhận biết, hiểu biết và xử lý thông tin. Thiết kế cần phải đơn giản, rõ ràng,
+và dễ hiểu để người dùng có thể sử dụng một cách hiệu quả. Tránh gây quá tải thông
+tin cho người dùng, chỉ hiển thị thông tin cần thiết và phù hợp với từng ngữ cảnh.
+       + Cảm xúc: Trải nghiệm cảm xúc của người dùng trong quá trình tương tác với
+sản phẩm. Một thiết kế tốt không chỉ đáp ứng nhu cầu chức năng mà còn tạo ra cảm
+giác hài lòng và thoải mái cho người dùng. Thiết kế sản phẩm tạo cảm giác an toàn,
+tin tưởng và khơi gợi cảm xúc tích cực cho người dùng. Sử dụng các yếu tố thẩm mỹ,
+màu sắc và hình ảnh phù hợp để thu hút sự chú ý và tạo ấn tượng tốt với người dùng.
+       + Động lực: Động lực của người dùng quyết định mức độ cam kết và tương tác
+của họ với sản phẩm. Thiết kế cần tạo ra những yếu tố thúc đẩy người dùng tiếp tục
+sử dụng và khám phá các tính năng của sản phẩm.
+       + Hành vi: Hành vi sử dụng sản phẩm của người dùng cần được dự đoán và hỗ
+trợ thông qua thiết kế. Điều này bao gồm việc tạo ra những luồng tương tác tự nhiên
+và trực quan giúp người dùng dễ dàng thao tác. Đảm bảo sản phẩm được thiết kế phù
+
+
+      4
+          Gavriel Salvendy, Handbook of Human Factors and Ergonomics, Fourth Edition (2012), p. 120
+
+                                                                        3
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+hợp với kích thước cơ thể, khả năng vận động và thao tác của người dùng. Cân nhắc
+các yếu tố như kích thước nút bấm, độ cao màn hình, lực cần thiết để thao tác,...Thiết
+kế sản phẩm dễ sử dụng cho mọi đối tượng người dùng, bao gồm cả người cao tuổi,
+trẻ em và người khuyết tật.
+       Một số yếu tố tâm lý con người quan trọng cần được nghiên cứu và giải quyết
+trong quá trình thiết kế kỹ thuật bao gồm:
+       a. Công thái học nhận thức: Nhánh công thái học này tập trung vào việc tìm
+hiểu các quá trình và khả năng tinh thần của con người, chẳng hạn như nhận thức, sự
+chú ý, trí nhớ, ra quyết định và giải quyết vấn đề. Việc kết hợp các nguyên tắc công
+thái học nhận thức vào thiết kế có thể giúp đảm bảo rằng các giao diện, điều khiển và
+hiển thị thông tin trực quan và dễ hiểu, giảm tải nhận thức và giảm thiểu khả năng
+xảy ra lỗi.
+       b. Nhân trắc học và cơ sinh học: lĩnh vực này đề cập đến các đặc điểm thể chất
+và khả năng của con người, chẳng hạn như kích thước cơ thể, sức mạnh, tính linh
+hoạt và phạm vi chuyển động. Việc xem xét nhân trắc học và cơ sinh học trong thiết
+kế có thể giúp đảm bảo rằng các sản phẩm hoặc hệ thống sử dụng thoải mái, an toàn
+và hiệu quả, giảm nguy cơ rối loạn hoặc chấn thương cơ xương.
+       c. Tương tác giữa người và máy tính (human-computer interaction (HCI)): HCI
+tập trung vào thiết kế và đánh giá các hệ thống tương tác, bao gồm phần mềm, trang
+web và giao diện người dùng. Bằng cách áp dụng các nguyên tắc HCI, các nhà thiết
+kế có thể tạo ra các giao diện trực quan và thân thiện với người dùng nhằm nâng cao
+năng suất, giảm bớt sự thất vọng và cải thiện trải nghiệm tổng thể của người dùng.
+       d. Yếu tố con người trong an toàn: An toàn là yếu tố quan trọng được cân nhắc
+trong thiết kế kỹ thuật và yếu tố con người đóng vai trò quan trọng trong việc đảm
+bảo vận hành và sử dụng an toàn các sản phẩm hoặc hệ thống. Điều này bao gồm việc
+giải quyết các vấn đề như nhận thức rủi ro, phân bổ sự chú ý, ra quyết định khi bị
+căng thẳng và chiến lược phòng ngừa lỗi.
+       đ. Trải nghiệm người dùng (User Experience (UX)) và khả năng sử dụng: Các
+nguyên tắc về UX và khả năng sử dụng nhằm mục đích tạo ra các sản phẩm hoặc hệ
+thống không chỉ có chức năng mà còn thú vị và dễ sử dụng. Điều này liên quan đến
+việc hiểu nhu cầu, sở thích và hành vi của người dùng cũng như kết hợp các nguyên
+tắc về thẩm mỹ, cảm xúc và sự hài lòng vào quá trình thiết kế.
+
+                                             4
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      Thiết kế kỹ thuật đảm bảo lấy con người làm trung tâm và sản phẩm sau thiết
+kế được nhiều người sử dụng phải đảm bảo các nguyên tắc sau:
+                        Bảng 3.1. Nguyên tắc thiết kế phổ quát
+Nguyên tắc                    Định hướng áp dụng trong thiết kế kỹ thuật
+Nguyên tắc 1: Sử dụng         1a. Cung cấp phương tiện sử dụng giống nhau cho tất
+công bằng                     cả người dùng: giống nhau bất cứ khi nào có thể;
+Thiết kế này hữu ích và có    tương đương khi không.
+thể tiếp thị được cho         1b. Tránh phân biệt hoặc kỳ thị bất kỳ người dùng
+những người có khả năng       nào.
+đa dạng.                      1c. Cung cấp các quy định về quyền riêng tư, bảo
+                              mật và an toàn như nhau cho tất cả người dùng.
+                              1d. Làm cho thiết kế hấp dẫn tất cả người dùng.
+Nguyên tắc 2: Linh hoạt       2a. Cung cấp sự lựa chọn trong phương pháp sử
+trong sử dụng                 dụng.
+Thiết kế phù hợp với          2b. Hỗ trợ truy cập và sử dụng bằng tay phải hoặc tay
+nhiều sở thích và khả năng    trái.
+cá nhân.                      2c. Tạo điều kiện thuận lợi cho sự chính xác và chính
+                              xác của người dùng.
+                              2d. Cung cấp khả năng thích ứng với tốc độ của
+                              người dùng.
+Nguyên tắc 3: Sử dụng         3a. Loại bỏ sự phức tạp không cần thiết.
+đơn giản và trực quan         3b. Hãy nhất quán với mong đợi và trực giác của
+Việc sử dụng thiết kế phải    người dùng.
+dễ hiểu, bất kể kinh          3c. Cung cấp nhiều kỹ năng đọc viết và ngôn ngữ.
+nghiệm, kiến thức, kỹ         3d. Sắp xếp thông tin phù hợp với tầm quan trọng
+năng ngôn ngữ hay mức         của nó.
+độ tập trung hiện tại của     3e. Cung cấp lời nhắc và phản hồi hiệu quả trong và
+người dùng.                   sau khi hoàn thành nhiệm vụ.
+Nguyên tắc 4: Thông tin       4a. Sử dụng các phương thức khác nhau (hình ảnh,
+có thể cảm nhận được          lời nói, xúc giác) để trình bày dư thừa những thông
+Thiết kế truyền đạt thông     tin cần thiết.
+tin cần thiết một cách hiệu   4b. Cung cấp sự tương phản đầy đủ giữa thông tin
+quả cho người dùng, bất       cần thiết và môi trường xung quanh nó.
+kể điều kiện môi trường       4c. Tối đa hóa '' tính dễ đọc '' của thông tin cần thiết.
+xung quanh hay khả năng       4d. Phân biệt các yếu tố theo những cách có thể được
+cảm nhận của người dùng.      mô tả (tức là làm cho việc đưa ra hướng dẫn hoặc
+                              hướng dẫn trở nên dễ dàng).
+                              4e. Cung cấp khả năng tương thích với nhiều kỹ
+                              thuật hoặc thiết bị khác nhau được những người bị
+                              hạn chế về giác quan sử dụng.
+Nguyên tắc 5: Dung sai        5a. Sắp xếp các yếu tố để giảm thiểu mối nguy hiểm
+                                                5
+                   GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+Nguyên tắc                     Định hướng áp dụng trong thiết kế kỹ thuật
+cho lỗi                        và sai sót: yếu tố được sử dụng nhiều nhất và dễ tiếp
+Thiết kế giảm thiểu các        cận nhất; các yếu tố nguy hiểm bị loại bỏ, cô lập
+mối nguy hiểm và hậu quả       hoặc được che chắn.
+bất lợi của các hành động      5b. Đưa ra cảnh báo về các mối nguy hiểm hoặc sai
+vô tình hoặc ngoài ý           sót.
+muốn.                          5c. Cung cấp các tính năng không an toàn.
+                               5d. Không khuyến khích hành động vô thức trong
+                               các nhiệm vụ đòi hỏi sự cảnh giác.
+Nguyên tắc 6: Nỗ lực thể       6a. Cho phép người dùng duy trì vị trí cơ thể trung
+chất thấp                      lập.
+Thiết kế này có thể được       6b. Sử dụng lực lượng điều hành hợp lý.
+sử dụng một cách hiệu          6c. Giảm thiểu các hành động lặp đi lặp lại.
+quả, thoải mái và ít gây       6d. Giảm thiểu nỗ lực thể chất kéo dài.
+mệt mỏi nhất.
+Nguyên tắc 7: Kích thước       7a. Cung cấp tầm nhìn rõ ràng đến các yếu tố quan
+và không gian để tiếp cận      trọng cho bất kỳ người dùng ngồi hoặc đứng nào.
+và sử dụng                     7b. Giúp mọi người dùng ngồi hoặc đứng đều có thể
+Kích thước và không gian       tiếp cận tất cả các bộ phận một cách thoải mái.
+phù hợp được cung cấp để       7c. Chứa các biến thể về kích thước tay và tay cầm.
+tiếp cận, tiếp cận, thao tác   7d. Cung cấp đủ không gian cho việc sử dụng các
+và sử dụng bất kể kích         thiết bị hỗ trợ hoặc hỗ trợ cá nhân.
+thước cơ thể, tư thế hoặc
+khả năng di chuyển của
+người dùng.
+      (Nguồn: B. R. Connell, M. Jones, R. Mace, J. Mueller, A. Mullick, E. Ostroff, J.
+Sanford, E. Steinfeld, M. Story, và G. Vanderheiden, 1997 Đại học Bang NC, Trung
+tâm Thiết kế Toàn cầu).
+       Dưới đây là một số ví dụ cách thức kỹ sư phát triển các sản phẩm trên cơ sở
+thiết kế lấy con người làm trung tâm:
+       1. Kỹ thuật điện: Thiết kế bảng điều khiển thân thiện với người dùng
+       Trong lĩnh vực kỹ thuật điện, việc thiết kế bảng điều khiển cho thiết bị hoặc
+máy móc công nghiệp là một khâu quan trọng. Bảng điều khiển được thiết kế kém có
+thể dẫn đến sai sót, nhầm lẫn và tiềm ẩn rủi ro về an toàn cho người vận hành. Để giải
+quyết yếu tố tâm lý con người trong thiết kế bảng điều khiển, các kỹ sư có thể sử
+dụng các giải pháp sau:
+
+
+
+                                               6
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       a. Nghiên cứu người dùng: Tiến hành phỏng vấn và quan sát với người vận
+hành để hiểu quy trình làm việc, sở thích và thách thức của họ với bảng điều khiển
+hiện có.
+       b. Thiết kế lặp lại và thử nghiệm người dùng: Phát triển các thiết kế bảng điều
+khiển ban đầu và liên tục tinh chỉnh chúng dựa trên phản hồi từ người vận hành thông
+qua thử nghiệm khả năng sử dụng và mô phỏng.
+       c. Tuân thủ các nguyên tắc thiết kế: Kết hợp các nguyên tắc đã được thiết lập
+về bố cục bảng điều khiển, ghi nhãn, mã màu và khả năng truy cập để đảm bảo tính
+nhất quán và khả năng sử dụng.
+       d. Đánh giá yếu tố con người: Thực hiện đánh giá theo kinh nghiệm hoặc
+hướng dẫn nhận thức để xác định các vấn đề tiềm năng về khả năng sử dụng hoặc các
+lĩnh vực cần cải thiện.
+       đ. Thiết kế có sự tham gia: Thu hút người vận hành tham gia vào quá trình thiết
+kế, cho phép họ cung cấp đầu vào và phản hồi về bố cục, biểu tượng và cơ chế tương
+tác của bảng điều khiển.
+       Bằng cách triển khai các giải pháp này, các kỹ sư điện có thể tạo ra các bảng
+điều khiển trực quan, dễ hiểu và phù hợp với khả năng nhận thức và thể chất của
+người vận hành, giảm nguy cơ xảy ra lỗi và nâng cao tính an toàn và hiệu quả tổng
+thể.
+       2. Kỹ thuật cơ khí: Thiết kế công cụ tiện dụng
+       Trong kỹ thuật cơ khí, việc thiết kế các công cụ và thiết bị thường yêu cầu xem
+xét các yếu tố ecgônômi để đảm bảo sự thoải mái, an toàn và năng suất cho người
+dùng. Để giải quyết các yếu tố tâm lý con người trong thiết kế công cụ, các kỹ sư có
+thể sử dụng các giải pháp sau:
+       a. Dữ liệu nhân trắc học: Sử dụng dữ liệu nhân trắc học và hướng dẫn để đảm
+bảo rằng kích thước dụng cụ, kích thước tay cầm và vị trí điều khiển phù hợp với các
+đặc điểm vật lý của nhóm người dùng dự định.
+       b. Phân tích cơ sinh học: Tiến hành mô phỏng hoặc tạo mẫu vật lý để phân tích
+nhu cầu cơ sinh học khi sử dụng công cụ, chẳng hạn như yêu cầu về lực, tư thế và
+chuyển động lặp đi lặp lại, đồng thời thực hiện các điều chỉnh thiết kế để giảm thiểu
+nguy cơ rối loạn cơ xương.
+
+
+                                             7
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       c. Phản hồi của người dùng và thiết kế lặp lại: Thu hút người dùng cuối vào
+quá trình thiết kế, thu thập phản hồi về nguyên mẫu và tinh chỉnh lặp đi lặp lại thiết
+kế để cải thiện sự thoải mái, dễ sử dụng và trải nghiệm tổng thể của người dùng.
+       d. Hợp tác đa ngành: Làm việc với các nhà công thái học, nhà trị liệu nghề
+nghiệp hoặc chuyên gia cơ sinh học để đảm bảo rằng thiết kế công cụ tuân thủ các
+nguyên tắc công thái học.
+       Nguyên tắc và đáp ứng được nhiều nhóm người dùng khác nhau.
+       Bằng cách triển khai các giải pháp này, các kỹ sư cơ khí có thể tạo ra các công
+cụ và thiết bị sử dụng thoải mái, an toàn và hiệu quả, giảm nguy cơ mệt mỏi, chấn
+thương và khó chịu cho người vận hành, cuối cùng là cải thiện năng suất và sự hài
+lòng chung của người dùng.
+       3. Công nghệ may mặc: Thiết kế trang phục bảo hộ lao động
+       Trong lĩnh vực may mặc, đặc biệt là thiết kế trang phục bảo hộ lao động, việc
+áp dụng thiết kế lấy con người làm trung tâm là rất quan trọng để đảm bảo tính linh
+hoạt, sự thoải mái và an toàn cho người sử dụng trong các môi trường làm việc khác
+nhau. Các kỹ sư may mặc có thể áp dụng quy trình thiết kế tập trung vào con người
+như sau:
+       a. Phân tích công việc và môi trường làm việc: Nghiên cứu kỹ lưỡng các nhiệm
+vụ, hoạt động, chuyển động và yêu cầu môi trường mà người lao động phải đối mặt
+trong công việc của họ. Điều này bao gồm việc tìm hiểu các yếu tố như vị trí làm
+việc, mức độ vận động, nhiệt độ, độ ẩm, khói bụi, hóa chất và các rủi ro tiềm ẩn khác.
+       b. Đánh giá yếu tố con người: Đánh giá các đặc điểm vật lý và sinh lý của
+người lao động như chiều cao, cân nặng, khả năng vận động, độ dãn co của cơ thể,
+nhiệt độ làm việc, nhu cầu về giải phóng nhiệt và độ thoáng khí. Điều này giúp hiểu
+rõ hơn về giới hạn và nhu cầu của con người để tối ưu hóa thiết kế.
+       c. Lựa chọn vật liệu phù hợp: Dựa trên yêu cầu công việc và môi trường, lựa
+chọn các loại vật liệu phù hợp với đặc tính như độ bền, độ co giãn, khả năng thấm hút
+và chuyển nhiệt, chống hóa chất, chống cháy, v.v. để tối ưu hóa sự thoải mái, an toàn
+và hiệu suất làm việc.
+       d. Thiết kế mẫu ban đầu: Phát triển các mẫu thử nghiệm ban đầu của trang
+phục bảo hộ lao động, tích hợp các yêu cầu về vật liệu, cấu trúc và kiểu dáng để tạo
+
+
+                                             8
+                   GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+điều kiện thực hiện tốt công việc và bảo vệ người sử dụng khỏi các mối nguy hiểm
+môi trường.
+        e. Đánh giá thiết kế và thử nghiệm người dùng: Thực hiện đánh giá và thử
+nghiệm mô phỏng cũng như thử nghiệm thực tế với nhóm người dùng mục tiêu trong
+môi trường làm việc giả lập. Đánh giá khả năng di chuyển, sự thoải mái, độ thông
+thoáng, hiệu suất bảo vệ và thu thập phản hồi từ người dùng.
+        f. Điều chỉnh và cải tiến thiết kế: Dựa trên kết quả đánh giá và phản hồi của
+người dùng, nhận diện các điểm yếu hoặc nhu cầu điều chỉnh của thiết kế ban đầu và
+tiến hành cải tiến, lặp đi lặp lại quá trình cho đến khi đạt được thiết kế tối ưu.
+        g. Thiết kế cuối cùng: Hoàn thiện thiết kế sản phẩm cuối cùng đáp ứng tất cả
+các yêu cầu về chức năng, an toàn, sự thoải mái và hiệu suất làm việc cho người sử
+dụng dựa trên quy trình thiết kế lấy con người làm trung tâm.
+        Sản phẩm trang phục lao động có thiết kế tập trung vào con người bao gồm:
+đồng phục lao động định hình theo kích thước cơ thể, quần áo chống nhiệt có các lỗ
+thoáng khí và khả năng tỏa nhiệt, áo khoác dầu khí chống tia cực tím và chống thấm
+nước, găng tay lao động chống xước có vân tay mịn và không gian linh hoạt để cử
+động tay, giày bảo hộ lao động với đế chống trượt và hấp thụ lực va chạm, v.v.
+        4. Công nghệ cơ khí động lực: Thiết kế cabin xe tải
+        Cabin xe tải là nơi làm việc chính của người lái xe, do đó việc tối ưu hóa thiết
+kế dựa trên các yếu tố con người sẽ tạo ra môi trường làm việc an toàn, thoải mái và
+hiệu quả hơn. Các kỹ sư cơ khí có thể áp dụng quy trình thiết kế tập trung vào con
+người như sau:
+        a. Phân tích người dùng và công việc: Nghiên cứu kỹ lưỡng các đặc điểm vật
+lý, nhận thức và hành vi của người lái xe tải, bao gồm chiều cao, kích cỡ, khả năng
+vận động, thị lực, phản xạ, mức độ tập trung và các yếu tố khác. Đồng thời, phân tích
+các nhiệm vụ và hoạt động mà người lái xe phải thực hiện trong quá trình vận hành
+xe tải.
+        b. Nghiên cứu môi trường làm việc: Đánh giá các yếu tố môi trường như điều
+kiện đường xá, thời tiết, ánh sáng, tiếng ồn, rung lắc và bụi bẩn mà người lái xe có
+thể gặp phải trong quá trình vận hành xe tải.
+        c. Thiết kế cabin ban đầu: Phát triển các thiết kế cabin ban đầu dựa trên dữ liệu
+thu thập được, tích hợp các yếu tố như không gian, bố trí và kích thước ghế ngồi, tầm
+
+                                               9
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+nhìn và góc quan sát, bố trí bảng điều khiển và các công cụ điều khiển, điều hòa
+không khí, cách âm và giảm rung lắc, v.v.
+       d. Đánh giá mô phỏng và thử nghiệm người dùng: Sử dụng mô hình vật lý hoặc
+môi trường ảo để đánh giá và thử nghiệm thiết kế cabin với nhóm người dùng mục
+tiêu. Đánh giá khả năng tiếp cận, tầm nhìn, vị trí thoải mái, khả năng điều khiển và
+thu thập phản hồi từ người dùng về các vấn đề tiềm ẩn hoặc cải tiến.
+       e. Cải tiến thiết kế: Dựa trên phản hồi và đánh giá từ người dùng, nhận diện các
+vấn đề và điểm yếu của thiết kế ban đầu, sau đó tiến hành cải tiến và điều chỉnh thiết
+kế để đáp ứng tốt hơn các nhu cầu của người lái xe.
+       f. Kiểm tra và đánh giá cuối cùng: Thực hiện kiểm tra và đánh giá cuối cùng
+với thiết kế đã được cải tiến, bao gồm thử nghiệm trong môi trường thực tế và thu
+thập phản hồi từ người lái xe. Điều chỉnh lần cuối nếu cần thiết.
+       g. Thiết kế hoàn chỉnh: Hoàn thiện thiết kế cuối cùng của cabin xe tải, đảm bảo
+tối ưu hóa tất cả các yếu tố về sự thoải mái, khả năng tiếp cận, khả năng điều khiển,
+tầm nhìn, an toàn và hiệu suất làm việc dựa trên quy trình thiết kế lấy con người làm
+trung tâm.
+       Các tính năng thiết kế cabin xe tải lấy con người làm trung tâm bao gồm: ghế
+ngồi có thể điều chỉnh nhiều hướng, vô lăng điều khiển linh hoạt, bảng điều khiển và
+màn hình hiển thị thông minh, cửa sổ tầm nhìn rộng, hệ thống giảm chấn và cách âm,
+điều hòa không khí và thông gió tối ưu, không gian đủ rộng để hoạt động, v.v.
+       5. Công nghệ hóa học: Thiết kế nhà máy sản xuất hóa chất
+       Trong lĩnh vực công nghệ hóa học, việc áp dụng thiết kế lấy con người làm
+trung tâm đóng vai trò quan trọng trong quá trình phát triển các nhà máy sản xuất hóa
+chất. Những yếu tố liên quan đến con người như sức khỏe, an toàn và hiệu quả làm
+việc của nhân viên cần được xem xét kỹ lưỡng trong quá trình thiết kế để đảm bảo
+môi trường làm việc an toàn và hiệu quả. Các kỹ sư hóa học có thể áp dụng quy trình
+thiết kế tập trung vào con người như sau:
+       a. Phân tích công việc và đánh giá rủi ro: Đánh giá các hoạt động, quy trình và
+nhiệm vụ mà nhân viên phải thực hiện trong nhà máy để xác định các rủi ro tiềm ẩn
+về sức khỏe, an toàn và các yếu tố con người khác. Phân tích các mối nguy hóa học,
+vật lý và sinh học cũng như các yếu tố như tiếng ồn, nhiệt độ, ánh sáng và môi trường
+làm việc nói chung.
+
+                                             10
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       b. Nghiên cứu người dùng: Tìm hiểu về đặc điểm vật lý, nhận thức và hành vi
+của nhân viên nhà máy, bao gồm chiều cao, kích cỡ, khả năng vận động, thị lực, phản
+xạ, mức độ tập trung và các yếu tố khác. Thu thập thông tin về kinh nghiệm, kỹ năng
+và nhu cầu của họ.
+       c. Thiết kế ban đầu: Phát triển thiết kế ban đầu của nhà máy dựa trên dữ liệu
+thu thập được, đảm bảo các yếu tố như bố trí không gian làm việc, khoảng cách di
+chuyển, chiều cao làm việc, điều kiện môi trường, thiết bị bảo hộ cá nhân, biện pháp
+kiểm soát hóa chất và các biện pháp an toàn khác.
+       d. Đánh giá mô phỏng và thử nghiệm người dùng: Sử dụng mô hình vật lý hoặc
+môi trường ảo để đánh giá và thử nghiệm thiết kế nhà máy với nhóm người dùng mục
+tiêu. Đánh giá khả năng tiếp cận, sự thoải mái, khả năng vận hành và thu thập phản
+hồi từ nhân viên về các vấn đề tiềm ẩn hoặc cải tiến.
+       e. Cải tiến thiết kế: Dựa trên phản hồi và đánh giá từ người dùng, nhận diện các
+vấn đề và điểm yếu của thiết kế ban đầu, sau đó tiến hành cải tiến và điều chỉnh thiết
+kế để đáp ứng tốt hơn các nhu cầu của nhân viên về sức khỏe, an toàn và hiệu quả
+làm việc.
+       f. Kiểm tra và đánh giá cuối cùng: Thực hiện kiểm tra và đánh giá cuối cùng
+với thiết kế đã được cải tiến, bao gồm thử nghiệm trong môi trường thực tế và thu
+thập phản hồi từ nhân viên. Điều chỉnh lần cuối nếu cần thiết.
+       g. Thiết kế hoàn chỉnh: Hoàn thiện thiết kế cuối cùng của nhà máy sản xuất
+hóa chất, đảm bảo tối ưu hóa tất cả các yếu tố về sức khỏe, an toàn, khả năng tiếp
+cận, khả năng vận hành và hiệu suất làm việc dựa trên quy trình thiết kế lấy con
+người làm trung tâm.
+       Các tính năng thiết kế nhà máy sản xuất hóa chất lấy con người làm trung tâm
+bao gồm: khu vực làm việc thông thoáng, hệ thống thông gió và kiểm soát khí độc
+hiệu quả, đường đi an toàn và rộng rãi, chiếu sáng đầy đủ, thiết bị bảo hộ cá nhân phù
+hợp, quy trình vận hành an toàn và dễ hiểu, biện pháp kiểm soát rủi ro hóa chất,
+không gian làm việc thoải mái, v.v. Bằng cách áp dụng quy trình thiết kế lấy con
+người làm trung tâm, các kỹ sư hóa học có thể tạo ra môi trường làm việc an toàn và
+hiệu quả hơn cho nhân viên nhà máy, giảm nguy cơ tai nạn và bệnh tật nghề nghiệp,
+nâng cao năng suất lao động và chất lượng sản phẩm. Điều này không chỉ mang lại
+
+
+                                             11
+                   GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+lợi ích cho nhân viên mà còn giúp tăng cường an toàn và hiệu quả hoạt động của toàn
+bộ nhà máy sản xuất hóa chất.
+       6. Công nghệ thông tin: Thiết kế giao diện người dùng (UI) và trải nghiệm
+người dùng (UX)
+       Trong ngành công nghệ thông tin, việc áp dụng thiết kế lấy con người làm
+trung tâm đóng vai trò quan trọng trong việc phát triển giao diện người dùng (UI) và
+trải nghiệm người dùng (UX) hiệu quả. Giao diện và trải nghiệm người dùng tốt giúp
+tăng cường sự hài lòng, hiệu suất và tính thực dụng của sản phẩm phần mềm hoặc
+ứng dụng. Để đạt được điều này, các kỹ sư phải tập trung vào việc hiểu sâu sắc nhu
+cầu, hành vi và giới hạn của người dùng trong quá trình thiết kế. Các kỹ sư công nghệ
+thông tin có thể thực hiện một quy trình thiết kế lấy người dùng làm trung tâm bao
+gồm các bước sau:
+       a. Nghiên cứu người dùng: Tiến hành phỏng vấn, khảo sát và quan sát để thu
+thập thông tin về đặc điểm nhân khẩu học, kinh nghiệm, kỳ vọng, khó khăn và thách
+thức của người dùng mục tiêu. Xác định các nhiệm vụ và quy trình phổ biến mà họ sẽ
+thực hiện với sản phẩm.
+       b. Xây dựng người dùng hình mẫu: Dựa trên dữ liệu thu thập được, tạo ra các
+hồ sơ người dùng hình mẫu (persona) đại diện cho các nhóm người dùng khác nhau,
+bao gồm mô tả về đặc điểm, mục tiêu, hành vi và nhu cầu của họ.
+       c. Thiết kế nguyên mẫu: Phát triển các nguyên mẫu UI và UX ban đầu dựa trên
+thông tin từ người dùng hình mẫu, bao gồm bố cục giao diện, điều hướng, biểu tượng,
+màu sắc, quy trình tương tác và các thành phần khác.
+       d. Đánh giá khả năng sử dụng: Thực hiện thử nghiệm khả năng sử dụng với
+người dùng thực tế để đánh giá hiệu quả, hiệu suất và sự hài lòng của họ với nguyên
+mẫu. Sử dụng các phương pháp như theo dõi mắt, phân tích nhiệm vụ, nghiên cứu
+hình thức và đánh giá tâm lý học.
+       e. Cải tiến thiết kế: Dựa trên phản hồi từ đánh giá khả năng sử dụng, xác định
+các vấn đề và điểm yếu của thiết kế, sau đó cải tiến và điều chỉnh nguyên mẫu để tối
+ưu hóa trải nghiệm người dùng.
+       f. Lặp lại và tinh chỉnh: Tiếp tục vòng lặp của thiết kế, đánh giá và cải tiến cho
+đến khi đạt được mức độ khả năng sử dụng và sự hài lòng mong muốn từ người dùng.
+
+
+                                              12
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       g. Thiết kế cuối cùng: Hoàn thiện thiết kế UI và UX cuối cùng dựa trên các
+vòng lặp cải tiến và phản hồi từ người dùng, đảm bảo sự thân thiện, trực quan và phù
+hợp cao nhất với nhu cầu và khả năng của người dùng.
+       Như vậy các tính năng UI/UX lấy con người làm trung tâm bao gồm: giao diện
+đơn giản và trực quan, quy trình làm việc tự nhiên, nhãn và biểu tượng dễ hiểu, phản
+hồi và hướng dẫn phù hợp, khả năng tùy chỉnh giao diện, hỗ trợ đa ngôn ngữ và đa
+nền tảng, tính năng hỗ trợ người khuyết tật, v.v.
+       Ví dụ minh họa phân tích các yếu tố tâm lý trên các sản phẩm của các ngành
+       1. Ngành Công nghệ may
+       Công thái học nhận thức: Thiết kế quần áo với các chi tiết dễ mặc, dễ tháo gỡ,
+phù hợp với các cử động tự nhiên của cơ thể.
+       Nhân trắc học và cơ sinh học: May đo quần áo theo kích cỡ và vóc dáng của
+từng người, đảm bảo sự thoải mái và vừa vặn.
+       Tương tác giữa người và máy tính (HCI): Sử dụng phần mềm thiết kế thời
+trang với giao diện trực quan, dễ sử dụng, hỗ trợ các thao tác vẽ, cắt may, chỉnh sửa.
+       Yếu tố con người trong an toàn: Sử dụng chất liệu vải an toàn, không gây kích
+ứng da, thiết kế các chi tiết bảo vệ người sử dụng khỏi các tác động bên ngoài.
+       Trải nghiệm người dùng (UX) và khả năng sử dụng: Thiết kế quần áo với kiểu
+dáng đẹp, thời trang, phù hợp với sở thích và phong cách của người sử dụng.
+       2. Ngành Công nghệ thông tin
+       Công thái học nhận thức: Thiết kế giao diện website và ứng dụng đơn giản,
+trực quan, dễ hiểu, giảm tải nhận thức cho người dùng.
+       Nhân trắc học và cơ sinh học: Phát triển các thiết bị di động với kích thước phù
+hợp với tay người, bố trí các nút bấm và màn hình hiển thị thuận tiện cho thao tác.
+       Tương tác giữa người và máy tính (HCI): Nghiên cứu và phát triển các công
+nghệ nhận diện giọng nói, cử chỉ, cảm xúc để nâng cao khả năng tương tác giữa
+người và máy móc.
+       Yếu tố con người trong an toàn: Phát triển các hệ thống bảo mật thông tin,
+chống tấn công mạng, bảo vệ dữ liệu cá nhân của người sử dụng.
+       Trải nghiệm người dùng (UX) và khả năng sử dụng: Thiết kế các sản phẩm
+công nghệ thông tin với trải nghiệm người dùng tốt, thân thiện, dễ sử dụng, đáp ứng
+nhu cầu của người sử dụng.
+
+                                             13
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       3. Ngành Công nghệ hóa học
+       Công thái học nhận thức: Thiết kế các quy trình sản xuất hóa chất với các bước
+đơn giản, dễ hiểu, giảm thiểu nguy cơ sai sót.
+       Nhân trắc học và cơ sinh học: Thiết kế các thiết bị và dụng cụ phù hợp với thể
+trạng và khả năng của người lao động, giảm thiểu nguy cơ chấn thương.
+       Tương tác giữa người và máy tính (HCI): Sử dụng các hệ thống điều khiển tự
+động, giám sát từ xa để giảm thiểu rủi ro cho người lao động.
+       Yếu tố con người trong an toàn: Đào tạo cho người lao động về các quy trình
+an toàn, sử dụng các thiết bị bảo hộ lao động để đảm bảo an toàn cho bản thân và môi
+trường.
+       Trải nghiệm người dùng (UX) và khả năng sử dụng: Thiết kế các sản phẩm hóa
+học với bao bì an toàn, dễ sử dụng, có hướng dẫn sử dụng rõ ràng.
+       4. Ngành Công nghệ cơ khí động lực
+       Công thái học nhận thức: Thiết kế các bảng điều khiển máy móc với các nút
+bấm và màn hình hiển thị rõ ràng, dễ hiểu, giảm thiểu nguy cơ sai sót.
+       Nhân trắc học và cơ sinh học: Thiết kế các ghế ngồi và vị trí điều khiển phù
+hợp với vóc dáng và khả năng của người vận hành.
+       Tương tác giữa người và máy tính (HCI): Phát triển các hệ thống điều khiển tự
+động, giám sát từ xa để giảm thiểu rủi ro cho người vận hành.
+       Yếu tố con người trong an toàn: Đào tạo cho người vận hành về các quy trình
+vận hành an toàn, sử dụng các thiết bị bảo hộ lao động để đảm bảo an toàn cho bản
+thân và môi trường.
+       Trải nghiệm người dùng (UX) và khả năng sử dụng: Thiết kế các máy móc với
+giao diện điều khiển đơn giản, trực quan, dễ sử dụng, có hướng dẫn sử dụng rõ ràng.
+       5. Ngành Điện - điện tử
+       a. Công thái học nhận thức:
+       Điện thoại thông minh: Giao diện trực quan, dễ sử dụng với các biểu tượng và
+văn bản rõ ràng, bố cục hợp lý giúp người dùng dễ dàng thao tác và tìm kiếm thông
+tin.
+       Điều khiển từ xa: Các nút bấm được bố trí hợp lý, kích thước phù hợp với ngón
+tay, có ký hiệu dễ nhận biết giúp người dùng dễ dàng điều khiển các thiết bị.
+
+
+                                            14
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       Hệ thống định vị GPS: Giao diện trực quan, hướng dẫn bằng giọng nói rõ ràng,
+dễ hiểu giúp người lái xe dễ dàng theo dõi lộ trình.
+       b. Nhân trắc học và cơ sinh học:
+       Bàn phím máy tính: Thiết kế phù hợp với kích thước bàn tay, độ nghiêng hợp
+lý giúp người dùng thao tác thoải mái, giảm mỏi tay.
+       Ghế văn phòng: Có thể điều chỉnh độ cao, độ nghiêng lưng ghế, tay vịn để phù
+hợp với vóc dáng của người sử dụng, giúp giảm đau lưng và mỏi cổ.
+       Tai nghe: Thiết kế vừa vặn với tai, trọng lượng nhẹ, chất liệu mềm mại tạo cảm
+giác thoải mái khi đeo trong thời gian dài.
+       c. Tương tác giữa người và máy tính (HCI):
+       Giao diện web: Sử dụng ngôn ngữ đơn giản, dễ hiểu, bố cục rõ ràng, các liên
+kết dễ nhận biết giúp người dùng dễ dàng tìm kiếm thông tin và thực hiện các thao
+tác.
+       Ứng dụng di động: Giao diện trực quan, thao tác đơn giản, phản hồi nhanh
+chóng giúp người dùng dễ dàng sử dụng các chức năng của ứng dụng.
+       Trợ lý ảo: Nhận diện giọng nói chính xác, phản hồi nhanh chóng, cung cấp
+thông tin hữu ích giúp người dùng dễ dàng thực hiện các tác vụ.
+       d. Yếu tố con người trong an toàn:
+       Thiết bị điện gia dụng: Có các tính năng an toàn như tự động ngắt điện khi quá
+tải, cảnh báo khi có sự cố giúp giảm thiểu nguy cơ tai nạn.
+       Máy móc công nghiệp: Có các thiết bị bảo vệ như rơ le, cầu dao giúp ngắt điện
+kịp thời khi có sự cố, đảm bảo an toàn cho người vận hành.
+       Hệ thống báo cháy: Phát hiện khói và nhiệt độ nhanh chóng, phát ra âm thanh
+cảnh báo to rõ giúp mọi người kịp thời thoát hiểm khi có hỏa hoạn.
+       đ. Trải nghiệm người dùng (UX) và khả năng sử dụng:
+       Thiết bị âm thanh: Chất lượng âm thanh tốt, thiết kế đẹp mắt, dễ sử dụng giúp
+người dùng có trải nghiệm âm nhạc tốt hơn.
+       Thiết bị gia dụng thông minh: Có thể điều khiển từ xa, tự động hóa các tác vụ
+giúp người dùng tiết kiệm thời gian và công sức.
+       Sản phẩm công nghệ đeo tay: Thiết kế thời trang, đa dạng tính năng, dễ sử
+dụng giúp người dùng theo dõi sức khỏe, thể thao và giải trí hiệu quả.
+       6. Ngành Cơ khí
+
+                                            15
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      a. Công thái học nhận thức:
+      Bảng điều khiển máy móc: Sử dụng các ký hiệu và đèn báo hiệu dễ hiểu, bố trí
+hợp lý giúp người vận hành dễ dàng theo dõi và điều khiển máy móc.
+      Sách hướng dẫn sử dụng: Ngôn ngữ đơn giản, dễ hiểu, có hình ảnh minh họa rõ
+ràng giúp người sử dụng dễ dàng lắp đặt, vận hành và bảo dưỡng máy móc.
+      Hệ thống cảnh báo: Phát ra âm thanh và tín hiệu trực quan rõ ràng khi có sự cố
+giúp người vận hành kịp thời xử lý.
+      b. Nhân trắc học và cơ sinh học:
+      Ghế lái xe: Có thể điều chỉnh độ cao, độ nghiêng, khoảng cách với vô lăng phù
+hợp với vóc dáng của người lái xe, giúp lái xe thoải mái và an toàn.
+      Công cụ cầm tay: Thiết kế vừa vặn với tay, trọng lượng nhẹ, chống trơn trượt
+giúp người lao động thao tác dễ dàng và an toàn.
+      Quần áo bảo hộ lao động: Chất liệu thoáng khí, thoải mái, có các tính năng bảo
+vệ như chống bụi, chống thấm nước, chống cháy giúp người lao động an toàn khi làm
+việc.
+      c. Tương tác giữa người và máy tính (HCI):
+      Giao diện điều khiển máy CNC: Sử dụng màn hình cảm ứng, các biểu tượng
+trực quan, thao tác đơn giản giúp người vận hành dễ dàng lập trình và điều khiển
+máy.
+      Hệ thống giám sát máy móc: Cung cấp thông tin về tình trạng hoạt động của
+máy móc, cảnh báo khi có sự cố giúp người quản lý kịp thời xử lý.
+      Robot cộng tác: Có khả năng nhận diện và phản ứng với con người, giúp con
+người thực hiện các công việc nguy hiểm hoặc khó khăn một cách an toàn và hiệu
+quả.
+      d. Yếu tố con người trong an toàn:
+      Máy móc công nghiệp: Có các thiết bị an toàn như rơ le, cầu dao, hệ thống
+phanh giúp đảm bảo an toàn cho người vận hành khi có sự cố.
+      Quần áo bảo hộ lao động: Có các tính năng bảo vệ như chống bụi, chống thấm
+nước, chống cháy giúp giảm thiểu nguy cơ tai nạn lao động.
+      Hệ thống an toàn máy móc: Cung cấp các tính năng như tự động dừng máy khi
+có người xâm nhập, cảnh báo khi có nguy cơ tai nạn giúp giảm thiểu rủi ro cho người
+lao động.
+
+                                           16
+                       GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      đ. Trải nghiệm người dùng (UX) và khả năng sử dụng:
+      Máy móc công nghiệp hiện đại: Có giao diện trực quan, dễ sử dụng, tích hợp
+nhiều tính năng thông minh giúp người vận hành thao tác dễ dàng và hiệu quả.
+      Công cụ cầm tay đa năng: Có nhiều chức năng, dễ dàng thay đổi lưỡi cắt, mũi
+khoan giúp người lao động linh hoạt trong công việc.
+      Robot phục vụ: Có khả năng giao tiếp với con người, thực hiện các tác vụ đơn
+giản như dọn dẹp nhà cửa, pha cà phê giúp con người có cuộc sống thoải mái và tiện
+nghi hơn.
+       3.2. Mối liên hệ giữa yếu tố con người và vận hành máy móc
+       Chức năng của con người trong các hệ thống máy-người có thể được mô tả
+dưới dạng nhận thức, xử lý thông tin, ra quyết định, trí nhớ, sự chú ý, phản hồi và quy
+trình phản ứng của con người. Những hoạt động cơ bản nhưng phổ biến của con
+người trong hệ thống máy – người là (1) nhiệm vụ tạo ra lực (chủ yếu là hoạt động
+của cơ bắp), (2) nhiệm vụ phối hợp liên tục các chức năng cảm biến, theo dõi (ví dụ:
+lắp ráp hoặc theo dõi nhiệm vụ), (3) nhiệm vụ chuyển đổi thông tin thành hành động
+vận động (ví dụ: nhiệm vụ kiểm tra), (4) nhiệm vụ chuyển đổi thông tin thành thông
+tin đầu ra (ví dụ: nhiệm vụ kiểm soát bắt buộc) và (5) nhiệm vụ tạo ra thông tin (chủ
+yếu là công việc sáng tạo)5. Bất kỳ nhiệm vụ nào trong hệ thống người-máy đều yêu
+cầu xử lý thông tin được thu thập dựa trên nhận thức và giải thích mối quan hệ giữa
+các yếu tố hệ thống. Thông tin được xử lý có thể cần được lưu trữ bởi con người hoặc
+máy móc để sử dụng sau này.
+       Mối quan hệ giữa yếu tố con người và máy móc được thể hiện qua sơ đồ sau
+(Karwowski, 2005):
+
+
+
+
+       5
+            Sears, A., Jacko, J.A., & Jacko, J.A. (Eds.). (2007). The Human-Computer Interaction Handbook:
+Fundamentals, Evolving Technologies and Emerging Applications, Second Edition (2nd ed.). CRC Press.
+https://doi.org/10.1201/9781410615862
+                                                       17
+                     GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+Lưu ý:     —Kết hợp các mối quan hệ tương thích
+         Hình 3.1. Phương pháp tiếp cận tương thích giữa con người và hệ thống với
+                          công thái học (Karwowski, 2005).
+         3.2.1. Các yếu tố con người ảnh hưởng trực tiếp đến vận hành máy móc
+      Nghiên cứu về yếu tố con người và vận hành máy móc tập trung vào tương tác
+giữa con người và hệ thống kỹ thuật trong môi trường làm việc. Mối quan hệ này
+được xem xét dưới nhiều góc độ khác nhau liên quan đến yếu tố con người và vận
+hành các hệ thống kỹ thuật, bao gồm:
+      a) Tính năng nhận thức và thể chất của con người: Yếu tố này liên quan đến
+khả năng nhận thức, cảm giác, chú ý, nhận dạng, ra quyết định và thực hiện hành
+động của con người trong quá trình tương tác với máy móc.
+                                                  18
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       + Nhận thức
+       Nhận thức của người vận hành về chức năng, cách sử dụng và các quy trình
+vận hành máy móc là rất quan trọng. Nếu người vận hành không nắm vững hoặc hiểu
+sai về các thông tin này, sẽ dẫn đến sai sót, hiệu quả thấp và nguy cơ mất an toàn.
+       Con người giao tiếp với các hệ thống kỹ thuật thông qua các tín hiệu, thông tin
+hiển thị do đó để vận hành được thì người vận hành phải có khả năng nhận biết và
+hiểu được thông tin của các tín hiệu đó. Nếu thiết kế không phù hợp với khả năng
+nhận thức của người vận hành, họ sẽ bỏ qua các tín hiệu quan trọng, không xử lý kịp
+thời các sự cố.
+       Sự hiểu biết về các nguyên lý vận hành, các mối liên hệ logic giữa các thành
+phần trong hệ thống máy móc rất cần thiết cho việc ra quyết định chính xác khi gặp
+vấn đề.
+       Người dùng thông qua các giác quan cảm nhận và phản ứng với các kích thích
+từ môi trường xung quanh. Các giác quan như thị giác, thính giác, xúc giác, vị giác và
+khứu giác giúp con người nhận biết và phản ứng phù hợp với máy móc, ví dụ như
+khả năng nhận biết các tín hiệu và cảm nhận các thao tác, nhận biết và phân biệt các
+đối tượng, tình huống và thông tin giúp con người hiểu và tương tác với các tính năng
+và giao diện của máy móc.
+       + Chú ý
+       Sự tập trung chú ý của người vận hành trong suốt quá trình vận hành máy móc
+là rất quan trọng. Sự mất tập trung, lơ là có thể dẫn đến những sai sót nghiêm trọng.
+Bên cạnh đó khả năng phân chia chú ý giữa nhiều nhiệm vụ khác nhau trong vận
+hành cũng ảnh hưởng lớn đến chất lượng vận hành, nếu người vận hành không thể xử
+lý kịp thời các tình huống khẩn cấp do phải chia sẻ chú ý, sẽ gây ra các sự cố. Do đó
+khả năng giám sát liên tục các thông số vận hành, tín hiệu cảnh báo cũng đòi hỏi sự
+tập trung chú ý cao của người vận hành.
+       + Ra quyết định
+       Khả năng ra quyết định nhanh chóng và chính xác của người vận hành khi gặp
+các vấn đề, sự cố trong quá trình vận hành là rất quan trọng. Những quyết định sai
+lầm có thể dẫn đến hậu quả nghiêm trọng. Việc lựa chọn các phương án xử lý, khắc
+phục sự cố phù hợp đòi hỏi người vận hành phải có kiến thức chuyên môn, khả năng
+phân tích tình huống và ra quyết định một cách hợp lý. Trong một số trường hợp,
+
+                                            19
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+người vận hành còn phải đưa ra quyết định dựa trên thông tin không đầy đủ, trong
+điều kiện áp lực thời gian, do đó cần có kỹ năng ra quyết định trong bối cảnh không
+chắc chắn.
+       Sơ đồ ra quyết định trong vận hành:
+       + Thực hiện hành động
+       Tốc độ phản ứng nhanh chóng của người vận hành khi xảy ra các sự cố, nguy
+hiểm là rất quan trọng để kịp thời khắc phục và ngăn chặn hậu quả. Khả năng phản
+ứng chính xác, phù hợp với tình huống cũng ảnh hưởng lớn. Phản ứng không phù hợp
+có thể làm tình hình trở nên xấu hơn. Các yếu tố như độ phức tạp của nhiệm vụ, mức
+độ kinh nghiệm và sự mệt mỏi của người vận hành ảnh hưởng đáng kể đến tốc độ và
+độ chính xác của phản ứng.
+       + Yếu tố khả năng sinh lý
+       Sức khỏe thể chất, mức độ mệt mỏi, stress của người vận hành ảnh hưởng đến
+toàn bộ các khả năng nhận thức, sự chú ý, ra quyết định và phản ứng.
+       Các giới hạn về thể lực, khả năng vận động cũng ảnh hưởng đến việc thao tác
+các thiết bị, công cụ trong quá trình vận hành.
+       Các yếu tố sinh lý như thị lực, thính lực, phản xạ cũng ảnh hưởng đến khả năng
+nhận biết thông tin và phản ứng kịp thời của người vận hành.
+       b) Giao diện người-máy: Đây là phần mềm và phần cứng của máy móc được
+thiết kế để tương tác và thân thiện với người dùng, bao gồm màn hình hiển thị, bảng
+điều khiển, thiết bị nhập dữ liệu và các tín hiệu đầu ra (Sears & Jacko, 2009;
+Wogalter, 2006). Một số yếu tố quan trọng trong việc phân tích giao diện người-máy
+bao gồm:
+       - Khả năng thực hiện yêu cầu: Đầu tiên và quan trọng nhất, chúng ta cần nắm
+rõ rằng mỗi giao diện máy tính cần phải dễ sử dụng. Nó nên đơn giản, trực quan và
+dễ tiếp cận đến mức mà mọi người sử dụng có thể thực hiện công việc của họ mà
+không cần phải đọc hướng dẫn sử dụng.
+       - Hiệu suất: Điều quan trọng thứ hai chúng ta cần xem xét là hiệu suất. Điều
+này liên quan đến tất cả mọi yếu tố có thể ảnh hưởng đến hiệu suất, hiệu quả và sự
+thoải mái của người dùng, từ tốc độ phản hồi của hệ thống, độ trễ, tính nhất quán, đến
+khả năng tương thích với các công cụ khác.
+
+
+                                            20
+                   GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       - Trở ngại và hỗ trợ: Mỗi giao diện máy và hệ thống phần mềm cần phải có
+những hướng dẫn và hỗ trợ cho người dùng. Điều này bao gồm việc hướng dẫn sử
+dụng, vùng làm việc thoải mái, cung cấp phản hồi cho người dùng và giúp họ đối mặt
+với các trở ngại và khó khăn.
+       - Chỉ số phù hợp: Chỉ số trong giao diện người-máy là một phần quan trọng,
+chúng cung cấp thông tin về tình trạng hoạt động của hệ thống và giúp người dùng
+thao tác một cách chính xác. Chỉ số là thông tin quan trọng để người điều khiển như
+phi công máy bay, tài xế xe hơi và tàu hỏa hiểu được tình hình hoạt động của máy. Ví
+dụ, một chỉ số tốc độ rõ ràng trên xe hơi giúp tài xế điều khiển tốc độ an toàn.
+       - Khả năng đọc: Khả năng đọc của các chỉ số cũng rất quan trọng. Nếu người
+dùng không thể dễ dàng đọc và hiểu các chỉ số, họ có thể thao tác sai máy. Chẳng
+hạn, các nghiên cứu đã chỉ ra rằng kích thước hiển thị nhỏ có thể ảnh hưởng đến khả
+năng đọc của người dùng.
+       - So sánh các tính năng hiển thị: So sánh các tính năng hiển thị là một yếu tố
+khác cần xem xét. Ví dụ, một giao diện có thể có các hiển thị số hoặc đồ họa, và mỗi
+loại hiển thị có thể phù hợp hơn với các nhiệm vụ cụ thể.
+       - Thao tác đọc lặp lại: Rất thường xuyên, chúng ta cần làm việc với giá trị mà
+chúng ta phải đọc – và đây là lý do tại sao chúng ta cần giữ giá trị này trong bộ nhớ
+của mình. Việc đọc lặp lại từ chỉ thị là nguyên nhân khiến thời gian can thiệp của
+chúng ta dài hơn và trong một tình huống mà chúng ta chỉ có thời gian rất ngắn để
+hành động, nó có thể dẫn đến hậu quả nghiêm trọng.
+       c) Môi trường làm việc: Yếu tố này bao gồm các điều kiện vật lý, tổ chức và
+văn hóa xã hội tác động đến hiệu suất và sự an toàn của con người khi tương tác với
+máy móc (Dekker, 2007; Karwowski, 2006).
+       - Môi trường vật lý: Điều kiện vật lý nơi máy móc được vận hành có thể ảnh
+hưởng đến hiệu suất làm việc và sự an toàn. Ví dụ, ánh sáng yếu hoặc quá mạnh có
+thể gây ra mỏi mắt và làm giảm khả năng nhìn rõ của người dùng. Tiếng ồn có thể
+làm giảm sự tập trung và hiểu biết, trong khi đó, nhiệt độ và độ ẩm không phù hợp có
+thể gây ra mệt mỏi và căng thẳng thể chất.
+       - Cấu trúc và thiết kế môi trường: Cấu trúc và thiết kế môi trường cũng là một
+yếu tố rất quan trọng. Cho dù người dùng là ngồi hay đứng; khoảng cách từ tầm mắt
+tới màn hình hiển thị; vị trí của các điều khiển và nút, tất cả đều có thể ảnh hưởng đến
+
+                                             21
+                        GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+an toàn, thoải mái và hiệu suất làm việc. Máy móc và những thiết bị điều khiển nên
+được thiết kế sao cho người dùng có thể tương tác một cách thoải mái và dễ dàng.
+      Ví dụ 1: Nghiên cứu của Chaffin (2005) về thiết kế trạm làm việc cho thấy
+rằng6
+      + Màn hình máy tính nên được đặt ở mức tầm mắt, khoảng 50-70 cm từ người
+dùng.
+      + Bàn làm việc phải đủ cao (khoảng 70-75 cm) để đảm bảo không gây áp lực
+lên cánh tay khi người dùng đang gõ phím máy tính.
+      + Máy tính và các thiết bị khác nên được đặt sao cho người dùng không cần
+phải xoay cổ hay cơ thể khi dùng chúng.
+      + Ghế nên có thể điều chỉnh độ cao và độ nghiêng của lưng ghế để cung cấp sự
+thoải mái và hỗ trợ lưng tốt nhất.
+      + Bàn làm việc nên có không gian thoảng để chân, giúp tránh nguy cơ mỏi
+chân hoặc suy giãn tĩnh mạch.
+      Ví dụ 2: Nghiên cứu của Lee và Liu (2003) đã phân tích về thiết kế giao diện
+người - máy trong cockpit của một chiếc máy bay7
+      - Tất cả các điều khiển quan trọng như bánh lái, cần điều khiển động cơ, và các
+nút nguy hiểm nên nằm trong phạm vi dễ dàng tiếp cận của phi công.
+      - Các màn hình và bảng điều khiển nên được bố trí ở mức độ mắt để tối đa hóa
+tầm nhìn và giảm thiểu sự mỏi mắt.
+      - Các điều khiển cần phải được gắn nhãn một cách rõ ràng, dễ hiểu để giảm bớt
+nguy cơ lẫn lộn.
+      Các nhân tố môi trường tác động đến người vận hành được thể hiện dưới bảng
+sau:
+Bảng 3.2. Các yếu tố môi trường tại nơi làm việc và ảnh hưởng của chúng (Bullinger,
+1994)
+                                 Tác dụng mong
+                                                             Tác dụng không mong muốn tiềm ẩn
+Nhân tố môi trường                muốn tiềm ẩn
+                              Hỗ trợ vận        Hạnh                                     Ảnh             Tổn
+                                                             Rối loạn       Sự cố
+                              hành tác vụ       phúc                                   hưởng đến       thương
+
+        6
+           Chaffin DB (2005). "Improving digital human modelling for proactive ergonomics in design". Ergonomics.
+48 (5): 478–491.
+        7
+           Lee JD, Liu X (2003). "Rapid prototyping of an augmented vision system for aircraft". The International
+Journal of Aviation Psychology. 13 (3): 259–272.
+                                                           22
+                                GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+                                                                                                               sức khỏe            cơ thể
+
+Ánh sáng                                      ●                  ●                 ●               ●                ○
+Màu sắc                                       ●                  ●                 ○               ●
+Khí hậu                                       ○                  ●                 ●               ○                ●
+Nhiệt độ tiếp xúc                                                ●                 ●                                                  ●
+Chất lượng không khí                          ○                  ○                 ●               ○                ●
+Tiếng ồn                                                         ○                 ●               ●                ●                 ●
+Rung động                                                                          ●               ●                ●                 ●
+Lực gia tốc                                                                        ●               ●                                  ●
+Độ ẩm                                                                              ●               ●                ●
+Bụi bẩn                                                                            ●               ○                ○
+          Ghi chú:               Có mối tương quan ●
+                                 Không liên quan ○
+       Điều kiện vật lý là một yếu tố quan trọng trong việc đảm bảo an toàn cho
+người lao động trong mọi ngành nghề. Dưới đây là một số tiêu chuẩn quan trọng8910:
+       1. Mức độ tiếng ồn: Tiếng ồn cần phải được kiểm soát để không gây ra hại cho
+thính giác và gây ra mệt mỏi cho nhân viên. Cơ quan Sức khỏe và An toàn lao động
+Hoa Kỳ (OSHA) khuyến nghị mức giới hạn tiếng ồn trong môi trường làm việc
+không vượt quá 85 decibel trong suốt 8 giờ làm việc.
+       2. Độ sáng: Cung cấp đủ ánh sáng không chỉ giúp người lao động thực hiện
+công việc hiệu quả hơn, mà còn giảm nguy cơ xảy ra tai nạn. OSHA đề nghị mức độ
+sáng tối thiểu từ 10 đến 20 foot-candles (1 Foot Candle = 10.76 Lumens) cho hầu hết
+các công việc.
+       3. Điều kiện nhiệt độ: Điều kiện nhiệt độ phù hợp có thể giúp cải thiện hiệu
+suất làm việc và giảm nguy cơ cho sự mệt mỏi. Quy chuẩn ASHRAE (Hội Kỹ sư
+Lạnh và Điều hòa không khí Hoa Kỳ) khuyến nghị mức độ nhiệt độ nằm trong
+khoảng từ 20.0 °C đến 24.0 °C (68.0 °F đến 75.2 °F) cho mùa đông và từ 23.0 °C đến
+26.0 °C (73.4 °F đến 78.8 °F) cho mùa hè.
+       4. Độ ẩm: Mức độ độ ẩm không khí nên nằm trong khoảng từ 30% đến 50% để
+tối đa hiệu suất làm việc và ngăn ngừa sự mệt mỏi và vi khí hậu gây hại.
+
+          8
+              Occupational Safety and Health Administration. (n.d.). OSHA Technical Manual (OTM) | Section III: Chapter 5 - Noise | Occupational
+Safety and Health Administration. www.osha.gov.
+          9
+              ASHRAE Standard 55-2017: Thermal Environmental Conditions for Human Occupancy
+          10
+               U.S. Environmental Protection Agency. (n.d.). Indoor Air Facts No. 4 (revised) Sick Building Syndrome | US EPA. www.epa.gov
+
+                                                                            23
+                            GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       5. Bụi và chất bay hơi: Chất bụi và hơi bay khỏi máy móc có thể gây hại cho
+sức khỏe của người lao động. OSHA thiết lập những tiêu chuẩn chung về chất lượng
+không khí nhằm giảm thiểu rủi ro nguy hại cho sức khỏe.
+       Tất cả các tiêu chuẩn trên đều nên được áp dụng trong các môi trường làm việc
+với máy móc để đảm bảo an toàn cho người lao động.
+       - Môi trường hóa học: Các chất hoá học độc hại trong môi trường làm việc có
+thể gây ra rủi ro cho sức khỏe và an toàn người dùng. Để tránh điều này, nên sử dụng
+các biện pháp bảo vệ cá nhân như khẩu trang, găng tay, và kính bảo hộ khi cần thiết.
+       - Môi trường xã hội: Sự tương tác giữa các cá nhân trong một môi trường làm
+việc cũng có thể tác động đến hiệu suất công việc. Một môi trường làm việc tích cực,
+hòa đồng và hợp tác có thể làm tăng hiệu suất và hài lòng trong công việc.
+       Việc phân tích và hiểu rõ các yếu tố môi trường khi vận hành máy móc sẽ giúp
+thiết kế và tạo ra một môi trường làm việc thân thiện và an toàn cho người dùng.
+Điều này không chỉ tạo ra một môi trường làm việc hiệu quả hơn, mà còn giảm thiểu
+nguy cơ mắc phải sai lầm và tăng cao sự an toàn.
+       d) Tổ chức và quản lý: Cấu trúc, chính sách, quy trình và phương pháp quản lý
+của tổ chức nơi làm việc ảnh hưởng đến hoạt động của con người và cách họ sử dụng
+máy móc (Reason, 2008; Weick & Sutcliffe, 2007)1112.
+     3.2.2. Lợi ích của việc xem xét yếu tố con người trong vận hành
+      Khi yếu tố con người được tích hợp tốt vào quá trình vận hành máy sẽ có
+những lợi thế đáng kể:
+      Tăng cường an toàn: Bằng cách giảm nguy cơ lỗi của con người do thiết kế
+kém, tai nạn và thương tích sẽ ít xảy ra hơn.
+      Hiệu quả được cải thiện: Máy sử dụng dễ dàng và trực quan cho phép người
+vận hành làm việc nhanh hơn và hiệu quả hơn.
+      Nâng cao sự hài lòng của người dùng: Giao diện người-máy được thiết kế tốt
+mang lại trải nghiệm tích cực hơn cho người vận hành.
+      Giảm thời gian đào tạo: Máy móc trực quan đòi hỏi ít đào tạo hơn để người
+vận hành thành thạo.
+
+
+      11
+        Reason, J. (2008). The Human Contribution: Unsafe Acts, Accidents and Heroic Recoveries.
+      12
+           Weick, K. E., & Sutcliffe, K. M. (2007). Managing the Unexpected: Resilient Performance in an Age of Uncertainty
+
+                                                                         24
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      3.2.3. Một số ví dụ
+       Ví dụ 1. Trường hợp thiết kế môi trường làm việc ở trong tư thế ngồi với màn
+hình hiển thị trên máy tính
+       Các thuộc tính vật lý của nơi làm việc ở trong tư thế ngồi với màn hình hiển thị
+trên máy tính, các yếu tố tổ chức và tâm lý xã hội cùng với các đặc điểm cá nhân
+được công nhận là các yếu tố rủi ro tiềm ẩn đối với bộ máy cơ xương chịu trách
+nhiệm lan truyền các rối loạn cơ xương ở người vận hành làm việc ở trong tư thế ngồi
+với màn hình hiển thị trên máy tính. Để thành công, một cách tiếp cận phòng ngừa
+nên xem xét tất cả các yếu tố rủi ro một cách tổng hợp. 10 quy tắc sau đây sẽ giúp
+giảm thiểu rủi ro liên quan đến công việc trong tư thế ngồi với màn hình hiển thị trên
+máy tính.
+       1. Nơi làm việc phải được thiết kế theo kích thước cho phép không chỉ tư thế
+thoải mái về mặt sinh lý mà còn cả chuyển động cơ thể cho nhiều loại cơ thể và kích
+thước khác nhau (từ 5% nữ đến 95% nam).
+       2. Giải pháp tốt nhất trong thiết kế cho vị trí làm việc có tương tác với màn
+hình máy tính trong tư thế ngồi là: Ghế và bàn có thể điều chỉnh được, có chỗ để chân
+thích hợp là giải pháp tốt nhất. Ngoài ra, một chiếc ghế có thể điều chỉnh và một chỗ
+để chân với chiều cao bàn cố định đảm bảo nhiều cách kết hợp tư thế để đáp ứng sự
+thay đổi của người dùng thường xuyên, ngoài ra, đây còn là một giải pháp thỏa đáng
+về mặt kinh tế.
+       3. Ghế là thành phần quan trọng nhất tại nơi làm việc của vị trí làm việc có
+tương tác với màn hình máy tính trong tư thế ngồi: vì lý do này, ghế phải có nhiều
+điều chỉnh, hình dạng và biên dạng để đảm bảo khả năng thích ứng và thoải mái.
+Ngoài ra, một chiếc ghế có thể thích ứng và thoải mái phải thiết thực, chắc chắn và an
+toàn để có thể dễ dàng điều chỉnh từ vị trí ngồi, có khả năng đảm bảo hiệu quả công
+thái học theo thời gian và không phải là nguyên nhân gây ra tai nạn.
+       4. Bàn phím và các thiết bị nhập liệu không phải bàn phím nên tạo điều kiện
+thuận lợi cho các tư thế trung tính và tránh tác dụng lực quá mức.
+       5. Độ sâu của bàn là một yếu tố rất quan trọng thường bị bỏ qua; độ sâu của
+bàn nhỏ hơn 90 cm cản trở người vận hành đặt màn hình trước mặt họ. Di chuyển
+màn hình sang bên trái hoặc bên phải của bàn làm việc có thể làm hỏng mọi nỗ lực
+nhằm cung cấp nơi làm việc tiện dụng.
+
+                                             25
+                    GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       6. Nhu cầu công việc, khối lượng công việc, áp lực công việc, nơi làm việc
+phải phù hợp với nguồn lực của từng cá nhân để tránh căng thẳng tâm lý làm tăng
+nguy cơ mắc các bệnh về cơ xương khớp.
+       7. Thường xuyên nghỉ giải lao có thể làm giảm mệt mỏi và rối loạn cơ xương.
+Tuy nhiên, người vận hành nên biết phải làm gì trong thời gian tạm dừng để họ không
+ngồi yên một chỗ, có thể là đọc báo, tạm dừng công việc nhưng không phải tạm dừng
+theo tư thế (và hình ảnh).
+       8. Khi người vận hành có ít quyền quyết định trong việc thực hiện thao tác,
+công việc nên được thiết kế sao cho cần có các tư thế thay thế và sự vận động của cơ
+thể.
+       9. Giảm thiểu ánh sáng chói trực tiếp và gián tiếp giúp tránh các tư thế khó xử.
+       10. Thông tin và đào tạo là cần thiết để thực hiện thành công can thiệp công
+thái học. Thông tin và đào tạo nhằm mục đích giới thiệu hoặc sửa đổi hành vi trong
+các tình huống được tạo thành từ người thật. Với mục đích này, thông tin và đào tạo
+nên được tích hợp, và những người vận hành nên được kiểm tra về hiểu biết của họ
+về nội dung và khả năng áp dụng nội dung đó vào thực tế.
+       Dưới đây là một số thông số trong thiết kế ghế cho người vận hành màn hình
+trong quá trình làm việc:
+        Bảng 3.3. Các khhuyến nghị về khả năng điều chỉnh của các bộ phận của
+                   ghế và các thông số nhân trắc học tương ứng
+                                 Kích thước được đề    Thông số nhân trắc học
+                                 xuất. Phạm vi (cm)    tương ứng
+Chiều cao ghế ngồi               39-52                 Chiều cao trung bình
+Độ sâu chỗ ngồi                  39-55                 Chiều ngang hông
+Chiều rộng ghế không có tay vị   >47                   Chiều rộng hông
+Chiều rộng ghế + tay vịn         >49                   Chiều rộng hông
+Chiều cao tựa lưng                                     Chiều cao mặt phẳng ngồi/gù
+                                 32-50
+                                                       tối đa
+Chiều cao tựa lưng:
++ Vùng thắt lưng                                       Chiều rộng thắt lưng tối thiểu
+                                 >=33
++ Vùng ngực                                            Chiều rộng tối đa ở kyphosis
+                                 38
+                                                       ngực
+Tay vịn:
++ Chiều cao                      16-23                 Chiều cao khuỷu tay đến mặt
++ Chiều sâu                      20-25                 phẳng ghế
+
+                                             26
+                 GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+                            Kích thước được đề Thông số nhân trắc học
+                            xuất. Phạm vi (cm) tương ứng
++ Chiều rộng                >=5
+
+
+               Bảng 3.4. Các đặc điểm chính cho sự thoải mái của ghế
+                                         Phạm vi kích thước được đề xuất
+Độ lõm tối đa của thành ngồi (từ tựa <=10 cm
+lưng)
+Đỗ cong của cạnh trước (bán kính)        4-12 cm
+Góc mặt phẳng ghế (độ)                   3- 100
+Chiều cao hỗ trợ thắt lưng từ độ sâu của 17 – 28 cm
+mặt phẳng ghế                            3-5 cm
+Góc tựa lưng góc lưới                    90 – 1100
+Biên dạng ngang (bán kính)               40 – 80 cm
+Đệm                                      Bản cứng chắc
+Vật liệu che phủ                         Xốp để chống trượt
+
+
+
+
+                                         27
+                 GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+Hình 3.2. Thời gian dự kiến để đạt mức mỏi cơ vai đáng kể đối với các tư thế gập cánh
+tay khác nhau. [ Chaffin, D. B., và Andersson, G. B. (1991), Cơ sinh học nghề nghiệp,
+                                   Wiley, New York.]
+
+
+
+
+                                            28
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      Ví dụ 2: Điều kiện khoảng cách và tư thế vận hành của vị trí người ngồi
+trong xe ô tô
+
+
+
+
+           Hình 3.9. Các kích thước thường được sử dụng trong SAE J1100
+ (http://www.instructables.com/image/FJK5LHFJZ3EQHO916N/ Anthropometry-and-
+   comComponent-parts.jpg). Các giá trị điển hình từ Macey và Wardle (2009, tr. 95).
+
+
+
+
+                                            29
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+                     CÂU HỎI ÔN TẬP VÀ BÀI TẬP CỦNG CỐ
+      Câu 1: Em hãy xác định các yếu tố con người trong thiết kế kỹ thuật?
+       Câu 2: Em hãy phân tích đặc điểm của thiết kế kỹ thuật lấy con người làm
+trung tâm?
+       Câu 3: Em hãy phân tích những yếu tố tâm lý ảnh hưởng đến con người trong
+quá trình vận hành máy móc? Trên cơ sở các yếu tố tâm lý của con người trong quá
+trình vận hành, đề xuất giải pháp giảm thiếu rủi ro cho người sử dụng và vận hành
+máy móc?
+
+
+
+
+                                           30
+                 GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                       * TÀI LIỆU THAM KHẢO CHƯƠNG 3
+       [1] Cross, N. (2021). Engineering design methods: strategies for product
+design. John Wiley & Sons.
+       [2] Sanders, M. S., & McCormick, E. J. (1993). Human Factors in Engineering
+and Design. McGraw-Hill.
+       [3] Norman, D. A. (2013). The Design of Everyday Things. Basic Books.
+       [4] Norman, D. A., & Draper, S. W. (1986). User Centered System Design:
+New Perspectives on Human-Computer Interaction. CRC Press.
+       [5] Woods, D. D., & Hollnagel, E. (1987). Mapping Cognitive Demands in
+Complex Problem-Solving Worlds. International Journal of Man-Machine Studies,
+26(2), 257-275.
+       [6] Woods, D. D., & Hollnagel, E. (1987). Mapping Cognitive Demands in
+Complex Problem-Solving Worlds. International Journal of Man-Machine Studies,
+26(2), 257-275.
+       [7] Salvendy, G. (2012). Handbook of Human Factors and Ergonomics (4th
+ed.). Wiley.
+       [8] Chaffin, D. B. (2005). Improving digital human modelling for proactive
+ergonomics in design. Ergonomics, 48(5), 478–491.
+       [9] Lee, J. D., & Liu, X. (2003). Rapid prototyping of an augmented vision
+system for aircraft. The International Journal of Aviation Psychology, 13(3), 259–
+272.
+       [10] Occupational Safety and Health Administration. (n.d.). OSHA Technical
+Manual (OTM) | Section III: Chapter 5 - Noise | Occupational Safety and Health
+Administration. www.osha.gov.
+       [11] ASHRAE. (2017). ASHRAE Standard 55-2017: Thermal Environmental
+Conditions for Human Occupancy.
+       [12] U.S. Environmental Protection Agency. (n.d.). Indoor Air Facts No. 4
+(revised) Sick Building Syndrome | US EPA. www.epa.gov.
+       [13] Reason, J. (2008). The Human Contribution: Unsafe Acts, Accidents and
+Heroic Recoveries.
+       [14] Weick, K. E., & Sutcliffe, K. M. (2007). Managing the Unexpected:
+Resilient Performance in an Age of Uncertainty.
+       [15] Karwowski, W. (2006). International Encyclopedia of Ergonomics and
+Human Factors (2nd ed.). CRC Press.
+       [16] World Health Organization. (n.d.). Blindness and visual impairment.
+https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+       [17] American Foundation for the Blind. (n.d.). Home | American Foundation
+for the Blind. https://www.afb.org/
+       [18] National Federation of the Blind. (n.d.). https://nfb.org/
+
+                                          31
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       [19] Massof, R. W., & Stelmack, G. (2001). Interpreting low vision test
+results. Optometry and Vision Science, 78(2), 82-89.
+       [20] Dain, S. J. (2004). Clinical colour vision tests. Clinical and Experimental
+Optometry, 87(4-5), 276-293.
+       [21] Hersh, M., Johnson, M. A., & Johnson, B. T. (2002). Empowering older
+people with early stage vision loss: A new approach. Visual Impairment Research,
+4(1), 1-16.
+       [22] López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer,
+G. (2013). The hallmarks of aging. Cell, 153(6), 1194-1217.
+       [23] Campisi, J., & d'Adda di Fagagna, F. (2007). Cellular senescence: when
+bad things happen to good cells. Nature reviews Molecular cell biology, 8(9), 729-
+740.
+       [24] Kirkwood, T. B. (2005). Understanding the odd science of aging. Cell,
+120(4), 437-447.
+       [25] Niccoli, T., & Partridge, L. (2012). Ageing as a risk factor for disease.
+Current biology, 22(17), R741-R752.
+       [26] Leveson, N. (2004). A new accident model for engineering safer
+systems. Safety Science, 42(4), 237-270.
+       [27] Kaplan, S. M., & Garrick, B. J. (1981). On The Quantitative Definition
+of Risk. Risk Analysis, 1, 11-27.
+       [28] Interaction Design Foundation - IxDF. (2015, July 5). Human error
+(slips and mistakes). https://www.interaction-design.org/literature/book/the-glossary-
+of-human-computer-interaction/human-error-slips-and-mistakes
+       [29] Parhi, P., Karlson, A. K., & Bederson, B. B. (2006, September). Target
+size study for one-handed thumb use on small touchscreen devices. In Proceedings of
+the 8th Conference on Human-computer Interaction with Mobile Devices and
+Services (pp. 203-210).
+       [30] XENON Collaboration, Aprile, E., Aalbers, J., Agostini, F., Alfonsi, M.,
+Althueser, L., ... & Zhu, T. (2018). Dark matter search results from a one ton-year
+exposure of XENON1T. Physical review letters, 121(11), 111302.
+       [31] Wickens, C. D., Hutchins, S. D., Laux, L., & Sebok, A. (2015). The
+impact of sleep disruption on complex cognitive performance. Human factors, 57(4),
+569-588.
+       [32] Vischer, J. C. (2007). The effects of the physical environment on job
+performance: towards a theoretical model of workspace stress. Stress and health,
+23(3), 175-184.
+
+
+
+
+                                             32
+GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                 33
+

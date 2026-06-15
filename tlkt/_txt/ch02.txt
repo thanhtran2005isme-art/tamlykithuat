@@ -1,0 +1,806 @@
+CHƯƠNG 2: LÝ THUYẾT TÂM LÝ ỨNG DỤNG TRONG KỸ THUẬT
+
+ Sau khi học xong Bài 2, sinh viên có khả năng:
+
+       - Trình bày được những kiến thức về những lý thuyết tâm lý ứng dụng trong kỹ
+ thuật;
+ - Thực hiện được các dự án thiết kế kỹ thuật nhỏ thuộc chuyên ngành dựa trên ứng
+ dụng tâm lý học kỹ thuật;
+
+ - Nhận biết và giải quyết được các vấn đề trong thiết kế kỹ thuật thuộc chuyên ngành
+ dựa trên ứng dụng tâm lý học;
+
+ - Có kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ năng tư duy sáng tạo và
+ tư duy hệ thống; kĩ năng thuyết trình, kĩ năng làm việc nhóm.
+
+ - Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ thuật. Ý thức được giá
+ trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật trong mối liên hệ với tự
+ nhiên, con người và xã hội nhằm định hướng đến sự phát triển bền vững.
+
+
+
+                Bài 2: Nhận thức và xử lý thông tin trong kỹ thuật
+
+2.1. Lý thuyết phát hiện tín hiệu và mô hình xử lý thông tin
+2.1.1. Lý thuyết phát hiện tín hiệu
+         * Lý thuyết phát hiện tín hiệu
+
+          Lý thuyết phát hiện tín hiệu (Signal detection theory) mô tả cách con
+người xử lý thông tin trong môi trường phức tạp, nơi có cả tín hiệu và nhiễu. Lý
+thuyết này nghiên cứu cách con người nhận thức, giải thích và phản ứng với các
+tín hiệu trong môi trường làm việc không chắc chắn.
+
+         Những yếu tố trong lý thuyết tín hiệu:
+
+         - Tín hiệu: Là thông tin người quan sát muốn nhận diện, hoặc là thông
+tin mà con người đang cố gắng nhận biết, bao gồm cả thông tin hình ảnh, âm
+thanh, xúc giác.
+
+         - Nhiễu: Là thông tin không mong muốn, không liên quan đến tín hiệu,
+gây ra sự mơ hồ, làm nhiễu tín hiệu. Nhiễu tồn tại ở mọi nơi, với nhiều hình dạng,
+hình thức khác nhau. Ví dụ, tiếng ồn, rung động hoặc ánh sáng chói. Nhiễu có
+thể do nhiều yếu tố khác nhau gây ra, bao gồm thiết bị không hoàn hảo, tín hiệu
+nền và tín hiệu nhiễu.
+         - Tiêu chuẩn phản ứng: Là ranh giới mà con người sử dụng để phân biệt
+giữa tín hiệu và nhiễu. Nó đóng vai trò quan trọng trong việc đưa ra quyết định
+một sự kiện, thông tin có phải là tín hiệu hay không.
+
+        - Phản hồi: Quyết định mà một người đưa ra dựa trên tiêu chí quyết định
+(chấp nhận hoặc từ chối tín hiệu).
+
+         Ví dụ, một bác sĩ đang chẩn đoán bệnh nhân có thể xuất hiện triệu chứng
+ung thư. Trong đó:
+
+        Tín hiệu: Kết quả xét nghiệm cho thấy sự hiện diện của tế bào ung thư.
+
+        Nhiễu: Các yếu tố khác có thể ảnh hưởng đến kết quả xét nghiệm, chẳng
+hạn như nhiễm trùng hoặc sai sót trong quá trình xét nghiệm.
+
+         Tiêu chuẩn phản ứng: Bác sĩ cần đặt ra ngưỡng quyết định để xác định
+xem kết quả xét nghiệm có đủ tin cậy để chẩn đoán ung thư hay không. Bác sĩ cần
+cẩn trọng trong việc đặt ra ngưỡng quyết định. Bác sĩ có thể cân nhắc các yếu tố
+như tuổi bệnh nhân, tiền sử bệnh và các triệu chứng khác để đưa ra quyết định
+chính xác nhất.
+
+        Phản hồi: Bác sĩ đưa ra kết luận là bệnh nhân bị ung thư hay không.
+
+        * Mối quan hệ giữa các yếu tố
+
+         Tín hiệu, nhiễu, tiêu chí quyết định và phản hồi là những yếu tố có mối
+quan hệ mật thiết và ảnh hưởng lẫn nhau trong lý thuyết phát hiện tín hiệu. Mối
+quan hệ giữa các yếu tố này giúp giải thích cách con người đưa ra quyết định trong
+điều kiện không chắc chắn, đồng thời cung cấp nền tảng cho việc thiết kế hệ thống
+giao diện máy móc hiệu quả, hỗ trợ người vận hành ra quyết định chính xác.
+
+         Lý thuyết phát hiện tín hiệu có thể được áp dụng để phân tích sự phát
+hiện tín hiệu/ dữ liệu bởi người vận hành, hoặc bằng máy, hoặc bằng máy dò tự
+động, hoặc bởi cả người và máy. Quá trình phát hiện tín hiệu dẫn đến 2 loại kết
+quả: có hoặc không có tín hiệu. Ví dụ: việc phát hiện ma túy hoặc vũ khí trong
+hành lý bởi một nhân viên bảo vệ sân bay; phát hiện vết nứt trên thân máy bay,
+phát hiện khối u ác tính trên tâm phim X-quang bởi bác sĩ,…
+                                                                    Hiện thực khách quan
+                                                                   Tín hiệu        Nhiễu
+
+                                                   Có          Phát hiện đúng            Cảnh báo nhầm
+                                                                tín hiệu (hit)            (false alarm)
+                                     Phản
+                                     ứng                        Bỏ lỡ tín hiệu            Từ chối chính
+                                                Không
+                                                                   (miss)                  xác (correct
+                                                                                            recjection)
+
+
+
+         Hình 2.1: Các khả năng xảy ra trong nhận có tín hiệu
+         Có 4 khả năng xảy ra trong nhận có tín hiệu: phát hiện đúng tín hiệu (hit),
+bỏ lỡ tín hiệu (miss), cảnh báo nhầm (false alarm), từ chối chính xác (correct
+rejection). Trong đó:
+
+            Phát hiện đúng tín hiệu (hit): có tín hiệu và ta phát hiện ra tín hiệu đó;
+
+            Cảnh báo nhầm (false alarm): không có tín hiệu nhưng ta lại cho rằng có
+tín hiệu;
+
+            Bỏ lỡ tín hiệu (miss): có tín hiệu nhưng ta lại không phát hiện ra tín hiệu
+đó;
+
+        Từ chối chính xác (correct recjection) : không có tín hiệu và ta xác nhận
+là không có.
+
+          Trong lý thuyết phát tín hiệu, các giá trị của 4 khả năng này thường được
+biểu thị dưới dạn xác suất (chia số lần xuất hiện trong một ô cho tổng số lần xuất
+hiện trong một cột). Ví dụ, nếu 20 tín hiệu được trình bày và có 5 lần phát hiện
+đúng tín hiệu và 15 lần trượt thì sẽ viết là: P(Hit)=5/20 (0,25) tỉ lệ báo động đúng.
+Nếu 10 thử nghiệm nhiễu được thực hiện và có một nửa phản hồi là “có” tức là
+báo động sai thì sẽ viết tỉ lệ báo động sai là P(FA) = 5/10 (0,5). Trong thực tế, tỉ
+lệ cảnh báo sai được định nghĩa là xác suất một tín hiệu không được đưa ra phản
+hồi có. 1
+
+        Lý thuyết phát tín hiệu cho rằng có hai giai đoạn xử lý thông tin trong
+nhiệm vụ phát hiện tín hiệu:
+
+            - Phân tích dữ liệu để nhận biết tín hiệu hay nhiễu;
+
+
+
+      1
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+            - Đưa ra quyết định về việc có tín hiệu hay không.
+
+          Nếu gọi những bằng chứng của tín hiệu là “X” thì khi có tín hiệu, trung
+bình X sẽ lớn hơn so với khi không có tín hiệu. Và khi X vượt qua ngưỡng tới hạn
+Xc và người điều hành quyết định “có” và nếu nó quá nhỏ nhà điều hành sẽ quyết
+định là “không”. Tuy nhiên, giá trị của X thay đổi liên tục ngay cả khi không có
+tín hiệu (do sự thay đổi ngẫu nhiên trong môi trường và hoạt động của não), ngay
+cả khi không có tín hiệu đôi khi X cũng vượt quá tiêu chí Xc, ngược lại, ngay cả
+khi có tín hiệu, mức độ hoạt động ngẫu nhiên có thể thấp, khiến X nhỏ hơn ngưỡng
+tới hạn. Sự khác biệt về cường độ giữa tín hiệu và nhiễu càng nhỏ, xác suất lỗi
+càng lớn. 2
+
+         Ví dụ, khi kiểm soát viên không lưu giám sát màn hình radar, ở đó có sự
+thay đổi ngẫu nhiên về cường độ kích thích gây ra do mưa, mây và có thêm sự gia
+tăng cường độ thể hiện sự hiện diện của tín hiệu là một chiếc máy bay. Lượng
+nhiễu sẽ không thay đổi theo thời gian mà sẽ dao động, đôi khi nó sẽ cao che giấu
+hoàn toàn tín hiệu của máy bay, đôi khi nó lại thấp cho phép thấy rõ máy bay. Một
+ví dụ khác, bạn đang đứng canh gác trên một con tàu, tìm kiếm đường chân trời
+vào một đêm tối để tìm kiếm một ánh sáng mờ nhạt, và bạn có thể gặp khó khăn
+để phân biệt đèn flash với ánh sáng thật với những ánh đèn flash chỉ là ảo giác
+của bạn. Trong trường hợp này, nhiễu là nội bộ. Và nhiễu trong lý thuyết phát tín
+hiệu là sự kết hợp của nhiễu từ các nguồn bên ngoài và cả bên trong.3
+
+        Trong lý thuyết phát hiện tín hiệu, tín hiệu và nhiễu thường xuất hiện
+song hành với nhau
+
+            + Độ nhạy
+
+          Độ nhạy là khả năng phát hiện tín hiệu, tức là khả năng phân biệt giữa
+tín hiệu và nhiễu, và được ký hiệu là d.
+
+         Độ nhạy trong lý thuyết phát tín hiệu liên quan đến khả năng của một hệ
+thống phát hiện sự thay đổi trong tín hiệu đầu vào. Độ nhạy càng cao, hệ thống
+càng nhạy cảm với những thay đổi nhỏ, có nghĩa là nó có thể phát hiện các thay
+đổi nhỏ hơn và phản ứng nhanh chóng hơn. Ngược lại, nếu độ nhạy thấp, hệ thống
+sẽ khó phát hiện và phản ứng trước những thay đổi nhỏ của tín hiệu.
+
+         Đo lường độ nhạy: được tính bằng tỷ lệ phát hiện đúng (hit rate) so với
+tổng số lần tín hiệu xuất hiện.
+
+
+
+      2
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+      3
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+         Ví dụ, trong việc phát hiện tín hiệu cảnh báo của hệ thống an ninh, nếu
+hệ thống phát hiện đúng 95 trong số 100 lần tín hiệu cảnh báo xuất hiện, thì độ
+nhạy của hệ thống này là 0,95 (95%). Trong việc phát hiện tín hiệu y tế, nếu bác
+sĩ chẩn đoán đúng 90 trong số 100 bệnh nhân có triệu chứng, thì độ nhạy của bác
+sĩ trong chẩn đoán là 0,90 (90%).
+
+         Độ nhạy cao sẽ giúp người dùng phát hiện được nhiều tín hiệu thực sự
+xuất hiện. Tuy nhiên, độ nhạy cao cũng có thể dẫn đến tỷ lệ báo động giả cao, do
+người dùng có xu hướng nhận biết và phản ứng với nhiều tín hiệu hơn. Vì vậy,
+trong thiết kế hệ thống, cần cân bằng giữa độ nhạy và tỷ lệ báo động giả để đạt
+được hiệu suất tối ưu, dựa trên bối cảnh và yêu cầu của người dùng.
+
+              * Ứng dụng của lý thuyết phát hiện tín hiệu
+
+              Lý thuyết phát hiện tín hiệu có nhiều ứng dụng trong nhiều lĩnh vực khác
+nhau:
+
+        - Ứng dụng nổi bật của lý thuyết phát hiện tín hiệu là thiết kế hệ thống
+cảnh báo hoặc báo động một cách hiệu quả.
+
+         Thiết kế hệ thống báo động, cảnh báo là một trong những ứng dụng phổ
+biến nhất của lý thuyết phát hiện tín hiệu. Báo động sai cao có thể gây ra hai hậu
+quả tiêu cực rất lớn, đặc biệt trong môi trường đa tác vụ. Báo động sai thường
+xuyên có thể gây gián đoạn thường xuyên cho những tác vụ đang diễn ra. Nghiêm
+trọng hơn, sau khí báo động sai nhiều lần, con người có thể bỏ qua chúng. Ví dụ,
+năm 2001, các kiểm soát viên không lưu ở Guam đã vô hiệu hóa hệ thống cảnh
+báo độ cao an toàn tối hiểu vì nó đã đưa ra quá nhiều cảnh báo sai. Kết quả các
+bộ điều khiển đã không phát hiện ra độ cao thấp của một chuyến bay thương mại
+và chiếc máy bay đó đã đâm vào ngọn núi gần đường băng, khiến hơn 100 người
+thiệt mạng. Hay, năm 2002, đã có một báo cáo rằng 22% các sự cố tử vong hoặc
+hôn mê có nguyên nhân là do các vấn đề máy thở y tế đã trì hoán hoặc không có
+phản ứng với báo động.4
+
+              Kỹ thuật tăng hiệu quả báo động, hạn chế nhiễu:
+
+              + Những kĩ thuật nhằm tăng độ nhạy:
+
+          1) Hiển thị các ví dụ hoặc hình ảnh minh họa (để giảm tải bộ nhớ). Bất
+kì một kĩ thuật hỗ trợ hoặc tăng cường trí nhớ của đối tượng về các đặc tính tín
+hiệu sẽ làm giảm độ nhạy và duy trì mức độ nhạy tổng thể cao hơn. Sự có mặt của
+
+
+        4
+            Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+một đại diện minh họa sẽ có ích bằng cách biến một nhiệm vụ kế tiếp thành một
+nhiệm vụ đồng thời.
+
+          2) Tăng độ nổi bật của mục tiêu: có thể thực hiện các kĩ thuật để tăng
+cường tín hiệu. Tuy nhiên, khi tăng cường như vậy thì sẽ đồng thời phóng đại cả
+tín hiệu và cả nhiễu. Cần có những giải pháp để ảnh hưởng đến kích thích tín hiệu
+và nhiễu là khác nhau. Ví dụ, khi luân phiên chiếu hai hình ảnh liên tiếp: một là
+nguyên mẫu tốt đã biết và một là vật phẩm cần kiểm tra. Nếu vật chứa lỗi (chẳng
+hạn, khe hở trong hệ thống dây điện), vị trí khe hở sẽ xuất hiện nhấp nháy bật và
+tắt theo kiểu nổi bật khi màn hình được xen kẽ. Một cách khác là chuyển đổi các
+sự kiện sang một phương thức cảm giác khác (chẳng hạn, thêm tín hiệu thính giác
+và màn hình hiển thị hình ảnh) nhằm tận dụng lợi thế của mức tăng dự phòng xảy
+ra khi tín hiệu được trình bày theo hai phương thức của một lúc.
+
+        3) Giảm số lượt kiểm tra: nghiên cứu đã chỉ ra rằng giảm số lượng đối
+tượng cần kiểm tra xuống (chẳng hạn, giảm từ kiểm tra 300 sản phẩm xuống 200
+sản phẩm mỗi phút) thì hiệu quả kiểm tra cải thiện rõ rệt.
+
+          4) Đào tạo quan sát viên : mức độ giảm độ nhạy cảm sẽ được hạn chế
+đáng kể bằng cách đạo tạo các quan sát viên – người thực hiện nhiệm vụ phát hiện
+tín hiệu. Họ sẽ được đào tạo để phán ứng nhất quán và lặp đi lặp lại với các yếu
+tố mục tiêu.
+
+          + Các kỹ thuật khác: Thời gian nghỉ ngơi có thể có lợi vì thời gian nghỉ
+ngơi làm gián đoạn nhu cầu tiếp tục của cảnh giác. Đào tạo thiền định (Shamatha)
+đã được chứng minh là tăng độ nhạy cảm và giảm sự suy giảm so với nhóm kiểm
+soát không có thiền định. Thiền định cải thiện khả năng tập trung trong thời gian
+dài, giúp người quan sát đáp ứng nhu cầu liên tục của nhiệm vụ cảnh giác. Việc
+định kỳ tham gia một nhiệm vụ bằng lời nói (làm tăng mức độ kích thích) của một
+tài xế trong thời gian dài lái xe mô phỏng có thể làm giảm sự mất cảnh giác.
+
+        - Ứng dụng trong thiết kế kỹ thuật:
+
+         Lý thuyết tín hiệu được sử dụng để thiết kế giao diện dễ sử dụng và hiệu
+quả, giúp người dùng nhận thức và hiểu rõ thông tin cần thiết; để phát triển các
+hệ thống hỗ trợ ra quyết định giúp người dùng đưa ra quyết định chính xác và hiệu
+quả trong các tình huống phức tạp; để phát triển các hệ thống tự động có khả năng
+nhận thức và phản ứng với môi trường xung quanh một cách hiệu quả.
+
+        2.1.2. Mô hình xử lý thông tin
+        - Khái niệm
+         Mô hình xử lý thông tin (information processing model) là một khuôn
+khổ lý thuyết được sử dụng để mô tả cách con người tương tác với hệ thống kỹ
+thuật. Mô hình xử lý thông tin coi con người là những hệ thống xử lý thông tin,
+nhận thức thông tin từ môi trường, xử lý thông tin đó và đưa ra phản ứng dựa trên
+thông tin đã xử lý.
+
+         * Quá trình xử lý thông tin:
+
+         Các giai đoạn xử lý thông tin trong nhiệm vụ phát hiện tín hiệu như sau:
+
+          - Nhận thức (Perception): Ở giai đoạn này, người tiếp nhận các kích thích
+từ môi trường như ánh sáng, âm thanh, hoặc các yếu tố khác. Con người sử dụng
+các giác quan như thị giác, thính giác để thu thập thông tin. Con người phải phân
+biệt các tín hiệu (thông tin quan trọng) khỏi tiếng ồn (thông tin không liên quan).
+
+         - Nhận dạng (Identification): Sau khi thu thập thông tin, người tiếp nhận
+sẽ cố gắng nhận dạng và phân loại các tín hiệu thu được. Con người so sánh thông
+tin thu được với các mẫu đã học hoặc lưu trong trí nhớ để xác định đây là tín hiệu
+quan trọng hay chỉ là tiếng ồn.
+
+         - Quyết định (Decision making): Dựa trên việc nhận dạng tín hiệu, người
+tiếp nhận sẽ đưa ra các quyết định phù hợp. Ví dụ, trong lái xe, người lái sẽ quyết
+định tăng tốc độ, phanh lại, hoặc thực hiện các hành động khác khi phát hiện tín
+hiệu quan trọng.
+
+          - Thực hiện (Response execution): Cuối cùng, người tiếp nhận sẽ thực
+hiện các hành động phù hợp với quyết định đã đưa ra. Ví dụ, trong lái xe, người
+lái sẽ thực hiện các thao tác với vô lăng và bàn đạp để đáp ứng với tín hiệu.
+
+         Việc hiểu rõ các giai đoạn này giúp chúng ta thiết kế và đánh giá các hệ
+thống tốt hơn, đảm bảo người dùng có thể phát hiện và xử lý tín hiệu quan trọng
+một cách hiệu quả.
+
+         2.2. Lý thuyết sự tập trung chú ý
+         2.2.1. Khái niệm chú ý
+         Chú ý là một quá trình tâm lý, thể hiện sự tập trung của ý thức vào một
+hay một nhóm sự vật, hiện tượng để định hướng hoạt động, đảm bảo điều kiện
+cần thiết cho hoạt động tiến hành hiệu quả.
+         Chú ý là một trạng thái tâm lý đi kèm các hoạt động tâm lý khác, giúp
+cho các hoạt động tâm lý đó có kết quả. Thiếu sự tập trung chú ý là nguyên nhân
+dẫn đến nhiều tai nạn, sự cố đáng tiếc. Ví dụ, một tài xe điều khiển xe trên đường
+cần chú ý đến nhiều đối tượng trên đường (đèn giao thông, biển báo, các phương
+tiện cùng lưu thông) và trong xe (các nút điều khiển, chỉ số trên xe, người ngồ
+trên xe) để có thể lái xe an toàn.
+        2.2.2. Các loại chú ý
+         Căn cứ vào tính chủ định, chú ý được chia thành: Chú ý không chủ định,
+chú ý có chủ định, chú ý sau chủ định.
+         Căn cứ vào đối tượng, chú ý được chia thành chú ý thị giác, chú ý thính
+giác.
+        1) Chú ý thị giác
+         Chú ý thị giác là khả năng tập trung vào một số yếu tố cụ thể của môi
+trường thị giác trong khi bỏ qua các yếu tố khác. Khả năng này là thiết yếu cho
+việc thực hiện các nhiệm vụ hàng ngày của con người.
+        - Vùng quan sát (AOI - Area of interest)
+          Vùng quan sát (AOI) là một khu vực cụ thể trong môi trường thị giác mà
+người nghiên cứu hoặc thiết kế mong muốn theo dõi sự chú ý của người dùng.
+AOI có thể là bất kỳ phần nào trong không gian thị giác, như màn hình máy tính,
+bảng điều khiển, hình ảnh, hoặc thậm chí là các đối tượng trong thế giới thực. Nó
+có thể thay đổi kích thước và hình dạng tùy thuộc vào nhiệm vụ cụ thể và kích
+thích thị giác.
+          AOI giúp các nhà nghiên cứu hiểu rõ hơn về cách người dùng phân bố
+chú ý, thời gian họ dành để nhìn vào các khu vực cụ thể, và những hành vi thị giác
+khác. Bằng cách phân tích AOI, các nhà thiết kế có thể tạo ra giao diện mà các
+yếu tố quan trọng dễ thu hút sự chú ý của người dùng, từ đó cải thiện trải nghiệm
+người dùng. AOI giúp xác định vị trí tốt nhất để đặt quảng cáo hoặc thông điệp
+tiếp thị nhằm thu hút tối đa sự chú ý của khách hàng.
+         Phương pháp xác định AOI: AOI có thể được xác định dựa trên các
+nhiệm vụ cụ thể mà người dùng phải thực hiện. Ví dụ, trong một giao diện phần
+mềm, AOI có thể là các nút bấm quan trọng mà người dùng thường xuyên sử dụng.
+Sử dụng thiết bị theo dõi mắt (eye-tracking): Công nghệ theo dõi mắt giúp xác
+định chính xác các AOI bằng cách ghi lại các vị trí mà người dùng nhìn vào trong
+một khoảng thời gian cụ thể.
+         Vùng quan sát (AOI) là một vị trí thực tế nơi có thể tìm thấy thông tin
+liên quan đến nhiệm vụ cụ thể. Nó thường đủ lớn để chuyển động mắt có thể phân
+biệt được sự cố định trên AOI này so với AOI khác. Mỗi AOI có thể phục vụ cho
+nhiều nhiệm vụ (ví dụ, tầm nhìn ra kính chắn gió của ô tô đồng thời phục vụ các
+nhiệm vụ giữ làn đường và giám sát nguy hiểm trong khi lái xe). Và một nhiệm
+vụ nhất định có thể được phục vụ bởi nhiều AOI (ví dụ, nhiệm vụ giám sát tốc độ
+được phục vụ bởi tầm nhìn ra kính chắn gió và đồng hồ tốc độ).
+
+        - Mô hình SEEV
+
+         Nghiên cứu về sự chú ý thị giác thường xác định 4 yếu tố: sự nổi bật, nỗ
+lực, kỳ vọng và giá trị của nơi mắt đang nhìn (AOI đang tham dự) tại bất kì thời
+điểm nào trong không gian làm việc trực quan với mô hình SEEV.
+
+          Mô hình SEEV (Salience, Effort, Expectancy, Value) là một mô hình chú
+ý thị giác được phát triển để giúp hiểu rõ hơn cách con người phân bố và duy trì
+sự chú ý trong môi trường phức tạp. SEEV mô tả cách mà các yếu tố khác nhau
+tác động đến quyết định của con người về việc chú ý vào đâu và trong bao lâu.
+Mô hình SEEV gồm những thành phần sau:
+
+         + Sự nổi bật (Salience): đề cập đến mức độ mà một yếu tố trong môi
+trường gây ra sự chú ý tự động dựa trên các đặc điểm cảm giác của nó như màu
+sắc, độ sáng, kích thước, hoặc chuyển động. Ví dụ: Một biển báo giao thông màu
+đỏ thường gây chú ý mạnh hơn các biển báo màu khác do màu sắc nổi bật và
+thông điệp cảnh báo của nó; hay ánh sáng nhấp nháy của một biển hiệu quảng
+cáo.
+
+         + Sự nỗ lực (Nỗ lực): đo lường lượng nỗ lực cần thiết để chuyển sự chú
+ý từ một yếu tố này sang yếu tố khác. Nỗ lực này có thể là về mặt thể chất hoặc
+tinh thần. Ví dụ: Việc thay đổi chú ý từ màn hình máy tính sang bảng trắng có thể
+yêu cầu một lượng nỗ lực nhất định, bao gồm cả việc di chuyển mắt và thay đổi
+tư thế.
+
+          + Sự kỳ vọng (Expectancy): liên quan đến việc dự đoán của người quan
+sát về khả năng một sự kiện quan trọng hoặc mong muốn sẽ xảy ra tại một vị trí
+cụ thể trong môi trường thị giác. Ví dụ: Khi lái xe ở một ngã tư đông đúc, kỳ vọng
+rằng đèn giao thông sẽ thay đổi màu sắc có thể thúc đẩy người lái xe chú ý đến
+đèn giao thông.
+
+         Ngược lại với những sự kiện theo kỳ vọng là những sự kiện “thiên nga
+đen”. Sự kiện "thiên nga đen" là một thuật ngữ được sử dụng để mô tả những sự
+kiện bất ngờ, hiếm gặp và có tác động đáng kể đến thế giới. Những sự kiện này
+thường không thể dự đoán trước và có thể gây ra những hậu quả nghiêm trọng.
+
+        + Giá trị (value): là mức độ quan trọng hoặc đáng giá của thông tin mà
+người quan sát mong đợi từ một yếu tố trong môi trường. Giá trị này thường phụ
+thuộc vào mục tiêu và nhiệm vụ hiện tại của người quan sát. Ví dụ: Trong một
+buổi học, sinh viên có thể coi thông tin từ người dạy là có giá trị cao và do đó sẽ
+chú ý nhiều hơn.
+
+         Bồn yếu tố (sự nổi bật, nỗ lực, kỳ vọng, giá trị) đã được kết hợp trong
+mô hình SEEV. Nền tảng của mô hình dựa trên các mô hình quét trực quan từ kỹ
+thuật, các mô hình tâm lý của sự chú ý thị giác. Mô hình này đã được tìm thấy để
+dự đoán tốt các mẫu quét trực quan trong các môi trường như lái xe, điều khiển
+máy bay và phòng phẫu thuật tại bệnh viên.
+
+            - Chỉ số TBNE
+
+         Trong bối cảnh chú ý thị giác, một khái niệm quan trọng, thể hiện việc
+phát hiện kịp thời các dấu hiệu nguy hiểm có thể có tác động lớn đến kết quả cuối
+cùng là chỉ số hiệu quả nhận biết dựa trên mối đe dọa (Threat-based noticing
+efficiency – TBNE).
+
+         TBNE là một thước đo hiệu suất dựa trên khả năng của cá nhân hoặc hệ
+thống trong việc phát hiện các yếu tố nguy hiểm hoặc đe dọa trong môi trường.
+Nó đánh giá hiệu quả của quá trình chú ý thị giác khi phải đối mặt với các yếu tố
+có mức độ nguy hiểm cao.
+
+         TBNE có thể bị ảnh hưởng bởi cả hai loại chú ý. Ví dụ, một đối tượng
+có độ tương phản cao và di chuyển nhanh có thể thu hút chú ý tự động, trong khi
+các mối đe dọa được biết trước có thể yêu cầu chú ý có chủ đích. Những cá nhân
+có kinh nghiệm trong việc phát hiện mối đe dọa thường có chỉ số TBNE cao hơn
+do họ đã được đào tạo và có kinh nghiệm thực tế. Ngoài ra, mức độ căng thẳng,
+mệt mỏi, hoặc các yếu tố tâm lý khác cũng có thể ảnh hưởng đến TBNE. Ví dụ,
+một nhân viên làm việc quá giờ có thể có hiệu suất TBNE giảm đi do mệt mỏi.
+SEEV tính toán thời gian mắt sẽ dành cho mỗi AOI (ví dụ: khi lái xe, 50% về phía
+trước trên đường, 30% đến biển báo đường và 20% cúi đầu). 5
+
+            - Không chú ý (mù chú ý)
+
+         Khi chúng ta nhìn thẳng vào chiếc chìa khóa xe của mình (độ lệch tâm
+bằng 0) nhưng chúng ta lại không thấy, không chú ý chiếc chìa khóa của mình.
+Nói cách khác, chúng ta có thể nhìn, nhưng không nhìn thấy, ngay cả khi sự kiện
+bất ngờ liên quan đến một vật thể lớn, bất thường, năng động, có thể nhìn thấy
+đầy đủ trong vài giây. Sự thất bại của sự chú ý này, được gọi là mù không chú ý,
+là một tập hợp con của mù thay đổi.
+
+
+
+      5
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+         Không chú ý là sự thất bại trong việc nhận thấy một cái gì đó khi người
+quan sát trực tiếp nhìn vào nó. Ngay cả khi nhìn vào vị trí của sự thay đổi, hơn 40
+phần trăm người tham gia không nhận thấy những thay đổi hiển thị nếu họ đang
+tham gia vào các nhiệm vụ khác. Mức độ mù chú ý có liên quan đến cả độ khó
+của nhiệm vụ chính và mức độ tương đồng thị giác giữa sự kiện bất ngờ và nhiệm
+vụ chính.
+
+         * Biện pháp để thu hút sự tập trung chú ý thị giác
+
+          Tâm lý học kỹ thuật quan tâm đến câu hỏi làm thế nào để có thể thu hút
+sự chú ý của con người vào các mục tiêu, các hiện tượng có ý nghĩa. Cụ thể là
+thiết kế như thế nào để có thể hướng sự chú ý của người vận hành tới các sự kiện,
+thông tin quan trọng trong môi trường không giam.
+
+         - Áp dụng luật Ghestal: Các nhà tâm lý học Gestalt đã xác định một số
+nguyên tắc cơ bản khiến các kích thích được nhóm lại với nhau trên màn hình
+(nguyên tắc đồng bộ, nguyên tắc gần bên, nguyên tắc hợp nhất, nguyên tắc liên
+tục, nguyên tắc hình – nền, nguyên tắc bầy đàn, nguyên tắc không gian chung,
+nguyên tắc đối xứng… Đọc mục 2.9 trong Chương 2). Do đó, tất cả các mục của
+màn hình cần được sắp xếp, bố trí theo một tổ chức nhất định để thuận lợi cho xử
+lý toàn diện, tránh xử lý cục bộ.
+
+         Ví dụ về xử lý toàn diện và xử lý cục bộ được thể hiện qua hình 2.3:
+
+
+
+
+         Hình 2.1: : Nhận thức cục bộ và nhận thức toàn cầu trong mặt số động
+cơ máy bay (nguồn: Christopher D., Justin G., Simon B.. Raja. P (2016),
+Engineering psychology and human performance, New York, US. )
+          Ở hình (a), hai bộ bánh xe động cơ máy bay được sắp xếp theo từng cặp
+bánh xe, còn ở hình (b), tất cả các bánh xe được xoay tất cả các giá trị bình thường
+đều ở vị trí kim 12 giờ. Để xác định xem kim đồng hồ có chỉ ra vị trí bình thường
+ở bên (a) hay không thì cần kiểm tra riêng từng mặt số, còn ở bên (b) thì dễ phát
+hiện hơn bởi tất cả kim đồng hồ đều ở phương thẳng lên trong trạng thái bình
+thường.
+
+          Sự gần gũi không gian của các yếu tố trên bảng hiển thị phải tương thích
+với các hệ thống vật lý mà chúng đại diện. Ví dụ, trong hình 2. Số lỗi đọc thông
+tin với kiểu sắp xếp bảng điều khiển động cơ bên trái (có cách bố trí các bảng
+điều khiển không phù hợp với cách bố trí vật lý của động cơ trên máy bay) gấp 4
+lần số lỗi của động cơ bên phải (với mặt động cơ bên trái được bố trí ở bên trái,
+mặt động cơ bên phải được sắp xếp ở bên phải).
+
+         - Hạn chế sự lộn xộn: Sự lộn xộn cản trở khả năng tập trung chú ý.
+Nguyên nhân của lộn xộn là: thứ nhất, do số lượng các chi tiết, đối tượng quá
+nhiều; thứ hai, do lộn xộn mật độ cục bộ trong một góc nhìn; thứ 3, lộn xộn ngẫu
+nhiên, do các yếu tố gây xao nhãng trong trường tìm kiếm không được sắp xếp
+theo cấu trúc, tổ chức nào; thứ 4, lộn xộn không đồng nhất, do sự không đồng nhất
+của các tình năng nền (màu sắc, hình dạng, kích thước).
+
+
+
+
+        Hình 2. 2: Sự lộn xộn phi cấu trúc (nguồn Christopher D., Justin G.,
+Simon B.. Raja. P (2016), Engineering psychology and human performance, New
+York, US. )
+         2) Chú ý thính giác
+
+         Sự tập trung chú ý thính giác (auditory attention) là khả năng tập trung
+vào các kích thích âm thanh và lọc bỏ những tiếng ồn xung quanh.
+
+         Phương thức thính giác khác với phương thức thị giác ở ba khía cạnh
+quan trọng liên quan đến sự chú ý. Đầu tiên, cơ quan thính giác có thể lấy đầu vào
+từ bất kỳ hướng nào, do âm thanh là đa hướng. Thứ hai, phương thức thính giác
+có khả năng tiếp nhận thông tin hầu như mọi lúc; trong bóng tối hoặc thậm chí
+trong khi chúng ta ngủ. Thứ ba, hầu hết các đầu vào thính giác là thoáng qua, tồn
+tại trong một khoảng thời gian ngắn. Một từ, một câu nói, một âm thanh sẽ có thời
+điểm điểm bắt bắt đầu và thời điểm kết thúc.
+
+            Có hai loại chính của sự chú ý thính giác:
+
+         - Sự chú ý thính giác chọn lọc: Đây là khả năng tập trung vào một nguồn
+âm thanh cụ thể trong khi lọc bỏ những tiếng ồn xung quanh. Ví dụ, khi bạn đang
+nói chuyện với ai đó trong một căn phòng ồn ào, bạn có thể tập trung vào giọng
+nói của họ và lọc bỏ những tiếng ồn xung quanh như tiếng ồn giao thông hoặc
+tiếng nói chuyện của những người khác.
+
+         Âm thanh được xử lý song song giống như hình ảnh. Cụ thể, chúng ta
+cùng lúc có thể chú ý đến cả lời và giai điệu của một bài hát, hay ý nghĩa và giọng
+nói của một câu nói.
+
+         Việc tổ chức âm thanh thành các đối tượng thính giác khác biệt về mặt
+nhận thức được trung gian bởi một số yếu tố, bao gồm cao độ, âm sắc, vị trí không
+gian và thời gian
+
+        Một âm thanh lớn hầu như sẽ luôn thu hút sự chú ý của chúng ta vì nó
+báo hiệu một sự thay đổi môi trường đột ngột có thể cần được giải quyết. Tuy
+nhiên, âm thanh lớn có thể gây cho người nghe sự khó chịu, giật mình, tăng căng
+thẳng.
+
+         Tên riêng của chúng ta cũng có tác dụng thu hút sự chú ý. Do đó, có thể
+sự dụng những cảnh báo được cá nhân hóa bằng cách gắn tên của người đó để thu
+hút sự chú ý.
+
+          Khi nghiên cứu ảnh hưởng của tiếng ồn xung quanh đến hiệu suất trong
+văn phòng, lớp học, giảng đường và cả khi làm bài tập về nhà trước tivi. Kết quả
+chỉ ra là tiếng ồn xung quanh làm suy yếu đáng kể hiệu suất đối với các hoạt động
+nhận thức. Ví dụ, nhân viên văn phòng được chuyển từ phòng văn phòng riêng
+sang văn phòng không gian mở thì sự phân tâm, khó tập trung tăng lên và hiệu
+suất làm việc giảm do tiếng ồn xung quanh. Trong giáo dục, tiếp xúc lâu dài với
+tiếng ồn máy bay làm giảm khả năng đọc hiểu của trẻ em. Trẻ em đặc biệt dễ bị
+phân tâm thính giác, và trẻ càng nhỏ càng dễ bị phân tâm6.
+
+       - Sự chú ý thính giác bền vững: Đây là khả năng duy trì sự tập trung vào
+một nguồn âm thanh trong một khoảng thời gian dài. Ví dụ, khi bạn đang nghe
+
+
+
+
+      6
+          Christopher D., Justin G., Simon B.. Raja. P (2016), Engineering psychology and human performance, New York, US.
+bài giảng, bạn có thể tập trung vào lời nói của giáo viên trong suốt bài giảng mà
+không bị phân tâm bởi những suy nghĩ hoặc tiếng ồn xung quanh.
+
+        Một âm thanh tồn tại trong bộ nhớ ngắn hạn khoảng từ 3 đến 6 giây7.
+Nên nếu không thực sự chú ý vào câu chuyện mà ai đó đang nói thì chúng ta chỉ
+nhớ được vài từ cuối cùng mà họ nói mà thôi.
+
+        * Biện pháp để thu hút sự tập trung chú ý thị giác
+
+        Tránh sử dụng quá nhiều âm thanh, chỉ dùng khi thực sự cần thiết, phù
+hợp với ngữ cảnh.
+
+        Dùng âm thanh để thu hút sự chú ý của người dùng trong quá trình vận
+hành sản phẩm như thông báo lỗi, cảnh báo nguy hiểm, hướng dẫn hoặc phản hội
+hành động của người dùng.
+
+        Giảm tác động của tiếng ồn xung quanh trong môi trường xí nghiệp, văn
+phòng làm việc chung, trường học là không chị giảm mức độ âm thanh mà còn
+giảm cả sự biến đổi âm thanh.
+
+       Giảm tiếng ồn bằng cách sử dụng vật liệu cách âm, sử dụng vách ngăn,
+phần mềm giảm tiếng ồn, tai nghe chống ồn.
+
+        * Ứng dụng của lý thuyết sự tập trung chú ý:
+
+         - Ứng dụng trong giáo dục: Giúp giáo viên hiểu cách thu hút sự chú ý
+của học sinh và thiết kế bài giảng hiệu quả hơn.
+
+        - Ứng dụng trong marketing: Giúp các nhà tiếp thị hiểu cách thu hút sự
+chú ý của khách hàng tiềm năng và quảng bá sản phẩm hiệu quả hơn.
+
+         - Ứng dụng trong tâm lý học: Giúp các nhà tâm lý học hiểu được các rối
+loạn về sự chú ý và phát triển các phương pháp điều trị hiệu quả.
+
+        - Ứng dụng trong thiết kế kỹ thuật:
+
+         Sử dụng các tín hiệu thị giác và thính giác để thu hút sự chú ý của người
+dùng: Ví dụ, sử dụng màu sắc tương phản, âm thanh cảnh báo hoặc rung động để
+thu hút sự chú ý của người dùng vào các thông tin quan trọng.
+
+         Sử dụng các nguyên tắc Gestalt để sắp xếp các yếu tố giao diện một cách
+hợp lý, giúp người dùng dễ dàng nhận thức và hiểu thông tin.
+         Hạn chế sự phân tâm bằng cách loại bỏ các yếu tố không cần thiết hoặc
+gây rối mắt khỏi giao diện.
+
+        Sử dụng các tín hiệu mạnh mẽ và dễ nhận biết để thu hút sự chú ý của
+người dùng: Ví dụ, sử dụng âm thanh to, đèn nháy hoặc rung động để cảnh báo
+người dùng về nguy hiểm.
+
+         Thiết kế các cảnh báo phù hợp với ngữ cảnh, cung cấp cho người dùng
+thông tin cần thiết để họ có thể phản ứng phù hợp với tình huống.
+
+         Tránh sử dụng quá nhiều cảnh báo hoặc cảnh báo không cần thiết, vì điều
+này có thể khiến người dùng lơ là hoặc tắt cảnh báo.
+
+         Thiết kế môi trường làm việc yên tĩnh và ít gây mất tập trung: Giảm thiểu
+tiếng ồn và các yếu tố gây phiền nhiễu khác để giúp người dùng tập trung tốt hơn.
+Cung cấp cho người dùng khả năng kiểm soát môi trường làm việc, cho phép
+người dùng điều chỉnh ánh sáng, nhiệt độ và các yếu tố khác để phù hợp với nhu
+cầu của họ.
+
+        Sử dụng các thiết kế công thái học: Thiết kế các sản phẩm và hệ thống
+phù hợp với cơ thể con người để giúp người dùng sử dụng chúng một cách thoải
+mái và hiệu quả.
+
+         Sử dụng kỹ thuật Pomodoro: chia nhỏ công việc thành các khoảng thời
+gian 25 phút và nghỉ ngơi 5 phút để cải thiện khả năng tập trung chú ý.
+
+         Trong giáo dục, thiết kế các chương trình đào tạo tập trung vào các nhiệm
+vụ cụ thể, giúp người học tập trung vào những thông tin quan trọng và cần thiết.
+Sử dụng các phương pháp giảng dạy đa dạng, kết hợp các phương pháp giảng dạy
+khác nhau để giúp người học tập trung và hứng thú với việc học. Kịp thời phản
+hồi về kết quả học học tập của người học giúp họ nhận thức được điểm mạnh và
+điểm yếu của họ để họ có thể cải thiện hiệu quả học tập.
+      2.3. Lý thuyết không gian ba chiều
+       Không gia ba chiếu là không gian mà chúng ta sống và tương tác hàng ngày,
+bao gồm ba trục tọa độ: X, Y và Z. Các đối tượng trong không gian ba chiều có
+chiều dài, chiều rộng và chiều cao. Hay không gian ba chiều là không gian mà ở
+đó mỗi điểm được xác định bởi 3 tọa độ: chiều rộng (x), chiều dài (y), chiều cao
+(z)8. Hay không gian ba chiều là một mô hình hình học có ba thông số (không tính
+đến thời gian), mô tả thế giới mà chúng ta đang sinh sống. Ba chiều thường được
+đề cập là chiều dài, chiều rộng và chiều cao (hoặc chiều sâu).
+
+      Lý thuyết không gian ba chiều (3D) là một lĩnh vực nghiên cứu cách con
+người nhận thức và tương tác với môi trường xung quanh (không gian 3 chiều).
+
+      Nội dung của lý thuyết không gian ba chiều tập trung vào việc nghiên cứu
+cách con người biểu diễn và xử lý thông tin không gian ba chiều. Điều này bao
+gồm khả năng nhận biết và hiểu các khía cạnh không gian, định vị vị trí và hướng,
+nhận thức về khoảng cách và sự tương tác giữa con người và môi trường không
+gian.
+
+       - Nhận biết không gian ba chiều: là khả năng thấy và cảm nhận được chiều
+sâu trong một không gian, bao gồm chiều dài, chiều rộng và chiều sâu. Trong đó,
+chiều dài (length): khoảng cách từ bên này sang bên kia. Chiều rộng (width):
+khoảng cách từ trước ra sau. Chiều sâu (depth): Khoảng cách từ trên xuống dưới,
+tạo cảm giác về độ sâu và khoảng cách từ một điểm gần đến một điểm xa.
+
+      Các công cụ và phương pháp nhận biết không gian ba chiều:
+
+      + Thị giác - hai mắt là khả năng của não bộ kết hợp hình ảnh từ cả hai mắt
+để tạo ra một hình ảnh với cảm giác chiều sâu. Mỗi mắt nhận được một hình ảnh
+từ một góc nhìn hơi khác biệt, não bộ liên kết chúng để tạo ra một hình ảnh 3D
+duy nhất.
+
+      + Sử dụng bóng tối, bóng râm và ánh sáng để tạo cảm giác về chiều sâu. Ví
+dụ, ánh sáng chiếu vào một hình khối sẽ tạo ra các bóng giúp nhận biết hình dạng
+và khoảng cách của các vật thể.
+
+      + Khe chiếu (Parallax): Khi di chuyển, vật thể gần di chuyển nhanh hơn vật
+thể xa, tạo ra cảm giác về chiều sâu. Đây là một hiện tượng mà ta có thể quan sát
+khi nhìn ra cửa sổ xe ô tô di chuyển.
+
+
+
+
+      8
+          Howard, I.P., & Rogers, B.J. (2002). Seeing in Depth, Vol. 2: Depth Perception. Ontario, Canada: I Porteous.
+      + Triển vọng tuyến tính (Linear perspective): Các đường thẳng song song
+trông như hội tụ lại ở một điểm xa dần trên đường chân trời. Sức mạnh của triển
+vọng tuyến tính có thể thấy rõ trong các bức tranh kiến trúc.
+
+      + Kích cỡ tương đối: Vật thể lớn hơn thường được cho là gần hơn so với
+các vật thể nhỏ hơn khi được nhìn từ cùng một góc độ.
+
+      + Sự giao thoa (Occlusion): Khi một vật thể che khuất một phần của vật thể
+khác, vật thể che khuất được coi là gần hơn.
+
+      - Định vị vị trí và hướng trong không gian ba chiều
+
+      Việc định vị vị trí và hướng trong không gian ba chiều (3D) là một kỹ năng
+quan trọng trong lĩnh vực kỹ thuật, đặc biệt robot học, kỹ thuật điều khiển, và đồ
+họa máy tính.
+
+      Phương pháp định vị vị trí trong không gian ba chiều:
+
+      + GPS (Global positioning system): Sử dụng vệ tinh để xác định vị trí của
+một điểm trên trái đất với tọa độ ba chiều gồm vĩ độ, kinh độ và độ cao.
+
+       + Máy quét laser và thiết bị quét 3D: Các công cụ quét laser tạo ra bản đồ
+3D của các đối tượng và không gian bằng cách phản xạ tia laser từ bề mặt và đo
+thời gian phản xạ.
+
+       + Hệ thống định vị trong nhà (Indoor positioning systems - IPS): Sử dụng
+wifi, bluetooth, hoặc các tín hiệu khác để xác định vị trí của các đối tượng trong
+các không gian giới hạn như các tòa nhà.
+
+      Một số thành phần trong lý thuyết không gian ba chiều:
+
+      Không gian vật lý: Đây là không gian mà chúng ta sinh sống và tương tác
+hàng ngày. Nó được định nghĩa bởi ba chiều độc lập là chiều dài, chiều rộng và
+chiều cao. Trong không gian vật lý, các đối tượng và sự kiện được định vị và
+tương tác trong không gian ba chiều này.
+
+      Hình học và hình học vector: Lý thuyết không gian ba chiều hình học và
+hình học vector là một phần quan trọng của toán học liên quan đến không gian ba
+chiều. Nó liên quan đến việc nghiên cứu các hình dạng, vị trí tương đối và quan
+hệ giữa các đối tượng trong không gian ba chiều. Các khái niệm như điểm, đường
+thẳng, mặt phẳng, vector và ma trận được sử dụng để biểu diễn và thực hiện các
+phép toán trong không gian này.
+       Đồ họa máy tính và thực tế ảo: Không gian ba chiều cũng đóng vai trò quan
+trọng trong lĩnh vực đồ họa máy tính và thực tế ảo. Đây là nơi mà chúng ta tạo ra
+và tương tác với các môi trường và đối tượng 3D trên màn hình máy tính. Không
+gian ba chiều trong đồ họa máy tính giúp tái tạo thế giới thực một cách chân thực
+hơn, cho phép chúng ta khám phá và tương tác với không gian 3D thông qua các
+giao diện đồ họa.
+
+      * Ứng dụng của lý thuyết không gian ba chiều
+
+      Lý thuyết không gian ba chiều là một phần quan trọng của nhiều lĩnh vực
+khác nhau:
+
+      Đồ họa máy tính: Lý thuyết không gian 3D là cốt lõi cho việc tạo ra đồ họa
+3D và môi trường ảo, cho phép phát triển các thế giới ảo, nhân vật, và hiệu ứng
+trực quan sống động được ứng dụng rộng rãi trong ngành công nghiệp game, phim
+ảnh, và thực tế ảo.
+
+       Công nghệ thực tế ảo (VR) là một công nghệ tiên tiến mô phỏng một môi
+trường ba chiều qua các thiết bị điện tử, cho phép người dùng tương tác trong
+không gian ảo như thể nó là thật. VR thường bao gồm một thế giới ảo được tạo ra
+bằng đồ họa máy tính, kính VR, và các thiết bị đầu vào để người dùng có thể điều
+khiển và tham gia vào môi trường đó. Lý thuyết không gian ba chiều giúp chúng
+ta hiểu và nghiên cứu cách con người tương tác với môi trường không gian ba
+chiều và có nhiều ứng dụng quan trọng trong thiết kế, giao diện và công nghệ thực
+tế ảo.
+
+      Robotics và tự động hóa: Lý thuyết không gian 3D hỗ trợ việc lập trình,
+điều khiển, điều hướng các robot; cho phép robot định vị, nhận dạng vật thể, di
+chuyển trong không gian 3D, và được ứng dụng trong sản xuất tự động hóa, quản
+lý kho, và tự hành.
+
+      Trong y tế: Lý thuyết không gian 3D cho phép xây dựng mô hình 3D của
+cơ thể từ dữ liệu y tế, hỗ trợ chẩn đoán, lập kế hoạch phẫu thuật, và điều trị y tế.
+Ví dụ, ứng dụng trong siêu âm, chụp CT, chụp MRI, và phẫu thuật nội soi.
+
+       Trong giao thông vận tải và hàng không vũ trụ: Lý thuyết không gian 3D
+cung cấp mô hình cho việc điều hướng, dẫn đường, và mô phỏng được ứng dụng
+trong thiết kế và điều khiển phương tiện, máy bay, và tên lửa giúp hỗ trợ trong
+việc tối ưu hóa đường bay, phát hiện va chạm, và mô phỏng tai nạn. Ví dụ, một
+màn hình 3D được xây dựng để hướng dẫn phi công trong đường bay.
+
+       Lý thuyết không gian ba chiều là rất quan trọng đối với các kỹ sư và nhà
+thiết kế - người tạo ra các sản phẩm và môi trường làm việc phù hợp với cách mà
+con người nhận thức và tương tác với môi trường xung quanh (không gian ba
+chiều). Cụ thể sự ứng dụng lý thuyết không gian ba chiều trong thiết kế kỹ thuật
+như sau:
+
+      Sử dụng các phần mềm Computer-Aided Design (CAD) để tạo ra mô hình
+3D chi tiết của sản phẩm, công trình, linh kiện, giúp kỹ sư hình dung, kiểm tra,
+sửa đổi và tối ưu hóa thiết kế trước khi chế tạo. Lý thuyết không gian 3D là nền
+tảng cho các phần mềm CAD và mô hình hóa 3D, cho phép thiết kế và mô phỏng
+các sản phẩm, cấu trúc, và thiết bị trong không gian 3D.
+
+      Sử dụng các phần mềm mô phỏng để mô phỏng hoạt động của sản phẩm,
+công trình trong điều kiện thực tế, giúp dự đoán hiệu suất, phát hiện lỗi thiết kế
+và đưa ra giải pháp tối ưu trước khi sản xuất.
+
+      Sử dụng công nghệ in 3D để tạo ra các vật thể 3D từ mô hình kỹ thuật số,
+hoặc sử dụng máy CNC để gia công các chi tiết sản phẩm với độ chính xác cao.
+
+      Sử dụng công nghệ quét 3D để tạo ra mô hình 3D từ các vật thể thực tế,
+hoặc sử dụng hệ thống GPS để xác định vị trí 3D của một điểm trên Trái đất.
+
+     Sử dụng các cảm biến 3D để robot nhận biết môi trường xung quanh và di
+chuyển, thao tác với các vật thể, tránh va chạm.
+
+      Sử dụng mô hình 3D để tạo ra môi trường ảo hoặc tăng cường môi trường
+thực tế, giúp người dùng trải nghiệm và tương tác với các vật thể 3D một cách
+chân thực. Sử dụng đồ họa 3D tiên tiến để tạo ra thế giới ảo sống động trong game,
+mang đến cho người chơi trải nghiệm chân thực và hấp dẫn.
+
+     Sử dụng mô hình 3D để phân tích công thái học của sản phẩm, đảm bảo sản
+phẩm phù hợp với cơ thể con người và dễ sử dụng.
+
+
+
+                             Câu hỏi ôn tập Bài 2
+
+     Câu hỏi, 1. Kể tên các yếu tố ảnh hưởng đến việc con người cảm nhận
+khoảng cách trong không gian ba chiều?
+
+      2. Kể tên 2 sản phẩm/ hệ thống kỹ thuật trong lĩnh vực chuyên môn của bạn
+có sử dụng nguyên lý không gian ba chiều..
+
+      3. Trong một thiết kế robot, vì sao nên bố trí camera và tay máy theo góc
+lệch 30 độ thay vì đặt song song với nhau?
+                               Bài tập vận dụng Bài 2
+
+      CNTT: Thiết kế một giao diện điều khiển drone/quadcopter bằng phần
+mềm mô phỏng. Đề xuất cách bố trí màn hình – cần điều khiển – cảnh báo dựa
+trên nhận thức không gian
+
+      Cơ khí động lực: Thiết kế bảng điều khiển xe ô tô điện. Phân tích vùng
+nhìn thấy – vùng tiếp cận của người lái
+
+      Cơ khí: Mô phỏng bố trí dây chuyền lắp ráp sử dụng phần mềm CAD.
+
+        CN May: Xưởng may công nghiệp cần thiết kế lại dây chuyền cắt vải và
+may. Hãy xác định vùng thao tác tối ưu cho công nhân đứng và ngồi và đề xuất
+vị trí đặt máy, bàn và vật liệu sao cho thuận lợi.
+
+      KT Điện: Bạn được giao thiết kế hệ thống tủ điện trung thế cho một xưởng
+sản xuất. Hãy xác định vị trí đặt các thiết bị đóng cắt để đảm bảo dễ thao tác, dễ
+quan sát và an toàn.
+
+      KT Điện tử: Nhóm của bạn thiết kế một thiết bị đo thông số điện tử cầm
+tay. Hãy đề xuất cách bố trí nút nhấn, màn hình và cổng kết nối để người dùng có
+thể sử dụng một tay mà không cần nhìn quá lâu.
+
+       CN Hóa Thực phẩm: Dây chuyền đóng gói sản phẩm bánh mì cần được
+bố trí lại để giảm thời gian thao tác và tránh lây nhiễm chéo. Hãy đề xuất bố trí
+thiết bị, vùng di chuyển và vùng làm việc hợp lý theo không gian ba chiều
+

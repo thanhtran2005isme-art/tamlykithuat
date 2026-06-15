@@ -1,0 +1,573 @@
+GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                  1
+                          GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+        Bài 9: Tổ chức lao động, tương tác người - máy và mô phỏng lao động
+
+
+         Sau khi học xong Bài 9, người học có khả năng:
+      CLO6: Trình bày những vấn đề về lao động kỹ thuật, ứng dung tâm lý học
+vào lao động kỹ thuật, tổ chức lao động khoa học.
+       CLO9: Đề xuất giải pháp tổ chức quá trình lao động khoa học, quản lý rủi
+ro trên cơ sở ứng dụng tâm lý học.
+      CLO10: Phát triển kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ
+năng tư duy sáng tạo, tư duy hệ thống.
+      CLO13: Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ thuật.
+Ý thức được giá trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật trong
+mối liên hệ với tự nhiên, con người và xã hội nhằm định hướng đến sự phát triển
+bền vững.
+
+
+        4.3. Tổ chức môi trường làm việc
+      Tổ chức môi trường làm việc đóng vai trò quan trọng trong việc tối ưu hóa
+hiệu suất lao động và duy trì sức khỏe tâm lý của người lao động. Nó không chỉ bao
+gồm các yếu tố vật lý như ánh sáng, nhiệt độ, và cấu trúc không gian, mà còn bao
+gồm các yếu tố tâm lý xã hội như quan hệ đồng nghiệp, văn hóa tổ chức và quản lý.
+        4.3.1. Tổ chức môi trường vật lý
+       Một môi trường làm việc tốt phải bảo đảm các yếu tố vật lý phù hợp để tạo ra
+một không gian làm việc thoải mái và an toàn cho người lao động.
+       a. Ánh sáng
+       Ánh sáng có ảnh hưởng rất lớn đến hiệu suất làm việc và sự thoải mái của
+người lao động.
+       Ví dụ, nghiên cứu của Smith và Jones (2018) đã chỉ ra ánh sáng tự nhiên giúp
+cải thiện tâm trạng và năng suất làm việc so với ánh sáng nhân tạo1.
+
+
+         1 Smith, A., & Jones, B. (2018). The impact of natural light on workplace productivity, Journal of Environmental
+Psychology.
+
+                                                                2
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       Nghiên cứu được thực hiện tại nhiều không gian làm việc khác nhau, bao gồm:
+Văn phòng hành chính, nhà máy sản xuất, phòng thí nghiệm, trung tâm dịch vụ khách
+hàng.
+       Kết quả mà nghiên cứu đã mang lại:
+       * Hiệu suất làm việc
+       - Trong văn phòng hành chính
+       Các nhân viên làm việc trong môi trường có ánh sáng tự nhiên có hiệu suất làm
+việc trung bình tăng 15% so với nhóm làm việc trong ánh sáng nhân tạo. Cụ thể, năng
+suất được đo lường qua số lượng công việc hoàn thành trong giờ làm việc và mức độ
+chính xác trong nhiệm vụ.
+       Không gian với ánh sáng tự nhiên: 135 công việc hoàn thành/ngày
+       Không gian với ánh sáng nhân tạo: 117 công việc hoàn thành/ngày
+       - Ở nhà máy sản xuất
+       Hiệu suất sản xuất tăng 10% khi công nhân làm việc dưới ánh sáng tự nhiên. Ở
+đây, năng suất được đo lường qua số lượng sản phẩm hoàn thành mà không có lỗi kỹ
+thuật.
+       Không gian với ánh sáng tự nhiên: 300 sản phẩm/ngày
+       Không gian với ánh sáng nhân tạo: 270 sản phẩm/ngày
+       * Tình trạng tâm lý
+       Nghiên cứu cũng chỉ rõ rằng ánh sáng tự nhiên giúp cải thiện rõ rệt tình trạng
+tâm lý của nhân viên, bao gồm giảm thiểu căng thẳng và tâm trạng buồn bực, đồng
+thời cải thiện sự hài lòng với công việc.
+       - Phòng thí nghiệm
+       Nhân viên làm việc dưới ánh sáng tự nhiên báo cáo cảm thấy ít căng thẳng hơn
+25% và mức độ thoải mái tâm lý tăng 20% so với nhóm làm việc dưới ánh sáng nhân
+tạo.
+       Không gian với ánh sáng tự nhiên: Căng thẳng: 3/10, Thoải mái: 8/10
+       Không gian với ánh sáng nhân tạo: Căng thẳng: 5/10, Thoải mái: 6/10
+       - Trung tâm dịch vụ khách hàng
+       Nhân viên làm việc dưới ánh sáng tự nhiên báo cáo giảm căng thẳng công việc
+và cải thiện mức độ hài lòng nghề nghiệp từ 15% lên tới 30%.
+       Không gian với ánh sáng tự nhiên: Hài lòng: 7.5/10
+
+                                             3
+                        GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       Không gian với ánh sáng nhân tạo: Hài lòng: 5.8/10
+       * Dựa trên kết quả nghiên cứu ánh sáng tự nhiên có ý nghĩa quan trọng trong
+việc thiết kế môi trường làm việc nhằm tối ưu hóa hiệu suất và sức khỏe tâm lý cho
+nhân viên. Do đó khi thiết kế môi trường làm việc cần chú ý:
+       - Thiết kế không gian văn phòng
+       Sử dụng cửa sổ lớn và vật liệu trong suốt: Để tối đa hóa lượng ánh sáng tự
+nhiên đi vào không gian làm việc.
+       Bố trí chỗ làm việc gần cửa sổ: Đảm bảo mỗi nhân viên có thể tiếp nhận ánh
+sáng tự nhiên.
+       - Tối ưu hóa ánh sáng trong nhà máy và kho xưởng
+       Sử dụng ánh sáng mái vòm hoặc đèn lồng trần: Để tăng cường ánh sáng tự
+nhiên ở các không gian lớn.
+       Kết hợp hệ thống chiếu sáng tự nhiên với chiếu sáng nhân tạo: Để bảo đảm đủ
+ánh sáng trong các giờ làm việc ở buổi tối hoặc khi trời tối.
+       - Phòng thí nghiệm và Trung tâm dịch vụ khách hàng
+       Bố trí cây xanh và không gian xanh: Để tạo cảm giác thoải mái và kết nối với
+môi trường tự nhiên.
+       Thiết lập không gian nghỉ ngơi gần cửa sổ: Để nhân viên có thể thư giãn dưới
+ánh sáng tự nhiên trong các giờ nghỉ.
+       b. Nhiệt độ và thông gió
+       Nghiên cứu của Brown, D. R. và Green, L. A. (2019) trong Occupational
+Health Review đã khám phá chi tiết về tác động của nhiệt độ và thông gió lên năng
+suất làm việc và sự thoải mái của nhân viên văn phòng. Thông gió cũng cần thiết để
+duy trì khí hậu trong lành và giảm thiểu các tác nhân gây ô nhiễm không khí trong
+phòng làm việc2.
+       Nghiên cứu được tiến hành trong nhiều loại hình văn phòng khác nhau, các
+thông số cụ thể và kết quả từ các môi trường làm việc khác nhau:
+       * Hiệu suất làm việc
+       - Văn phòng hành chính: Hiệu suất làm việc của nhân viên tăng khi nhiệt độ
+duy trì ở mức 22-24°C. Tại nhiệt độ này, sự nhầm lẫn và lỗi trong công việc giảm
+trung bình 12%, trong khi tốc độ hoàn thành công việc tăng 8%.
+
+      2 Brown, D. R., & Green, L. A. (2019). Climate control in office environments, Occupational Health Review.
+
+
+                                                                 4
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+        + Nhiệt độ tối ưu (22-24°C): Lỗi: 10 lỗi/ngày; Tốc độ hoàn thành công việc: 80
+tài liệu/ngày
+        + Nhiệt độ không tối ưu (27°C trên hoặc 18°C dưới); Lỗi: 15 lỗi/ngày; Tốc độ
+hoàn thành công việc: 70 tài liệu/ngày
+        - Phòng R&D: Nhiệt độ ổn định trong khoảng 20-22°C cùng với thông gió tốt
+làm tăng khả năng sáng tạo và hiệu quả trong công việc nghiên cứu, với số lượng ý
+tưởng khả thi trung bình tăng 15% và số dự án hoàn thành đúng hạn tăng 10%.
+        + Nhiệt độ tối ưu (20-22°C) và thông gió tốt: Ý tưởng khả thi: 25 ý
+tưởng/tháng; Dự án hoàn thành đúng hạn: 12 dự án/tháng
+        + Nhiệt độ không tối ưu (25°C trên hoặc 19°C dưới) và thông gió kém: Ý
+tưởng khả thi: 20 ý tưởng/tháng; Dự án hoàn thành đúng hạn: 10 dự án/tháng
+        - Không gian làm việc mở: Hiệu suất làm việc và sự hài lòng tăng khi môi
+trường được thông gió tốt với luồng không khí tự nhiên. Nhân viên trong môi trường
+này báo cáo mức độ hài lòng và cảm giác thoải mái tăng 20%, đồng thời thời gian
+hoàn thành nhiệm vụ cũng được cải thiện đáng kể.
+        + Thông gió tốt (luồng không khí tự nhiên): Hài lòng: 8/10; Thời gian hoàn
+thành nhiệm vụ: 35 phút/nhiệm vụ
+        + Thông gió kém: Hài lòng: 6/10; Thời gian hoàn thành nhiệm vụ: 45
+phút/nhiệm vụ
+        * Tình trạng tâm lý
+        Nghiên cứu cũng chỉ ra rằng nhiệt độ và thông gió có tác động lớn đến sức
+khỏe tâm lý của nhân viên, bao gồm mức độ căng thẳng, sự tỉnh táo và cảm giác hứng
+thú với công việc.
+        - Văn phòng hành chính: Nhân viên làm việc trong nhiệt độ tối ưu báo cáo mức
+độ căng thẳng công việc giảm 15%, sự tỉnh táo và năng động tăng 10%.
+        + Nhiệt độ tối ưu (22-24°C): Căng thẳng: 3.5/10; Tỉnh táo: 7.5/10
+        + Nhiệt độ không tối ưu: Căng thẳng: 4.5/10; Tỉnh táo: 6/10
+        - Phòng R&D: Môi trường có nhiệt độ và thông gió tối ưu giảm sự mệt mỏi và
+tăng cường cảm giác hứng thú làm việc, với mức độ mệt mỏi giảm 20% và sự hài
+lòng công việc tăng 15%.
+        + Nhiệt độ và thông gió tối ưu: Mệt mỏi: 2.5/10; Hứng thú công việc: 8/10
+
+
+                                             5
+                            GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+         + Nhiệt độ và thông gió không tối ưu: Mệt mỏi: 3.5/10; Hứng thú công việc:
+6.5/10
+       - Không gian làm việc mở: Cảm giác khô ráo thoải mái trong môi trường thông
+gió tốt giúp giảm thiểu sự bực bội và tăng cường cảm giác thoải mái tinh thần.
+       + Thông gió tốt: Sự bực bội: 3/10; Thoải mái tinh thần: 8/10
+       + Thông gió kém: Sự bực bội: 4.5/10; Thoải mái tinh thần: 6/10
+       * Ứng dụng trong thiết kế tổ chức môi trường làm việc
+       - Quản lý nhiệt độ
+       Thiết lập hệ thống điều hòa nhiệt độ chủ động: Để đảm bảo nhiệt độ duy trì ổn
+định ở mức tối ưu (khoảng 22-24°C cho văn phòng hành chính và 20-22°C cho
+phòng R&D). Cung cấp thông tin và tùy chỉnh cho nhân viên: Cho phép nhân viên
+thể điều chỉnh nhiệt độ trong không gian làm việc của mình với giới hạn cho phép để
+phù hợp với sự thoải mái cá nhân.
+       - Quản lý thông gió
+       Thiết lập hệ thống thông gió tự nhiên và cơ học: Để đảm bảo luồng không khí
+trong lành và giảm thiểu các tác nhân ô nhiễm không khí trong nhà. Lắp đặt cửa sổ và
+các hệ thống thông hơi: Để tăng cường lưu thông không khí tự nhiên.
+       - Kiểm soát độ ẩm
+       Sử dụng máy hút ẩm và máy tạo ẩm: Để duy trì độ ẩm trong không gian văn
+phòng ở mức 40-60%, đảm bảo sự thoải mái và sức khỏe của nhân viên. Kiểm tra và
+bảo dưỡng thường xuyên: Đảm bảo rằng các hệ thống HVAC (Heating, Ventilation,
+and Air Conditioning) hoạt động hiệu quả.
+       c. Tiếng ồn
+       Tiếng ồn có thể gây ra căng thẳng và làm giảm năng suất làm việc. Nghiên cứu
+của Lee, K. W. và Chen, A. (2020) trong International Journal of Occupational Safety
+and Ergonomics đã khám phá sâu về tác động của tiếng ồn lên hiệu suất làm việc
+trong các môi trường tổ chức khác nhau3. Kết quả chỉ ra các kết quả như sau:
+       Nghiên cứu được thực hiện ở nhiều loại văn phòng khác nhau. Thực nghiệm
+được tiến hành với các nhóm nhân viên làm việc trong các điều kiện tiếng ồn khác
+nhau. Các điều kiện này được điều chỉnh để đảm bảo sự khác biệt rõ rệt giữa các
+
+         3 Lee, K. W., & Chen, A. (2020). Noise and its effects on work efficiency, International Journal of Occupational Safety and
+
+Ergonomics.
+
+                                                                     6
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+nhóm thí nghiệm về mức độ và loại tiếng ồn (tiếng ồn ngẫu nhiên, liên tục, và cường
+độ cao). Kết quả nghiên cứu chỉ rõ rằng tiếng ồn có ảnh hưởng tiêu cực đến hiệu suất
+làm việc và tình trạng tâm lý của nhân viên.
+        * Hiệu suất làm việc
+        - Văn phòng hành chính: Khi mức độ tiếng ồn tăng lên mức 70 dB, hiệu suất
+làm việc của nhân viên giảm trung bình 15%. Cụ thể hơn, thời gian hoàn thành công
+việc tăng và số lượng lỗi trong công việc cũng tăng đáng kể.
+        + Mức độ tiếng ồn thấp (45-50 dB): Thời gian hoàn thành công việc: 40
+phút/nhiệm vụ; Số lỗi: 5 lỗi/ngày
+        + Mức độ tiếng ồn cao (70 dB): Thời gian hoàn thành công việc: 50
+phút/nhiệm vụ; Số lỗi: 7 lỗi/ngày
+        - Trung tâm sản xuất
+        Trong trung tâm sản xuất, tiếng ồn có tác động đến sự an toàn và hiệu suất
+công việc của công nhân. Khi mức độ tiếng ồn tăng đến 85 dB, hiệu suất công việc
+giảm 12% và tỉ lệ tai nạn lao động tăng lên.
+        + Mức độ tiếng ồn thấp (60-65 dB): Năng suất lao động: 95 sản phẩm/giờ; Tỷ
+lệ tai nạn: 1,5 tai nạn/tháng
+        + Mức độ tiếng ồn cao (85 dB): Năng suất lao động: 83 sản phẩm/giờ; Tỷ lệ tai
+nạn: 2,1 tai nạn/tháng
+        - Phòng thí nghiệm R&D
+        Trong môi trường sáng tạo như phòng thí nghiệm nghiên cứu và phát triển,
+tiếng ồn có thể ảnh hưởng lớn đến khả năng tập trung và sáng tạo của nhân viên. Mức
+độ tiếng ồn ở mức 65 dB có thể làm giảm 10% số lượng phát kiến và ý tưởng khả thi.
+        + Mức độ tiếng ồn thấp (40-45 dB): Số lượng phát kiến: 10 phát kiến/tháng; Ý
+tưởng khả thi: 15 ý tưởng/tháng
+        + Mức độ tiếng ồn cao (65 dB): Số lượng phát kiến: 9 phát kiến/tháng; Ý
+tưởng khả thi: 13 ý tưởng/tháng
+        - Không gian làm việc mở
+        Trong không gian làm việc mở, tiếng ồn có tác động mạnh mẽ đến sự thoải mái
+và hiệu suất của nhân viên. Khi mức độ tiếng ồn tăng lên 70 dB, hiệu suất làm việc
+giảm đến 20% và mức độ hài lòng của nhân viên giảm đáng kể.
+
+
+                                             7
+                        GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      + Mức độ tiếng ồn thấp (45-50 dB): Hiệu suất công việc: 80 nhiệm vụ/ngày;
+Mức độ hài lòng: 7/10
+      + Mức độ tiếng ồn cao (70 dB): Hiệu suất công việc: 64 nhiệm vụ/ngày; Mức
+độ hài lòng: 5/10
+      * Tình trạng tâm lý
+      Nghiên cứu cũng chỉ rõ rằng tiếng ồn gây ảnh hưởng tiêu cực đến sức khỏe
+tâm lý của nhân viên, bao gồm mức độ căng thẳng, sự tỉnh táo, và cảm giác hài lòng
+với công việc.
+      - Văn phòng hành chính: Khi mức độ tiếng ồn tăng lên 70 dB, mức căng thẳng
+của nhân viên tăng 20% và mức độ tỉnh táo giảm 10%.
+      + Tiếng ồn thấp (45-50 dB): Căng thẳng: 4/10; Tỉnh táo: 8/10
+      + Tiếng ồn cao (70 dB): Căng thẳng: 5/10; Tỉnh táo: 7/10
+      - Phòng thí nghiệm R&D: Môi trường có tiếng ồn thấp giúp giảm mệt mỏi tinh
+thần và cải thiện sự hài lòng nghề nghiệp.
+      + Tiếng ồn thấp (40-45 dB): Mệt mỏi: 3/10; Hài lòng công việc: 8/10
+      + Tiếng ồn cao (65 dB): Mệt mỏi: 4/10; Hài lòng công việc: 7/10
+      - Không gian làm việc mở: Mức độ tiếng ồn cao làm tăng sự bực bội và giảm
+sự thoải mái tinh thần của nhân viên.
+      + Tiếng ồn thấp (45-50 dB): Sự bực bội: 3/10; Thoải mái tinh thần: 7.5/10
+      + Tiếng ồn cao (70 dB): Sự bực bội: 4.5/10; Thoải mái tinh thần: 6/10
+     4.3.2. Yếu tố tâm lý xã hội
+       Các yếu tố tâm lý xã hội trong tổ chức môi trường làm việc cũng vô cùng quan
+trọng, ảnh hưởng đến động viên, hiệu suất làm việc và sức khỏe tâm lý của người lao
+động.
+       a. Quan hệ đồng nghiệp
+       Một môi trường làm việc tích cực, nơi mà mọi người cảm thấy được hỗ trợ và
+tôn trọng, sẽ giúp cải thiện hiệu suất làm việc và giảm thiểu căng thẳng. Quan hệ tốt
+giữa các đồng nghiệp và quản lý giúp tạo ra một không khí làm việc tích cực4.
+       b. Văn hóa tổ chức
+       Kim (2021) định nghĩa văn hóa tổ chức là những giá trị, niềm tin và chuẩn mực
+hành vi trong một tổ chức. Một văn hóa tổ chức tích cực, khuyến khích sự đổi mới,
+      4 Tsai, M. H., & Wu, C. (2019). Interpersonal relationships at work. Journal of Managerial Psychology, 34(5), 354-370.
+
+
+                                                                  8
+                        GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+sáng tạo và hỗ trợ lẫn nhau sẽ giúp tăng cường sự gắn kết và hiệu suất làm việc của
+nhân viên5.
+      Northouse (2018) định nghĩa văn hóa tổ chức là “hệ thống các giá trị, niềm tin,
+và hành vi chung trong một tổ chức, ảnh hưởng đến cách các thành viên trong tổ chức
+tương tác với nhau và với bên ngoài.”6
+      c. Quản lý
+      Cách thức quản lý và lãnh đạo có ảnh hưởng trực tiếp đến tinh thần làm việc và
+động lực của nhân viên. Ví dụ, phong cách lãnh đạo dân chủ, nơi mà nhân viên được
+tham gia vào quá trình ra quyết định, giúp cải thiện tinh thần làm việc và sự hài lòng
+nghề nghiệp.
+      4.4. Tương tác con người - máy trong lao động
+      4.4.1. Khái niệm tương tác con người và máy trong lao động
+      Tương tác con người - máy trong lao động (Human-Machine Interaction -
+HMI) đề cập đến quá trình giao tiếp, vận hành và hợp tác giữa con người và các hệ
+thống máy móc nhằm thực hiện các nhiệm vụ lao động. Tương tác này không chỉ bao
+gồm các thao tác vật lý như điều khiển thiết bị, mà còn bao hàm cả các quá trình nhận
+thức, quyết định và phản hồi thông tin từ máy móc (Norman, 1986). Trong bối cảnh
+lao động kỹ thuật hiện đại, HMI trở thành một thành phần cốt lõi để đảm bảo hiệu
+quả, an toàn và năng suất. Tương tác có thể diễn ra qua nhiều phương tiện khác nhau
+như bảng điều khiển, giao diện phần mềm, hệ thống tự động hóa hoặc các thiết bị
+thông minh, và mức độ chủ động của con người trong quá trình này dao động từ hoàn
+toàn điều khiển thủ công đến giám sát hệ thống tự động. Khái niệm HMI cũng mở
+rộng đến các tình huống mà máy móc có khả năng “học” từ hành vi con người, làm
+nảy sinh những hình thức tương tác mới dựa trên trí tuệ nhân tạo và phân tích dữ liệu
+lớn.
+      4.4.2. Vai trò của tương tác người - máy
+      Tương tác người - máy đóng vai trò thiết yếu trong việc tối ưu hóa hiệu suất
+lao động, giảm thiểu sai sót và nâng cao mức độ an toàn trong các môi trường làm
+việc phức tạp. Một hệ thống HMI hiệu quả giúp người vận hành hiểu nhanh trạng thái
+của máy móc, xử lý sự cố kịp thời và đưa ra quyết định chính xác, từ đó giảm thiểu
+
+      5 Kim, S. J., & Lee, Y. J. (2021). Organizational culture and innovation, Management Science.
+
+      6 Northouse, P. G. (2018). Leadership: Theory and practice, Sage Publications.
+
+
+                                                                 9
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+rủi ro tai nạn lao động (Wickens et al., 2004). Bên cạnh đó, HMI còn góp phần làm
+giảm gánh nặng nhận thức cho người lao động bằng cách phân phối hợp lý các yêu
+cầu nhiệm vụ giữa người và máy. Điều này đặc biệt quan trọng trong các ngành nghề
+có cường độ lao động cao như hàng không, y tế, sản xuất công nghiệp và năng lượng.
+Ngoài ra, tương tác hiệu quả còn có ý nghĩa đối với sự hài lòng trong công việc và
+sức khỏe tâm lý của người lao động, vì nó làm giảm cảm giác quá tải, bối rối hoặc bất
+lực khi vận hành hệ thống. Ở cấp độ tổ chức, khả năng thiết lập tương tác người -
+máy tốt cũng là yếu tố cạnh tranh quan trọng trong bối cảnh chuyển đổi số hiện nay.
+       4.4.3. Các loại hình tương tác người - máy
+       1. Tương tác điều khiển trực tiếp (Direct control)
+       Đây là hình thức tương tác mà con người điều khiển máy móc theo thời gian
+thực, thông qua các thiết bị như cần điều khiển, bàn phím, chuột hoặc màn hình cảm
+ứng. Người vận hành chịu trách nhiệm hoàn toàn về hành động của máy, với phản hồi
+tức thì từ hệ thống.
+       Ví dụ:
+       Robot phẫu thuật da Vinci: Bác sĩ điều khiển robot phẫu thuật thông qua bảng
+điều khiển, thực hiện các thao tác phẫu thuật chính xác trong thời gian thực.
+       Máy bay không người lái (drone): Người điều khiển sử dụng cần điều khiển để
+lái drone trong các nhiệm vụ giám sát hoặc cứu hộ.
+       2. Tương tác giám sát (Supervisory control)
+       Trong mô hình này, con người không trực tiếp điều khiển từng hành động của
+máy, mà giám sát và can thiệp khi cần thiết. Hệ thống hoạt động tự động theo các
+chương trình định sẵn, nhưng người vận hành có thể can thiệp để điều chỉnh hoặc xử
+lý sự cố.
+       Ví dụ:
+       Hệ thống SCADA (Supervisory Control and Data Acquisition): Người vận
+hành giám sát các quá trình công nghiệp như sản xuất điện hoặc xử lý nước, can thiệp
+khi có sự cố hoặc điều chỉnh cần thiết.
+       Trung tâm điều khiển giao thông: Nhân viên giám sát luồng giao thông qua các
+camera và hệ thống cảm biến, can thiệp khi phát hiện tắc nghẽn hoặc tai nạn.
+       3. Tương tác qua giao diện (Interface-based interaction)
+
+
+                                            10
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       Đây là hình thức tương tác thông qua các giao diện người – máy (HMI), như
+màn hình cảm ứng, giao diện đồ họa (GUI), hoặc giao diện giọng nói. Người dùng
+tương tác với hệ thống thông qua các biểu tượng, nút bấm hoặc lệnh thoại.
+       Ví dụ:
+       Giao diện người dùng trên điện thoại thông minh: Người dùng tương tác với
+các ứng dụng thông qua màn hình cảm ứng và biểu tượng đồ họa.
+       Hệ thống điều khiển nhà thông minh: Người dùng điều khiển ánh sáng, nhiệt
+độ hoặc thiết bị gia dụng thông qua ứng dụng trên điện thoại hoặc lệnh giọng nói.
+       4. Tương tác hợp tác (Collaborative interaction)
+       Trong mô hình này, con người và máy móc làm việc cùng nhau trong cùng một
+không gian, chia sẻ nhiệm vụ và hỗ trợ lẫn nhau. Máy móc được thiết kế để nhận biết
+và phản ứng với hành động của con người một cách an toàn và hiệu quả.
+       Ví dụ:
+       Robot cộng tác (cobot): Robot UR5 làm việc cùng công nhân trong dây chuyền
+lắp ráp, hỗ trợ các thao tác nặng nhọc hoặc lặp đi lặp lại.
+       Hệ thống thực tế tăng cường (AR): Kỹ thuật viên sử dụng kính AR để nhận
+hướng dẫn trực tiếp từ hệ thống khi thực hiện bảo trì thiết bị.
+       5. Tương tác tự động hóa (Automation interaction)
+       Đây là hình thức tương tác mà máy móc hoạt động hoàn toàn tự động, với sự
+can thiệp tối thiểu từ con người. Hệ thống sử dụng các thuật toán và cảm biến để thực
+hiện nhiệm vụ mà không cần chỉ đạo trực tiếp.
+       Ví dụ:
+       Dây chuyền sản xuất tự động: Hệ thống lắp ráp ô tô hoạt động liên tục với
+robot thực hiện các công đoạn mà không cần sự can thiệp của con người.
+       Xe tự lái: Xe sử dụng cảm biến và thuật toán để điều khiển và di chuyển mà
+không cần người lái.
+       Mỗi loại hình tương tác người – máy đều có đặc điểm riêng, phù hợp với các
+ứng dụng và mục tiêu khác nhau. Điều khiển trực tiếp mang lại độ chính xác cao và
+phản hồi tức thì, phù hợp với các nhiệm vụ yêu cầu sự linh hoạt và phán đoán của con
+người. Giám sát cho phép con người quản lý các hệ thống phức tạp mà không cần can
+thiệp liên tục, tăng hiệu quả và giảm tải công việc. Giao diện giúp đơn giản hóa việc
+tương tác, làm cho công nghệ trở nên dễ tiếp cận hơn với người dùng không chuyên.
+
+                                            11
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+Hợp tác mở ra khả năng kết hợp sức mạnh của con người và máy móc, tận dụng ưu
+điểm của cả hai để đạt hiệu suất cao hơn. Tự động hóa tối ưu hóa quy trình, giảm chi
+phí và tăng độ chính xác, nhưng cần được thiết kế cẩn thận để đảm bảo an toàn và
+linh hoạt.
+       Việc lựa chọn mô hình tương tác phù hợp phụ thuộc vào nhiều yếu tố, bao gồm
+tính chất công việc, môi trường làm việc, khả năng của người sử dụng và mục tiêu
+của hệ thống. Trong thực tế, nhiều hệ thống kết hợp các loại hình tương tác để tận
+dụng ưu điểm của từng mô hình, nhằm đạt hiệu quả tối ưu.
+       4.4.4. Các yếu tố ảnh hưởng đến tương tác người - máy
+       - Thiết kế máy móc: Chất lượng thiết kế máy móc là yếu tố then chốt ảnh
+hưởng đến sự hiệu quả của HMI. Một thiết kế giao diện trực quan, dễ hiểu giúp giảm
+thời gian học tập, thao tác nhanh chóng và chính xác hơn (Shneiderman & Plaisant,
+2010). Các yếu tố như bố cục hiển thị, độ tương phản màu sắc, phản hồi vận hành
+(feedback), và tiêu chuẩn hóa các ký hiệu đều đóng vai trò quan trọng.
+       - Kỹ năng và trình độ người sử dụng: Kỹ năng vận hành, kiến thức chuyên môn
+và kinh nghiệm làm việc trực tiếp quyết định chất lượng tương tác người - máy.
+       - Người dùng có kinh nghiệm thường hình thành mô hình tâm lý về hệ thống,
+giúp họ dự đoán và điều chỉnh thao tác phù hợp trong các tình huống thay đổi.
+       - Môi trường làm việc: Yếu tố môi trường như ánh sáng, tiếng ồn, nhiệt độ và
+không gian vận hành ảnh hưởng lớn đến khả năng tương tác hiệu quả.
+       - Tình trạng tâm lý: Sức khỏe tâm thần của người vận hành, bao gồm mức độ
+căng thẳng, sự mệt mỏi, và động lực làm việc, cũng ảnh hưởng đến chất lượng tương
+tác người - máy.
+       4.4.5. Mô hình nghiên cứu tương tác người - máy
+       Mô hình vòng lặp hành động (Action Cycle): Theo Norman (1986), mô hình
+này mô tả quá trình tương tác qua hai chuỗi hành động và phản hồi. Sự tương tác hiệu
+quả phụ thuộc vào việc thu hẹp “khoảng cách thực thi” và “khoảng cách đánh giá”.
+       Mô hình GOMS: GOMS (Goals, Operators, Methods, Selection Rules) phân
+tích thao tác nhận thức và vận động trong tương tác người - máy, hỗ trợ dự đoán thời
+gian hoàn thành nhiệm vụ.
+
+
+
+
+                                           12
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       Mô hình SEEV: SEEV (Salience, Effort, Expectancy, Value) lý giải cách phân
+bổ chú ý trong các không gian hiển thị, đặc biệt hữu ích trong thiết kế buồng lái và
+trung tâm điều khiển.
+       Mô hình SRK: SRK (Skill-Rule-Knowledge) phân loại hành vi con người
+thành ba mức độ, hỗ trợ thiết kế hệ thống phù hợp với mức độ kinh nghiệm người
+dùng.
+       4.4.6. Xu hướng tương lai của mối quan hệ người - máy
+       Mối quan hệ người – máy trong tương lai được dự đoán sẽ diễn ra theo xu
+hướng sau:
+       - Tự động hóa và robot hóa: Máy móc tự động đảm nhiệm những công việc
+nguy hiểm hoặc đòi hỏi độ chính xác cao, đặt ra thách thức về quản lý sự phụ thuộc
+công nghệ.
+       - Ứng dụng trí tuệ nhân tạo (AI): AI cho phép hệ thống học hỏi hành vi người
+dùng, dự đoán nhu cầu và ra quyết định tự động.
+       - Ứng dụng công nghệ VR và AR: VR/AR tạo ra môi trường tương tác mới,
+giúp huấn luyện kỹ năng và giảm thiểu sai sót thao tác.
+       - Hợp tác người - máy: Các mô hình hợp tác sâu rộng như cobots trong dây
+chuyền sản xuất thông minh đang tái định nghĩa cách tổ chức lao động.
+
+
+     4.5. Mô phỏng sự thực hiện của con người trong hệ thống kỹ thuật
+     4.5.1. Khái niệm mô phỏng
+       Mô phỏng tiếng Anh là Simulation, có nhiều cách hiểu với những ý nghĩa
+tương tự nhau như là giả cách, làm ra vẻ như cái gì đó, làm hành động như, bắt chước
+giống với sự vật sự việc nào đó, giả bộ như… Đó là cách làm giả những điều kiện của
+các tình huống thông qua một mô hình với những mục đích huấn luyện hoặc là sự
+tiện lợi. Theo ý nghĩa của từ mô phỏng về mặt kỹ thuật thì từ mô phỏng hàm chứa sự
+việc đó với sự áp dụng một mô hình nào đó vào hành động cụ thể để có thể tạo ra
+được kết quả theo ý muốn của người áp dụng.
+       Từ những phân tích trên đây, khái niệm mô phỏng chính là sự bắt chước một
+quá trình hay một hệ thống thực thể theo thời gian. Như thế, “mô phỏng” là cụm từ
+được con người sử dụng để mô tả cũng như là phân tích những hành vi mang tính
+
+
+                                           13
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+chất cụ thể của một hệ thống thực, nhằm hỗ trợ cho việc thiết kế các hệ thống sự vật
+sự việc đạt hiệu quả cao.
+     4.5.2. Mục đích của mô phỏng
+       + Mô phỏng giúp cho người nhìn có được cái nhìn sâu sắc nhất về những hoạt
+động của một hệ thống. Thực tế cho thấy, hệ thống chính là một sự vật mang tính
+chất thực sự phức tạp và con người khó có thể hiểu được hết những hoạt động cũng
+như là sự tương tác trong hệ thống đó mà không có một mô hình mô phỏng nào phù
+hợp. Khi mà các hệ thống mô phỏng này không thể ngừng để mà phục vụ cho quá
+trình nghiên cứu hoặc là thực hiện tiến hành việc kiểm tra tất cả những thành phần
+riêng biệt của một hệ thống trong chính sự cô lập của sự việc đó.
+       + Mô phỏng trên mô hình phù hợp giúp chúng ta có thể dễ dàng thay đổi về
+các nguyên tắc điều hành hoặc cũng có thể là các tài nguyên để có thể dễ dàng hơn
+trong việc cải thiện được hiệu năng vốn có của một hệ thống. Khi con người tạo ra
+được một hệ thống hiện có những hoạt động chưa tốt đối với sự việc, Vì thế, chúng ta
+có thể thay đổi các nguyên tắc điều hành hoặc là tài nguyên.
+       + Kiểm tra dễ dàng những khái niệm mang tính chất mới mẻ hoặc là những hệ
+thống trước khi thực thi. Nếu như một hệ thống thực chưa có hoặc là con người đang
+cần xem xét về hệ thống mới nào đó. Hoặc cũng có thể là những chi phí được sử
+dụng trong quá trình xây dựng để tạo nên các mô hình của một hệ thống mới, mô
+hình này có thể rất nhỏ so với vốn đầu tư bỏ ra để tham gia vào việc lắp đặt bất cứ
+quá trình sản xuất nào. Bên cạnh đó, việc con người sử dụng một mô hình mô phỏng
+có thể giúp cho việc điều chỉnh các thiết bị được lựa chọn trước khi đưa các thiết bị
+đó vào hoạt động.
+       + Giúp con người có được những thông tin thiết thực mà không gây ảnh hưởng
+tới hệ thống thực tế.
+       - Mô hình mô phỏng hiệu suất của con người (Human Performance Modeling -
+HPM) là phương pháp sử dụng các công cụ và kỹ thuật để dự đoán và phân tích hành
+vi, hiệu suất và phản ứng của con người khi tương tác với các hệ thống kỹ thuật
+(Wickens et al., 2015). Mô phỏng sự thực hiện của con người trong hệ thống kỹ thuật
+giúp hiểu rõ hơn về các yếu tố ảnh hưởng đến năng suất và hiệu quả công việc của
+con người khi tương tác với các hệ thống kỹ thuật. Đây là công cụ thiết yếu nhằm
+
+
+                                            14
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+nâng cao hiệu suất làm việc, cải thiện các thiết kế tương tác, đồng thời giảm thiểu các
+lỗi và rủi ro trong quá trình làm việc.
+
+
+
+
+                       CÂU HỎI ÔN TẬP, BÀI TẬP CỦNG CỐ
+   1. Đề xuất biện pháp cải thiện sự tương tác con người – máy trong lao động.
+   2. Mô phỏng sự thực hiện của con người trong hệ thống kỹ thuật bao gồm
+      những giai đoạn nào? Ý nghĩa của từng giai đoạn.
+   3. Tại sao cần mô phỏng sự thực hiện hành động của con người trong hệ thống kỹ
+      thuật?
+   4. Có những phương pháp mô phỏng sự thực hiện của con người nào? Lấy ví dụ
+      minh họa.
+
+
+
+      TÀI LIỆU THAM KHẢO CHƯƠNG 4
+     [1] Anderson, J. R. (1996). ACT: A simple theory of complex cognition.
+         American Psychologist, 51(4), 355.
+     [2] Bertalanffy, L. (1968). General System Theory: Foundations,
+         Development, Applications. George Braziller.
+     [3] Borman, W. C., Ilgen, D. R., & Klimoski, R. J. (2003). Handbook of
+         psychology: Industrial and organizational psychology (Vol. 12). Hoboken,
+         NJ: John Wiley & Sons.
+     [4] Brown, D. R., & Green, L. A. (2019). Climate control in office
+         environments. Occupational Health Review.
+     [5] Card, S. K., Moran, T. P., & Newell, A. (1980). The keystroke-level model
+         for user performance time with interactive systems. Communications of the
+         ACM, 23(7), 396-410.
+     [6] Card, S. K., Moran, T. P., & Newell, A. (1983). The Psychology of
+         Human-Computer Interaction. Lawrence Erlbaum Associates.
+     [7] Herzberg, F., Mausner, B., & Snyderman, B. B. (1959). The Motivation to
+         Work. John Wiley & Sons Inc.
+     [8] Kanse, L., & van der Schaaf, T. W. (2001). Recovery from failures in the
+         chemical process industry. Journal of Hazardous Materials, 83(3), 289-305.
+                                             15
+             GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+[9] Kim, S. J., & Lee, Y. J. (2021). Organizational culture and innovation.
+     Management Science.
+[10] Klein, G. (1998). Sources of power: How people make decisions. MIT
+     Press.
+[11] Lee, K. W., & Chen, A. (2020). Noise and its effects on work efficiency.
+     International Journal of Occupational Safety and Ergonomics.
+[12] Lewin, K. (1943). Defining the "Field at a Given Time". Psychological
+     Review.
+[13] Norman, D. A. (2013). The design of everyday things: Revised and
+     expanded edition. Basic Books.
+[14] Northouse, P. G. (2018). Leadership: Theory and practice. Sage
+     Publications.
+[15] Reason, J. (1990). Human error. Cambridge University Press.
+[16] Salas, E., Bowers, C. A., & Rhodenizer, L. (2008). It is not how much you
+     have but how you use it: Toward a rational use of simulation to support
+     aviation training. The International Journal of Aviation Psychology, 8(3),
+     197-208.
+[17] Salas, E., Rosen, M. A., Held, J. D., & Weissmuller, J. J. (2009).
+     Performance measurement in simulation-based training: A review and best
+     practices. Simulation & Gaming.
+[18] Smith, A., & Jones, B. (2018). The impact of natural light on workplace
+     productivity. Journal of Environmental Psychology.
+[19] Taylor, F. W. (1911). The Principles of Scientific Management. Harper &
+     Brothers.
+[20] Tsai, M. H., & Wu, C. (2019). Interpersonal relationships at work. Journal
+     of Managerial Psychology, 34(5), 354-370.
+
+
+
+
+                                      16
+

@@ -1,0 +1,441 @@
+                  Bài 8: Quản lý và tổ chức lao động khoa học
+ Sau khi học xong chương này, người học có khả năng:
+      CLO6: Trình bày những vấn đề về lao động kỹ thuật, ứng dung tâm lý học vào lao
+ động kỹ thuật, tổ chức lao động khoa học, quản lý rủi ro lao động .
+      CLO9: Đề xuất giải pháp tổ chức quá trình lao động khoa học, quản lý rủi ro trên
+ cơ sở ứng dụng tâm lý học.
+      CLO10: Có kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ năng tư duy
+ sáng tạo, tư duy hệ thống.
+      CL11: Thể hiện được kĩ năng thuyết trình
+      CL12: Có kĩ năng làm việc nhóm.
+      CLO13: Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ thuật. Ý thức
+ được giá trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật trong mối liên hệ với
+ tự nhiên, con người và xã hội nhằm định hướng đến sự phát triển bền vững.
+
+
+      4.1. Những vấn đề chung về tâm lý tổ chức lao động khoa học
+      Trong lĩnh vực tâm lý học kỹ thuật, lý thuyết về tổ chức lao động khoa học
+đóng vai trò quan trọng trong việc tối ưu hóa quá trình lao động, tăng cường hiệu
+suất và sự hài lòng của người lao động. Tâm lý học tổ chức lao động bắt nguồn từ
+cuối thế kỷ 19 và đầu thế kỷ 20, với các công trình nghiên cứu của Frederick Taylor
+(phong trào Quản lý khoa học) và Hugo Münsterberg (nền tảng tâm lý học công
+nghiệp). Kể từ đó, lĩnh vực này đã phát triển đa dạng và bao gồm nhiều khía cạnh
+khác nhau của hành vi tổ chức. Frederick Taylor, trong cuốn "The Principles of
+Scientific Management" nhấn mạnh vai trò của việc phân tích khoa học trong quản
+lý công việc để nâng cao hiệu suất. Hugo Münsterberg, trong cuốn "Psychology and
+Industrial Efficiency" đã đặt nền móng cho việc ứng dụng tâm lý học vào ngành
+công nghiệp.
+Các lý thuyết cốt lõi được áp dụng để phân tích, thiết kế và quản lý công việc như:
+      4.1.1. Thuyết quản lý khoa học của Frederick Winslow Taylor1
+      Frederick Winslow Taylor (1856 – 1915) là một trong những người đầu tiên
+khai sinh ra khoa học quản lý, là “cha đẻ” của trường phái quản lý theo khoa học-
+người đầu tiên tiếp cận và nghiên cứu quản lý một cách khoa học và có hệ thống.
+      Taylor là người Mỹ. Năm 16 tuổi ông theo học trường Exerter về luật và triết
+học nhằm chuẩ bị thi vào đại học Harward. Ông đã thi đỗ vào khoa luật của trường
+này, tuy nhiên vì lý do thị lực giảm nên không theo học.
+      Năm 1874, 18 tuổi, Taylor bắt đầu làm việc tại xí nghiệp Hydraulic Works với
+vị trí người học nghề tạo mẫu và thợ máy. Bốn năm sau, ông làm việc tại nhà máy
+thép Midvale ban đầu với vai trò người thợ. Sau đó, nhờ có những phát minh quan
+trọng, ông được chỉ định làm trưởng kíp, rồi quản đốc, kỹ sư trợ lý và cuối cùng là
+kỹ sư trưởng.
+      Tác phẩm nổi tiếng: Quản lý phân xưởng (1903), Các nguyên tắc quản lý theo
+khoa học (1911), Các ghi chép về sự chuyển động bằng dây (1893), Hệ thống định
+mức sản phẩm và nghệ thuật cắt kim loại (1906).
+      Trong tác phẩm "The Principles of Scientific Management" Frederick
+Winslow Taylor nhấn mạnh vai trò của việc phân tích khoa học trong quản lý công
+việc để nâng cao hiệu suất. Ông đã đưa ra một số nguyên tắc cơ bản giúp tối ưu hóa
+công việc và tăng năng suất lao động. Taylor tập trung vào việc áp dụng phương
+pháp khoa học để nghiên cứu và quản lý công việc.
+- Phân tích và tiêu chuẩn hóa công việc
+      Taylor nhấn mạnh vào việc phân tích công việc chi tiết và xác định phương
+pháp tối ưu để thực hiện mỗi nhiệm vụ. Mục tiêu là loại bỏ các thao tác không cần
+thiết và tạo ra cách làm việc hiệu quả nhất.
+      - Lựa chọn và huấn luyện nhân viên
+
+
+      1 Taylor, F. W. (1911). The Principles of Scientific Management. Harper & Brothers.
+        Người lao động nên được tuyển chọn và huấn luyện kỹ càng để phù hợp với
+nhiệm vụ cụ thể. Điều này đòi hỏi phải áp dụng các quy trình tuyển dụng và đào tạo
+chuyên nghiệp.
+        - Hệ thống lương thưởng dựa trên hiệu suất
+        Taylor đề xuất việc trả lương dựa trên kết quả công việc, tức là lương sẽ thay
+đổi theo lượng công việc hoàn thành chứ không chỉ dựa trên số giờ làm việc. Điều
+này nhằm tạo động lực cho người lao động để họ làm việc hiệu quả hơn.
+        - Phân chia trách nhiệm rõ ràng
+        Taylor phân chia công việc một cách rõ ràng giữa quản lý và công nhân. Quản
+lý tập trung vào lập kế hoạch và chuẩn bị, trong khi công nhân chịu trách nhiệm thực
+hiện các nhiệm vụ được giao.
+        * Ứng dụng thực tiễn thuyết quản lý khoa học của Frederick Winslow Taylor:
+        + Tối ưu hóa sản xuất
+        Bằng cách phân tích các quy trình công việc và xác định các phương pháp làm
+việc hiệu quả nhất, các nhà quản lý có thể tối ưu hóa quy trình sản xuất và tăng năng
+suất.
+        Ví dụ: Trong ngành sản xuất ô tô, Henry Ford đã áp dụng các nguyên tắc của
+Taylor để phát triển dây chuyền sản xuất lắp ráp, giúp tăng năng suất và giảm chi
+phí sản xuất đáng kể. Ford đã tiêu chuẩn hóa các quy trình sản xuất và sử dụng kỹ
+thuật phân tích thời gian và động tác để tối ưu hóa từng công đoạn của quá trình lắp
+ráp.
+        + Quản lý nhân sự
+        Các công ty hiện đại thường sử dụng các công cụ đánh giá khoa học để tuyển
+chọn nhân viên phù hợp và thiết kế các chương trình đào tạo nhằm nâng cao kỹ năng
+và hiệu suất làm việc của họ. Việc này không chỉ giúp cải thiện hiệu quả công việc
+mà còn giúp giảm tỉ lệ nghỉ việc và tăng sự hài lòng của nhân viên.
+        + Cải tiến quy trình và quản lý chất lượng
+       Các công ty trong ngành công nghiệp sản xuất thường áp dụng các hệ thống
+quản lý chất lượng như ISO 9001, dựa trên các nguyên tắc của Taylor về tiêu chuẩn
+hóa và cải tiến liên tục. Các công cụ như Six Sigma và Lean Manufacturing cũng
+được sử dụng để tối ưu hóa quy trình và giảm thiểu lãng phí.
+       + Hệ thống tiền lương theo thành tích
+       Ví dụ: Trong lĩnh vực bán hàng, các công ty thường áp dụng hệ thống hoa
+hồng dựa trên doanh số bán hàng. Nhân viên bán hàng sẽ nhận được phần thưởng
+tài chính dựa trên hiệu suất làm việc của họ, khuyến khích họ nỗ lực hơn để đạt được
+các mục tiêu bán hàng.
+       4.1.2. Lý thuyết hệ thống của Ludwig von Bertalanffy
+       - Khái niệm cơ bản
+       + Khái niệm hệ thống (System): Hệ thống được định nghĩa là một tập hợp các
+phần tử liên kết với nhau theo một cách thức nhất định và hướng đến một mục tiêu
+chung.
+       + Khái niệm phần tử (Element): Phần tử là các đơn vị cấu thành của hệ thống,
+có thể là cá nhân, nhóm, bộ phận, hay các yếu tố khác.
+       + Khái niệm môi trường (Environment): Môi trường là các yếu tố bên ngoài
+hệ thống có thể ảnh hưởng đến hoạt động của hệ thống.
+       + Khái niệm ranh giới (Boundary): Ranh giới là giới hạn phân biệt giữa hệ
+thống và môi trường bên ngoài.x
+       + Khái niệm phản hồi (Feedback): Thông tin phản hồi từ các phần tử trong hệ
+thống hoặc từ môi trường, giúp hệ thống điều chỉnh và cải thiện hoạt động.
+       - Lý thuyết hệ thống của Ludwig von Bertalanffy nhấn mạnh các nguyên lý
+sau:
+       + Tính toàn thể (Holism): Hệ thống phải được xem xét như một tổng thể,
+không chỉ đơn giản là tổng của các phần tử riêng lẻ.
+      + Tính liên kết (Interdependence): Các phần tử trong hệ thống có mối quan hệ
+phụ thuộc lẫn nhau.
+      + Cân bằng động (Dynamic Equilibrium): Hệ thống luôn tìm cách duy trì sự
+ổn định thông qua các cơ chế phản hồi và điều chỉnh.
++ Tính thứ bậc (Hierarchy): Các hệ thống con được tổ chức theo các cấp bậc khác
+nhau, tạo thành một cấu trúc phân cấp.
+      4.1.3. Thuyết Hai yếu tố của Frederick Herzberg2
+      Frederick Herzberg (1923-2000) là một nhà tâm lý học người Mỹ nổi tiếng vì
+là một trong những người đầu tiên thúc đẩy nghiên cứu về động lực tại nơi làm việc.
+Đóng góp chính của ông vào lĩnh vực tâm lý xã hội là lý thuyết về hai yếu tố, một
+trong những lý thuyết được sử dụng nhiều nhất cho đến ngày nay trong các công ty.
+Frederick Herzberg cũng trở nên nổi tiếng vì ông là một trong những nhà nghiên cứu
+đầu tiên trong lĩnh vực tâm lý học sử dụng các cuộc phỏng vấn bán cấu trúc để thu
+thập dữ liệu và hiểu rõ hơn về đối tượng nghiên cứu của mình
+      Động lực là yếu tố thúc đẩy người lao động hoàn thành công việc. Có hai loại
+động lực chính: động lực nội tại (xuất phát từ bản thân công việc) còn có cách gọi
+khác là động lực duy trì và động lực bên ngoài (thù lao, công nhận từ bên ngoài) còn
+có cách gọi khác là động lực tác động. Việc hiểu rõ và ứng dụng các yếu tố động lực
+phù hợp sẽ giúp tăng cường hiệu suất. Thuyết hai yếu tố của Frederick Herzberg
+phân chia các yếu tố ảnh hưởng đến động lực và sự hài lòng trong công việc thành
+hai nhóm chính:
+      - Động lực nội tại là những yếu tố phát xuất từ chính bản thân công việc, làm
+cho người lao động cảm thấy hài lòng và có ý nghĩa khi thực hiện nhiệm vụ. Những
+động lực nội tại bao gồm:
+
+
+
+
+      2 Herzberg, F., Mausner, B., & Snyderman, B. B. (1959). The Motivation to Work. John Wiley & Sons Inc
+        + Công việc thách thức và thú vị: Công việc đa dạng và mang tính thách thức
+thường kích thích sự sáng tạo và tăng cường cảm giác hoàn thành mục tiêu.
+        + Cơ hội phát triển cá nhân: Các tổ chức khuyến khích nhân viên học tập và
+phát triển kỹ năng liên tục thường tạo ra môi trường làm việc tích cực.
+        + Sự nhận diện và công nhận: Sự công nhận từ cấp trên và đồng nghiệp về
+những thành tích và đóng góp của cá nhân là một yếu tố động lực mạnh mẽ.
+        - Động lực ngoại tại: Động lực ngoại tại là những yếu tố bên ngoài, chẳng hạn
+như thù lao, phúc lợi, và điều kiện làm việc tốt.
+        + Chế độ lương thưởng: Lương bổng và các chế độ thưởng dựa trên hiệu suất
+làm việc giúp khuyến khích nhân viên nỗ lực hơn.
+        + Phúc lợi và điều kiện làm việc: Các tổ chức cung cấp phúc lợi toàn diện như
+bảo hiểm sức khỏe, nghỉ phép, và các chương trình chăm sóc sức khỏe sẽ cải thiện
+sự hài lòng và giữ chân nhân viên.
+        + Sự tiến bộ và cơ hội thăng tiến: Cơ hội thăng tiến và phát triển nghề nghiệp
+là một yếu tố ngoại tại kích thích động lực làm việc.
+        4.1.4. Thuyết tâm lý học xã hội của Kurt Lewin3
+        Kurt Lewin (1890-1947), bị ảnh hưởng bởi tâm lý học Gestalt. Ông đã đóng
+góp nhiều vào cách hiểu về hành vi tổ chức thông qua Lý thuyết trường (Field
+Theory). Lewin cho rằng hành vi của cá nhân được xác định bởi cả yếu tố cá nhân
+và môi trường. Mối quan hệ xã hội trong môi trường làm việc rất quan trọng. Sự hợp
+tác, chia sẻ thông tin, hỗ trợ lẫn nhau giúp gia tăng tinh thần đồng đội và nâng cao
+hiệu suất.
+        - Phương trình hành vi: Hành vi là hàm số của cá nhân và môi trường (B = f(P,
+E)), nghĩa là môi trường làm việc có ảnh hưởng quan trọng đến hành vi của nhân
+viên.
+
+
+        3 Lewin, K. (1943). Defining the "Field at a Given Time". Psychological Review
+      Các yếu tố này được giải thích chi tiết như sau:
+      + Hành vi (B) – Behavior
+      Hành vi (B) đại diện cho mọi hoạt động và phản ứng của cá nhân trong một
+tình huống cụ thể. Đây có thể là các hành vi hữu hình như hành động, lời nói, hoặc
+các phản ứng tâm lý như cảm xúc, suy nghĩ. Trong bối cảnh tổ chức lao động, hành
+vi có thể bao gồm hiệu suất làm việc, tinh thần hợp tác, mức độ gắn kết với tổ chức,
+v.v. Lewin cho rằng hành vi không tồn tại độc lập mà luôn bị ảnh hưởng bởi các yếu
+tố cá nhân và môi trường.
+      + Cá nhân (P) – Person
+      Cá nhân (P) đại diện cho các yếu tố thuộc về con người thực hiện hành vi. Các
+yếu tố này bao gồm:
+      Nhân cách (Personality): Bao gồm các đặc điểm cá nhân, thái độ, giá trị, cảm
+xúc, nhu cầu và động lực.
+      Kỹ năng và năng lực (Skills and Abilities): Các kỹ năng chuyên môn, khả năng
+giải quyết vấn đề, khả năng quản lý stress, v.v.
+      Tình trạng tâm lý (Psychological State): Bao gồm cảm xúc hiện tại, mức độ
+mệt mỏi, tự tin, lo lắng, v.v.
+      + Môi trường (E) – Environment
+      Môi trường (E) đại diện cho tất cả các yếu tố bên ngoài cá nhân mà có thể ảnh
+hưởng đến hành vi của họ. Các yếu tố này bao gồm:
+      Môi trường vật lý (Physical Environment): Điều kiện làm việc, ánh sáng, tiếng
+ồn, nhiệt độ, thiết kế văn phòng, v.v.
+      Môi trường xã hội (Social Environment): Mối quan hệ với đồng nghiệp, văn
+hóa tổ chức, lãnh đạo, chính sách và cấu trúc tổ chức.
+      Yếu tố tình huống (Situational Factors): Các đặc điểm cụ thể của tình huống,
+như thời hạn cuối cùng, áp lực thời gian, thay đổi công việc hoặc bất kỳ biến động
+nào khác trong môi trường làm việc.
+       Ứng dụng của phương trình hành vi
+       Phương trình B = f(P, E) giúp chúng ta hiểu rằng hành vi của cá nhân không
+chỉ phụ thuộc vào các yếu tố nội tại như tính cách và kỹ năng, mà còn chịu ảnh
+hưởng mạnh mẽ từ các yếu tố môi trường xung quanh. Do đó, khi muốn thay đổi
+hoặc cải thiện hành vi trong tổ chức lao động, chúng ta cần xem xét cả hai khía cạnh
+này.
+       Ví dụ, để cải thiện hiệu suất làm việc (B), tổ chức có thể:
+       Nâng cao kỹ năng và động lực (P) của nhân viên thông qua đào tạo và khuyến
+khích.
+       Tối ưu hóa môi trường làm việc (E) bằng cách cung cấp điều kiện làm việc tốt
+hơn, cải thiện mối quan hệ qua lại, và xây dựng một văn hóa tổ chức tích cực.
+       - Thay đổi và quản lý sự thay đổi: Lewin cũng nổi tiếng với mô hình quản lý
+sự thay đổi theo ba bước:
+       + Rã đông (Unfreeze) phá vỡ trạng thái hiện tại của tổ chức hoặc cá nhân, tạo
+điều kiện cho sự thay đổi xảy ra;
+       + Thực hiện thay đổi (Change) giai đoạn này tập trung vào việc thực hiện các
+thay đổi đã được lên kế hoạch;
+       + Đông cứng lại (Refreeze) giai đoạn này liên quan đến việc củng cố và duy
+trì những thay đổi đã được thực hiện.
+       4.2. Thiết kế nhiệm vụ và tổ chức công việc
+       4.2.1. Phân tích nhiệm vụ và tổ chức công việc
+       * Phân tích nhiệm vụ
+       Phân tích nhiệm vụ là quá trình tìm hiểu chi tiết về các yếu tố, hoạt động, và
+kỹ năng cần thiết để hoàn thành một công việc cụ thể. Điều này đòi hỏi các nhà quản
+lý và chuyên gia tâm lý học tổ chức nghiên cứu và xác định các thành phần cần thiết
+của từng nhiệm vụ để tối ưu hóa hiệu suất và đảm bảo tính khả thi.
+       Các bước phân tích nhiệm vụ gồm:
+       - Xác định các nhiệm vụ chính: Liệt kê tất cả các nhiệm vụ mà công việc yêu
+cầu.
+       - Phân chia nhiệm vụ thành các bước nhỏ hơn: Chia nhỏ các nhiệm vụ chính
+thành các hoạt động cụ thể.
+       - Xác định các kỹ năng cần thiết: Xác nhận các kỹ năng và năng lực mà người
+thực hiện cần phải có để hoàn thành từng nhiệm vụ.
+       * Tổ chức công việc
+       Tổ chức công việc là quá trình tổ chức và sắp xếp các hoạt động sao cho người
+lao động có thể hoàn thành nhiệm vụ một cách hiệu quả nhất. Điều này bao gồm
+việc xem xét các yếu tố như động lực, sự hài lòng trong công việc, và sức khỏe tâm
+lý.
+       Ví dụ 1: Minh họa tổ chức công việc Quản lý dự án phần mềm.
+       Phân tích nhiệm vụ quản lý dự án phần mềm:
+       1. Xác định các nhiệm vụ chính
+Nhiệm vụ chính của một quản lý dự án phần mềm có thể bao gồm:
+             - Lập kế hoạch dự án
+             - Quản lý đội ngũ phát triển
+             - Theo dõi tiến độ và phân phối công việc
+             - Kiểm soát chất lượng sản phẩm
+             - Giao tiếp với các bên liên quan
+       2. Phân chia nhiệm vụ thành các bước nhỏ hơn
+       Mỗi nhiệm vụ chính có thể được phân chia thành các bước nhỏ hơn để thực
+hiện một cách chi tiết hơn. Ví dụ, nhiệm vụ "Lập kế hoạch dự án" có thể bao gồm
+các bước sau:
+             - Xác định phạm vi dự án
+             - Thu thập yêu cầu từ khách hàng
+             - Xác định các mục tiêu của dự án
+           - Phát triển lịch trình dự án
+           - Xác định các mốc thời gian quan trọng
+           - Phân bổ nguồn lực và trách nhiệm
+           - Dự trù ngân sách
+           - Ước tính chi phí cho từng phần công việc
+           - Xác định nguồn tài chính cần thiết
+     3. Xác định các kỹ năng cần thiết
+     Để hoàn thành nhiệm vụ "Lập kế hoạch dự án", các kỹ năng cần thiết có thể
+bao gồm:
+           - Kỹ năng quản lý thời gian: Để phát triển lịch trình và đảm bảo các
+              mốc thời gian được tuân thủ.
+           - Kỹ năng giao tiếp: Để thu thập yêu cầu từ khách hàng và giao tiếp
+              với đội ngũ phát triển.
+           - Kỹ năng phân tích: Để xác định phạm vi dự án và ước tính chi phí.
+           - Kỹ năng lãnh đạo: Để điều phối các thành viên trong đội ngũ và
+              phân bổ trách nhiệm.
+     Ví dụ 2: Minh họa trong lĩnh vực Cơ khí
+     Nhiệm vụ chính: Thiết kế và chế tạo một bộ phận máy móc.
+           - Phân chia nhiệm vụ thành các bước nhỏ hơn
+           - Thiết kế bản vẽ kỹ thuật
+           - Chọn vật liệu phù hợp
+           - Chế tạo bộ phận
+           - Kiểm tra và thử nghiệm
+           - Xác định các kiến thức, kỹ năng cần thiết:
+           - Kỹ năng vẽ kỹ thuật
+           - Kiến thức về vật liệu
+           - Kỹ năng sử dụng máy móc
+             - Kỹ năng kiểm tra chất lượng
+       Sự đa dạng kỹ năng: Để tránh nhàm chán, kỹ sư cơ khí có thể tham gia vào cả
+thiết kế và chế tạo.
+       Tính hoàn thành công việc: Đảm bảo kỹ sư thấy được thành quả từ bản vẽ đến
+       sản phẩm hoàn chỉnh.
+       Tầm quan trọng của công việc: Giải thích việc bộ phận này ảnh hưởng đến
+toàn bộ hệ thống máy móc.
+       Kiểm soát và tự chủ: Cho phép kỹ sư chọn vật liệu và phương pháp chế tạo.
+Phản hồi từ công việc: Tổ chức các buổi đánh giá định kỳ để phản hồi về chất lượng
+công việc.
+       4.2.2. Yếu tố tâm lý khi thiết kế nhiệm vụ và tổ chức công việc
+       Một số yếu tố tâm lý quan trọng cần xem xét khi thiết kế nhiệm vụ và tổ chức
+công việc:
+       - Khối lượng công việc trí óc
+       Điều này đề cập đến nhu cầu nhận thức đặt ra cho người lao động khi họ thực
+hiện nhiệm vụ. Nhiệm vụ phải được thiết kế để tránh làm quá tải hoặc quá tải năng
+lực tinh thần của người lao động. Các yếu tố ảnh hưởng đến khối lượng công việc
+trí óc bao gồm độ phức tạp của nhiệm vụ, áp lực thời gian và yêu cầu xử lý thông
+tin.
+       - Chú ý và cảnh giác
+       Nhiều nhiệm vụ đòi hỏi sự chú ý hoặc cảnh giác liên tục trong thời gian dài.
+Thiết kế nhiệm vụ phải tính đến những hạn chế trong khoảng thời gian chú ý của
+con người và kết hợp các chiến lược để duy trì sự tỉnh táo, chẳng hạn như sự đa dạng
+của nhiệm vụ hoặc thời gian nghỉ theo lịch trình.
+       - Ra quyết định và giải quyết vấn đề
+       Nhiệm vụ thường liên quan đến việc ra quyết định trong điều kiện không chắc
+chắn hoặc giải quyết vấn đề. Các thiết kế phải hỗ trợ các quá trình nhận thức hiệu
+quả bằng cách cung cấp các hiển thị thông tin phù hợp, hỗ trợ quyết định và cho
+phép có đủ thời gian cho các quyết định phức tạp.
+      - Lỗi của con người và độ tin cậy
+      Việc ngăn ngừa và giảm thiểu lỗi phải được tích hợp vào các thiết kế hệ thống
+và nhiệm vụ. Điều này bao gồm các giao diện có khả năng chịu lỗi, cảnh báo/báo
+động rõ ràng và các quy trình phát hiện và sửa lỗi trước khi chúng dẫn đến tai nạn.
+      - Nhận thức về tình huống
+      Đối với nhiều nhiệm vụ phức tạp, việc duy trì một mô hình tinh thần chính xác
+về tình huống năng động là rất quan trọng. Các thiết kế nên hỗ trợ nhận thức tình
+huống thông qua hiển thị thông tin và cấu trúc nhiệm vụ phù hợp.
+      - Tính tự động và tiếp thu kỹ năng
+      Khi người lao động có được kinh nghiệm, nhiều thành phần nhiệm vụ sẽ trở
+nên tự động. Các thiết kế phải tạo điều kiện thuận lợi cho việc phát triển tính tự động
+cho các nhiệm vụ phụ thông thường trong khi vẫn hỗ trợ xử lý có kiểm soát cho các
+tình huống mới.
+      - Quy trình nhóm và nhóm
+      Nhiều môi trường làm việc hiện đại có sự tham gia của các nhóm. Thiết kế
+nhiệm vụ nên xem xét sự phối hợp nhóm, giao tiếp và nhận thức chung.
+      - Động lực và sự hài lòng trong công việc
+      Các đặc điểm của nhiệm vụ như quyền tự chủ, sự đa dạng về kỹ năng, nhận
+dạng nhiệm vụ và phản hồi ảnh hưởng đến động lực và sự hài lòng của người lao
+động. Thiết kế công việc nên kết hợp các tính năng tạo động lực nếu có thể.
+      - Công thái học vật lý
+      Trong khi các yếu tố nhận thức là trung tâm thì công thái học vật lý vẫn quan
+trọng. Các nhiệm vụ nên được thiết kế để tránh căng thẳng lặp đi lặp lại, các tư thế
+khó xử và nhu cầu thể chất quá mức.
+      - Sự khác biệt của từng cá nhân
+      Thiết kế nhiệm vụ phải tính đến sự thay đổi về khả năng của con người theo
+độ tuổi, mức độ kinh nghiệm và các yếu tố khác biệt cá nhân khác.
+      Khi áp dụng những nguyên tắc này, các nhà tâm lý học kỹ thuật sử dụng các
+phương pháp như phân tích nhiệm vụ nhận thức, đo lường khối lượng công việc,
+phân tích lỗi và kiểm tra khả năng sử dụng để thông báo cho các thiết kế. Mục tiêu
+là tạo ra các hệ thống làm việc không chỉ hiệu quả và năng suất mà còn an toàn, đáp
+ứng nhu cầu và phù hợp với khả năng cũng như giới hạn của con người.
+      Ví dụ 1: Phân tích yếu tố tâm lý trong thiết kế nhiệm vụ và tổ chức công việc
+trong lĩnh vực Điện – điện tử
+      Khối lượng công việc trí óc như đọc và hiểu các sơ đồ mạch điện, ngôn ngữ
+lập trình, và xử lý các sự cố kỹ thuật. Điều này yêu cầu sự tập trung cao độ và khả
+năng giải quyết vấn đề nhanh chóng. Khối lượng công việc trí óc lớn có thể gây ra
+lỗi do mệt mỏi và giảm chú ý.
+      Trong quá trình thực hiện công việc kỹ thuật viên phải luôn cảnh giác với các
+mối nguy hiểm tiềm ẩn như điện giật và cháy nổ. Sự chú ý liên tục giúp họ phát hiện
+và khắc phục sự cố nhanh chóng trước khi chúng trở nên nghiêm trọng.
+      Kỹ thuật viên phải nhanh chóng xác định nguyên nhân của sự cố và đưa ra giải
+pháp khắc phục. Quy trình ra quyết định hiệu quả giúp giảm thiểu thời gian ngừng
+hoạt động và đảm bảo hệ thống hoạt động liên tục.
+      Trong lĩnh vực này, lỗi của con người có thể gây ra các sự cố nghiêm trọng
+như mất điện hoặc hư hỏng thiết bị điện tử. Sử dụng hệ thống kiểm tra và bảo dưỡng
+định kỳ giúp tăng độ tin cậy và giảm thiểu rủi ro.
+      Kỹ thuật viên điện - điện tử cần phải duy trì nhận thức về tình huống để xử lý
+các sự cố hệ thống và bảo đảm an toàn điện. Họ phải thường xuyên kiểm tra và đánh
+giá trạng thái của mạch điện, thiết bị, và hệ thống bảo vệ để phát hiện và khắc phục
+các vấn đề trước khi chúng trở nên nghiêm trọng.
+      Tự động hóa giúp tối ưu hóa các quy trình điện - điện tử, nhưng cũng yêu cầu
+kỹ thuật viên phải nắm vững các công nghệ và phần mềm điều khiển tự động. Điều
+này bao gồm việc học cách lập trình PLC, sử dụng các công cụ giám sát và chẩn
+đoán tự động để duy trì và cải thiện hiệu suất hệ thống.
+      Trong các dự án điện - điện tử, làm việc nhóm giúp kỹ thuật viên phối hợp để
+lắp đặt, bảo trì và khắc phục sự cố hệ thống. Sự hợp tác hiệu quả trong nhóm đòi hỏi
+kỹ năng giao tiếp tốt, khả năng làm việc dưới áp lực, và sự hỗ trợ lẫn nhau để đảm
+bảo công việc hoàn thành đúng hạn và đạt chất lượng cao.
+      Động lực làm việc của kỹ thuật viên điện - điện tử có thể được thúc đẩy bởi
+các yếu tố như thách thức công việc, đào tạo liên tục, và sự khuyến khích từ cấp trên.
+Sự hài lòng trong công việc giúp kỹ thuật viên duy trì tinh thần làm việc cao và cam
+kết với tổ chức.
+      Công thái học vật lý rất quan trọng đối với kỹ thuật viên điện - điện tử, đặc
+biệt là khi làm việc với các thiết bị điện tử có kích thước nhỏ và yêu cầu sự chính
+xác cao. Việc bố trí thiết bị và công cụ một cách hợp lý, cùng với việc sử dụng các
+thiết bị hỗ trợ phù hợp, giúp giảm nguy cơ chấn thương do chuyển động lặp đi lặp
+lại và duy trì hiệu suất làm việc cao.
+      Kỹ thuật viên có thể có trình độ chuyên môn khác nhau, khả năng giải quyết
+vấn đề và mức độ phản ứng với áp lực công việc khác nhau. Quản lý hiệu quả những
+khác biệt này giúp tối ưu hóa hiệu suất nhóm và đảm bảo rằng mọi thành viên đều
+có thể đóng góp một cách tốt nhất.
+      Ví dụ 2: Phân tích yếu tố tâm lý trong thiết kế nhiệm vụ và tổ chức công việc
+trong lĩnh vực Cơ khí
+      - Khối lượng công việc trí óc
+      Kỹ sư cơ khí thường phải xử lý nhiều thông tin phức tạp liên quan đến thiết
+kế, vật liệu, và quy trình sản xuất. Khối lượng công việc trí óc cao có thể dẫn đến
+tình trạng căng thẳng và mệt mỏi tinh thần, gây ảnh hưởng tiêu cực đến hiệu suất và
+độ chính xác trong công việc.
+      - Chú ý và cảnh giác trong quá trình làm việc
+      Trong quá trình vận hành máy móc, sự chú ý và cảnh giác là rất quan trọng để
+tránh tai nạn và đảm bảo chất lượng sản phẩm. Các kỹ sư cần liên tục giám sát hoạt
+động của máy móc và phát hiện kịp thời các dấu hiệu bất thường.
+      - Ra quyết định và giải quyết vấn đề
+      Kỹ sư cơ khí thường phải đưa ra các quyết định quan trọng liên quan đến thiết
+kế và cải tiến máy móc. Quyết định đúng đắn cần dựa trên phân tích dữ liệu và kinh
+nghiệm thực tế.
+      - Yếu tố lỗi của con người và độ tin cậy
+      Lỗi của con người trong quá trình vận hành máy móc có thể dẫn đến hỏng hóc
+thiết bị và tai nạn lao động. Đào tạo và thực hành liên tục là cần thiết để giảm thiểu
+lỗi và tăng độ tin cậy.
+      Nhận thức về tình huống giúp kỹ sư cơ khí hiểu rõ các yếu tố tác động đến
+hoạt động của máy móc và quy trình sản xuất. Điều này bao gồm việc theo dõi các
+thông số kỹ thuật, phát hiện sự cố kịp thời, và điều chỉnh quy trình để đảm bảo hiệu
+quả và an toàn.
+      Tự động hóa trong lĩnh vực cơ khí giúp giảm bớt gánh nặng công việc cho
+nhân viên, nhưng cũng đòi hỏi họ phải tiếp thu các kỹ năng mới liên quan đến vận
+hành và bảo trì hệ thống tự động. Việc đào tạo liên tục và nâng cao kỹ năng là cần
+thiết để nhân viên có thể thích nghi với các công nghệ mới.
+      - Làm việc theo nhóm trong công việc
+      Làm việc theo nhóm trong lĩnh vực cơ khí giúp tăng cường sự hợp tác và chia
+sẻ kiến thức giữa các kỹ sư. Quy trình nhóm hiệu quả yêu cầu sự phối hợp rõ ràng,
+phân công nhiệm vụ hợp lý, và giao tiếp liên tục để đạt được mục tiêu chung.
+      - Yếu tố động lực và sự hài lòng
+      Động lực và sự hài lòng trong công việc của kỹ sư cơ khí có thể được nâng
+cao thông qua các yếu tố như cơ hội phát triển nghề nghiệp, môi trường làm việc
+thân thiện, và sự công nhận thành tích. Sự hài lòng trong công việc không chỉ cải
+thiện hiệu suất mà còn giảm thiểu tỷ lệ nghỉ việc.
+      - Các yếu tố công thái học vật lý
+      Công thái học vật lý là yếu tố quan trọng trong thiết kế môi trường làm việc
+của kỹ sư cơ khí. Việc bố trí thiết bị, công cụ và không gian làm việc hợp lý giúp
+giảm thiểu rủi ro chấn thương và tăng cường hiệu suất làm việc.
+      - Các yếu tố cá nhân
+      Trong lĩnh vực cơ khí, sự khác biệt cá nhân về kinh nghiệm, kỹ năng, và phong
+cách làm việc có thể ảnh hưởng đến hiệu suất và chất lượng công việc. Hiểu rõ những
+khác biệt này giúp quản lý có thể phân công công việc phù hợp với khả năng của
+từng cá nhân, tạo điều kiện cho họ phát huy tối đa năng lực.
+
+
+                       Câu hỏi ôn tập, bài tập củng cố
+
+   Bài tập 1: Tìm hiểu công ty và vận dụng các thuyết quản lý lao động.
+   Yêu cầu:
+   - Tìm hiểu về một công ty thuộc lĩnh vực chuyên ngành bạn đang học
+   Phân tích mô hình tổ chức lao động của công ty đó
+   Vận dụng các thuyết quản lý lao động đã học để đề xuất các giải pháp cải tiến.
+   Bài tập 2: Phân tích tình huống tổ chức lao động.
+   Yêu cầu:
+   - Tìm hiểu một doanh nghiệp trong lĩnh vực chuyên ngành bạn đang học (ví dụ:
+   Samsung, LG Electronics Việt Nam, VinFast, VNPT,...)
+   - Thu thập thông tin (qua báo chí, website công ty...) và trình bày:
+(1) Cách doanh nghiệp tổ chức lao động khoa học (ví dụ: phân công công việc,
+bố trí thời gian, máy móc hỗ trợ,...).
+(2) Những ưu điểm và hạn chế bạn tìm hiểu được.
+(3) Đề xuất các giải pháp để tối ưu hơn theo nguyên tắc tâm lý tổ chức lao
+động.
+1.
+

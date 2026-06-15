@@ -1,0 +1,583 @@
+GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                  1
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+             Bài 6: An toàn, sức khỏe và tối ưu hóa thiết kế kỹ thuật
+
+
+        Sau khi học xong Bài 6, sinh viên có khả năng:
+        CLO5: Trình bày được sự ứng dụng tâm lý học để tối ưu hóa các thiết kế
+  kỹ thuật đảm bảo: tính nhân văn, đạo đức kỹ thuật; sức khỏe, an toàn, môi
+  trường; phù hợp đối tượng sử dụng, vận hành.
+        CLO8: Hình thành được ý tưởng tối ưu hóa thiết kế kỹ thuật trên cơ sở
+  ứng dụng tâm lý học;
+        CLO10: Phát triển kĩ năng giải quyết vấn đề, kĩ năng tư duy phản biện, kĩ
+  năng tư duy sáng tạo, tư duy hệ thống.
+         CLO13: Tự tin, làm chủ hoạt động lao động thuộc chuyên ngành kỹ
+  thuật. Ý thức được giá trị đạo đức nghề nghiệp trong thiết kế hệ thống kĩ thuật
+  trong mối liên hệ với tự nhiên, con người và xã hội nhằm định hướng đến sự
+  phát triển bền vững.
+
+
+     3.3. Thiết kế sản phẩm cho đối tượng đặc biệt
+       Thiết kế sản phẩm cho đối tượng đặc biệt là một công việc đòi hỏi sự thấu hiểu
+và đồng cảm sâu sắc với những người có nhu cầu khác biệt. 3.3.1. Thiết kế cho
+những người bị hạn chế chức năng
+       Các dạng khuyết tận chức năng cơ thể của con người: Khiếm thị, khiếm thính,
+khiếm khuyết về thể chất, nhận thức suy giảm khả năng phát âm/ngôn ngữ và rối loạn
+co giật. Thiết kế sản phẩm cho người khuyết tật hướng đến công nghệ hỗ trợ để cải
+thiện các chức năng khuyết của con người.
+       a. Suy giảm thị lực
+       * Đặc điểm của người suy giảm thị lực
+       Thị lực kém bao gồm các vấn đề (sau khi điều chỉnh) như nhìn mờ, mờ, có
+màng che mắt, nhìn mờ, nhìn quá gần hoặc quá gần, viễn thị, biến dạng thị lực, đốm
+trước mắt, biến dạng màu sắc, khiếm khuyết thị trường, tầm nhìn đường hầm, không
+có tầm nhìn ngoại vi, nhạy cảm bất thường với ánh sáng hoặc ánh sáng chói và quáng
+gà. Một người được coi là mù về mặt pháp lý khi thị lực của họ (độ sắc nét của thị
+lực) là 20/200 hoặc tệ hơn sau khi chỉnh sửa hoặc khi tầm nhìn của họ dưới 20◦ ở mắt
+tốt nhất sau khi hiệu chỉnh (Hoover và Bledsoe, 1981). Người có thị lực suy giảm có
+
+                                             2
+                              GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+nhiều mức độ và hình thức khác nhau của hạn chế, từ việc khó nhìn ở môi trường ánh
+sáng yếu hoặc sức mạnh của ánh sáng mạnh, đến việc không thể nhận biết được hình
+dạng, màu sắc, hoặc không thể nhìn thấy. Tuy nhiên, có một số đặc điểm chung123456:
+       Ví dụ: Sản phẩm cụ thể dành cho người khiếm thị: Màn hình chữ nổi
+      Người khiếm thị sẽ có thể dùng tablet nhờ màn hình hiển thị chữ nổi Braille
+của đại học Michigan
+
+
+
+
+       Hình 3.16. Màn hình hiển thị chữ nổi Braille của đại học Michigan (nguồn:
+  https://tinhte.vn/thread/nguoi-khiem-thi-se-co-the-dung-tablet-nho-man-hinh-hien-thi-
+                       chu-noi-braille-cua-dai-hoc-michigan.2545518)
+      Màn hình chữ nổi là thiết bị cho phép người khiếm thị đọc và tương tác với
+thông tin kỹ thuật số. Nó bao gồm một loạt các ô chữ nổi có thể làm mới, mỗi ô đại
+diện cho một ký tự chữ nổi duy nhất. Người dùng có thể điều hướng qua văn bản và
+menu bằng bàn phím hoặc thiết bị đầu vào khác và các ô chữ nổi nâng lên và hạ
+xuống để tạo thành các ký tự chữ nổi.
+      b. Khiếm thính
+      t5
+      Khiếm thính đề cập đến một loạt các tình trạng ảnh hưởng đến khả năng nghe
+và xử lý âm thanh. Nó có thể có mức độ nghiêm trọng khác nhau, từ mất thính giác
+nhẹ đến điếc hoàn toàn.
+       Ví dụ sản phẩm cụ thể dành cho người khiếm thính: Cấy ốc tai điện tử
+
+
+
+
+          1
+            Tổ chức Y tế Thế giới: Mù và suy giảm thị lực: https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+          2
+            Quỹ Người mù Hoa Kỳ: https://www.afb.org/
+          3
+            Liên đoàn Người mù Quốc gia: https://nfb.org/
+          4
+            Massof, Robert W., and George Stelmack. "Interpreting low vision test results." Optometry and Vision Science 78.2 (2001): 82-89
+          5
+            Dain, Stephen J. "Clinical colour vision tests." Clinical and Experimental Optometry 87.4-5 (2004): 276-293
+          6
+            Hersh, Marion, Michael A. Johnson, and Barbara T. Johnson. "Empowering older people with early stage vision loss: A new approach."
+Visual Impairment Research 4.1 (2002): 1-16
+                                                                           3
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+Hình 3.17. Hình ảnh cấy ốc tai điện tử [https://akaudiology.vn/oc-tai-dien-tu/bo-cay-oc-
+  tai-dien-tu-hires-ultra-3d-chup-mri-don-gian-khong-dau-nghe-khong-gian-doan/]
+      Ốc tai điện tử là một thiết bị được cấy ghép bằng phẫu thuật có thể khôi phục
+thính giác cho những người bị mất thính giác thần kinh từ nặng đến sâu. Nó bao gồm
+một micrô, bộ xử lý giọng nói và một mảng điện cực được cấy vào tai trong.
+       c. Khiếm khuyết về thể chất
+      Suy giảm thể chất đề cập đến sự hạn chế trong hoạt động thể chất, khả năng
+vận động, sự khéo léo hoặc sức chịu đựng của một người. Nó có thể được gây ra bởi
+nhiều yếu tố, bao gồm dị tật bẩm sinh, chấn thương, bệnh tật và lão hóa. Suy giảm thể
+chất nhẹ đến nặng và chúng có thể ảnh hưởng đến một hoặc nhiều bộ phận của cơ
+thể.
+      Xe lăn thông minh WHILL Model Ci
+
+
+
+
+                                              4
+                 GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                     Hình 3.18. Xe lăn thông minh WHILL Model Ci
+       (Nguồn WHILL Model Ci - Chiếc xe lăn cơ động tích hợp các công nghệ hiện
+                               đại (tinhte.vn)
+       Được thiết kế chạy hoàn toàn bằng điện, vận hành bằng một tay điều khiển
+cầm tay đơn giản với các nút lớn và rõ ràng. Tích hợp công nghệ phát hiện chướng
+ngại vật và phanh tự động, giúp đảm bảo an toàn cho người khiếm khuyết vận động.
+Khả năng vận hành linh hoạt, di chuyển 360 độ, giúp người dùng dễ dàng di chuyển
+trong không gian hẹp hoặc đông người. Pin lithium-ion có thời gian sử dụng lên đến
+19.5 dặm (1 dặm (1mi) = 1,60934km) trên một lần sạc, phù hợp cho di chuyển ngoài
+trời hoặc trong các tòa nhà lớn.
+       d. Suy giảm khả năng phát âm/ngôn ngữ
+       Suy giảm khả năng phát âm/ngôn ngữ là một trạng thái trong đó cá nhân gặp
+khó khăn trong việc sản sinh ra âm thanh và sử dụng ngôn ngữ một cách chính xác và
+hiệu quả. Điều này có thể bao gồm khó khăn trong việc phát âm, hoặc khả năng hạn
+chế trong việc hiểu và sử dụng ngôn ngữ. Nguyên nhân có thể là do vấn đề về sức
+khỏe, rối loạn ngôn ngữ, tổn thương não, hoặc các yếu tố tâm lý khác.
+       Ví dụ về sản phẩm được thiết kế để đáp ứng nhu cầu của người suy giảm phát
+âm và sử dụng ngôn ngữ trong thực tế: Hệ thống trợ giúp giao tiếp và ngôn ngữ thực
+tế ảo (Virtual Reality Communication and Language Assistance System). Mô tả sản
+phẩm: Hệ thống trợ giúp giao tiếp và ngôn ngữ thực tế ảo là một sản phẩm sử dụng
+công nghệ thực tế ảo để cung cấp hỗ trợ cho người suy giảm phát âm và sử dụng
+ngôn ngữ trong các tình huống giao tiếp và học tập thực tế.
+
+
+
+                                           5
+                               GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       e. Rối loạn co giật.
+       Co giật là một tình trạng rối loạn điện hoá của não bộ, dẫn đến sự mất kiểm
+soát của các tín hiệu điện từ não. Điều này gây ra các cơn co thắt cơ không tự chủ, có
+thể lan rộng khắp cơ thể (co giật toàn thể) hoặc chỉ ở một vùng cơ (co giật cục bộ).
+       Về mặt sinh lý, co giật được đặc trưng bởi các đột biến trong hoạt động điện
+của não, với sự phát sinh và lan truyền các xung động điện bất thường trên các tế bào
+thần kinh. Điều này dẫn đến sự mất cân bằng trong sự điều hòa của các ion như natri,
+kali và canxi, gây ra các phản ứng co cơ mạnh mẽ.
+          3.3.2. Thiết kế cho người lớn tuổi
+       Trạng thái lão hóa là quá trình mà trong đó các chức năng cơ thể dần dần giảm
+hiệu suất với thời gian. Tiến trình này ảnh hưởng đến cấp độ tế bào và phân tử, kèm
+theo việc thay đổi do các yếu tố khác như môi trường, lối sống, và di truyền.
+       Đặc điểm của người lão hóa bao gồm78910:
+       - Thay đổi về trạng thái cơ thể: Hệ cơ - xương - khớp, tim, phổi, thận, hệ tiêu
+hóa đều giảm chức năng.
+       - Giảm khả năng phục hồi: Tốc độ phục hồi từ bệnh tật hoặc chấn thương
+thường chậm lại, dẫn đến thời gian phục hồi lâu hơn.
+       - Thay đổi trạng thái tinh thần: Thời gian cũng có ảnh hưởng đến các khía cạnh
+tinh thần, bao gồm khả năng học hỏi, tập trung, và ghi nhớ thông tin.
+       Thiết kế sản phẩm theo nguyên tắc tâm lý dành cho người lớn tuổi đòi hỏi phải
+hiểu rõ nhu cầu tâm lý và sinh lý riêng của họ. Ví dụ:
+      Điện thoại Jitterbug: Điện thoại di động này được thiết kế dành riêng cho
+người lớn tuổi với các nút bấm lớn, loa to và giao diện đơn giản. Nó giảm thiểu tải
+nhận thức bằng cách tránh các menu phức tạp và các tính năng không cần thiết.
+
+
+
+
+          7
+             López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer, G. (2013). The hallmarks of aging. Cell, 153(6), 1194-1217
+          8
+             Campisi, J., & d'Adda di Fagagna, F. (2007). Cellular senescence: when bad things happen to good cells. Nature reviews Molecular cell
+biology, 8(9), 729-740
+           9
+             Kirkwood, T. B. (2005). Understanding the odd science of aging. Cell, 120(4), 437-447.
+           10
+              Niccoli, T., & Partridge, L. (2012). Ageing as a risk factor for disease. Current b1.
+                                                                             6
+                     GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+           Hình 3.21: Điện thoại Jitterbug (Nguồn https://www.chuckegg.com/wp-
+                           content/uploads/2007/11/jitterbug.jpg)
+            Các thiết bị như Amazon Echo và Google Home cho phép người lớn tuổi
+điều khiển các thiết bị gia dụng, đặt lời nhắc và thực hiện cuộc gọi bằng lệnh thoại,
+giảm nhu cầu khéo léo thủ công và nâng cao tính dễ sử dụng.
+         3.3.3. Thiết kế cho trẻ em
+       Theo Công ước Quốc tế về Quyền Trẻ em của Liên Hợp Quốc, trẻ em được
+định nghĩa là những người dưới 18 tuổi, trừ trường hợp luật pháp của một quốc gia cụ
+thể quy định độ tuổi trưởng thành sớm hơn. Ở Việt Nam, theo Luật trẻ em số
+102/2016/QH13 ngày 05 tháng 4 năm 2016 của Quốc Hội, trẻ em là người dưới 16
+tuổi. Các kỹ sư khi thiết kế cho trẻ em cần chú ý đến đặc điểm tâm lý và sinh lý của
+trẻ em.
+         3.4. An toàn, sức khỏe, tiện lợi trong thiết kế kỹ thuật
+         3.4.1. An toàn trong thiết kế kỹ thuật
+         a. Các rủi ro trong quá trình thiết kế và phát triển các sản phẩm, hệ thống kỹ
+thuật.
+       Quá trình thiết kế và phát triển các sản phẩm, hệ thống kỹ thuật luôn tiềm ẩn
+các rủi ro, bao gồm:
+       - Rủi ro về an toàn: Liên quan đến khả năng gây ra thương tích cho người sử
+dụng hoặc những người liên quan, các tai nạn có thể xảy ra trong quá trình sản xuất,
+lắp ráp và bảo trì.
+       - Rủi ro về sức khỏe: Có thể dẫn đến các vấn đề sức khỏe như bệnh nghề
+nghiệp, stress, v.v.
+       - Rủi ro về môi trường: Các tác động tiêu cực đến môi trường như ô nhiễm,
+lãng phí tài nguyên, v.v.
+                                                  7
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       - Rủi ro về kinh tế: Chi phí thiết kế, sản xuất, vận hành cao hơn dự kiến.
+       - Rủi ro pháp lý: Vi phạm các quy định và tiêu chuẩn kỹ thuật, tiêu chuẩn an
+toàn và môi trường.
+       b. Các mô hình thiết kế kỹ thuật giảm thiểu rủi ro
+       Các mô hình thiết kế kỹ thuật giảm thiểu rủi ro đã được nghiên cứu và áp dụng,
+như:
+       1. Mô hình thiết kế an toàn (Safety Design Model)
+       Mô hình thiết kế an toàn do Nancy Leveson, một nhà khoa học hàng đầu trong
+lĩnh vực an toàn hệ thống, đề xuất vào năm 1995. Mô hình này nhấn mạnh việc tích
+hợp các yếu tố an toàn ngay từ giai đoạn thiết kế, thay vì chỉ áp dụng các biện pháp
+kiểm soát an toàn sau khi sản phẩm/hệ thống đã được hoàn thiện.
+       Cốt lõi của mô hình là các nguyên tắc sau:
+       - An toàn là một yêu cầu thiết kế: An toàn không phải là một tính năng bổ
+sung, mà phải được xem là một yêu cầu thiết kế quan trọng ngay từ đầu. Các kỹ sư
+thiết kế cần phải xác định các mối nguy hiểm và rủi ro tiềm ẩn, đồng thời đưa ra các
+biện pháp để loại bỏ hoặc giảm thiểu chúng.
+       - Phân tích hệ thống: Thay vì chỉ tập trung vào một thành phần đơn lẻ, mô hình
+này đòi hỏi phải tiến hành phân tích hệ thống, xem xét các tương tác giữa các thành
+phần và các ảnh hưởng của chúng đến an toàn của toàn bộ hệ thống.
+       - Kiểm soát các quá trình: Không chỉ tập trung vào các biện pháp kỹ thuật, mô
+hình này cũng nhấn mạnh tầm quan trọng của kiểm soát các quá trình liên quan đến
+thiết kế, sản xuất, vận hành và bảo trì nhằm đảm bảo an toàn.
+       - Quản lý rủi ro: Mô hình đề xuất các bước cụ thể để quản lý rủi ro, bao gồm
+xác định mối nguy hiểm, đánh giá rủi ro, lập kế hoạch giảm thiểu và kiểm soát rủi ro.
+       Cấu trúc của mô hình thiết kế an toàn: Mô hình của Leveson dựa trên việc hiểu
+rõ các yếu tố kỹ thuật, tổ chức và con người ảnh hưởng đến an toàn của hệ thống. Mô
+hình này bao gồm ba thành phần chính: xác định mục tiêu an toàn, phân tích an toàn
+và thiết kế an toàn.
+       - Xác định mục tiêu an toàn (Safety Goals Identification):
+       + Xác định yêu cầu an toàn: Đầu tiên, cần xác định các yêu cầu an toàn cụ thể
+cho hệ thống. Điều này bao gồm việc hiểu rõ các tiêu chuẩn an toàn hiện hành, các
+quy định pháp luật và các yêu cầu từ khách hàng.
+
+                                             8
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       + Thiết lập mục tiêu an toàn: Dựa trên các yêu cầu đã xác định, thiết lập các
+mục tiêu an toàn cụ thể và có thể đo lường được. Các mục tiêu này cần phản ánh các
+mức độ chấp nhận được của rủi ro và các biện pháp phòng ngừa cần thiết.
+       - Phân tích an toàn (Safety Analysis):
+       + Phân tích nguy cơ (Hazard Analysis): Nhằm xác định các nguy cơ tiềm ẩn có
+thể dẫn đến sự cố. Các phương pháp phổ biến trong giai đoạn này bao gồm Phân tích
+cây lỗi (Fault Tree Analysis - FTA), phân tích chế độ và ảnh hưởng lỗi (Failure
+Modes and Effects Analysis - FMEA), và HAZOP (Hazard and Operability Study).
+       + Đánh giá rủi ro (Risk Assessment): Đánh giá xác suất xảy ra và mức độ
+nghiêm trọng của mỗi nguy cơ đã xác định. Việc đánh giá này giúp xác định các nguy
+cơ nào cần được ưu tiên trong quá trình thiết kế và quản lý an toàn.
+       + Phân tích nhân tố con người (Human Factors Analysis): Xem xét các yếu tố
+liên quan đến con người có thể ảnh hưởng đến an toàn hệ thống, bao gồm hành vi,
+khả năng và hạn chế của con người.
+       - Thiết kế an toàn (Safety Design):
+       + Thiết kế các biện pháp an toàn (Safety Measures Design): Phát triển các biện
+pháp kỹ thuật và tổ chức để giảm thiểu hoặc loại bỏ các nguy cơ đã xác định. Các
+biện pháp này có thể bao gồm các hệ thống dự phòng, các cơ chế phát hiện và phản
+ứng với sự cố, và các biện pháp bảo vệ vật lý.
+       + Tích hợp an toàn vào thiết kế hệ thống (Safety Integration): Đảm bảo rằng
+các biện pháp an toàn được tích hợp một cách hiệu quả vào thiết kế tổng thể của hệ
+thống. Điều này bao gồm việc xem xét an toàn trong mọi giai đoạn của chu kỳ sống
+của hệ thống, từ thiết kế ban đầu, phát triển, vận hành đến bảo trì.
+       + Xác minh và kiểm tra an toàn (Safety Verification and Validation): Thực
+hiện các hoạt động kiểm tra và xác minh để đảm bảo rằng các biện pháp an toàn đã
+thiết kế hoạt động như mong đợi. Các hoạt động này bao gồm kiểm thử, mô phỏng và
+phân tích định lượng.
+       Quá trình áp dụng Mô hình thiết kế an toàn bao gồm các bước sau:
+       - Xác định và phân tích các mối nguy hiểm: Xác định các nguồn gây nguy
+hiểm, các mối đe dọa an toàn trong suốt vòng đời của sản phẩm/hệ thống.
+       - Đánh giá rủi ro: Ước tính xác suất và mức độ nghiêm trọng của các rủi ro an
+toàn, từ đó xác định các rủi ro quan trọng cần được ưu tiên kiểm soát.
+
+                                             9
+                   GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       - Thiết kế các biện pháp kiểm soát: Đưa ra các biện pháp kỹ thuật, quản lý và
+tổ chức nhằm loại bỏ hoặc giảm thiểu các rủi ro đã xác định.
+       - Phân tích và đánh giá an toàn: Tiến hành phân tích hệ thống để đảm bảo các
+biện pháp kiểm soát được thiết kế phù hợp và hiệu quả.
+       - Giám sát và kiểm soát an toàn liên tục: Theo dõi, kiểm tra và cải tiến liên tục
+các biện pháp kiểm soát an toàn trong suốt vòng đời của sản phẩm/hệ thống.
+       Mô hình thiết kế an toàn của Leveson đã được áp dụng rộng rãi trong nhiều
+lĩnh vực kỹ thuật như hàng không, giao thông, sản xuất, y tế, v.v. Nó giúp các nhà
+thiết kế và kỹ sư xác định và kiểm soát các rủi ro an toàn một cách có hệ thống, từ đó
+nâng cao đáng kể khả năng phòng ngừa tai nạn và sự cố. Đây là một trong những mô
+hình tiên phong và ảnh hưởng lớn trong lĩnh vực thiết kế an toàn hệ thống kỹ thuật.
+Dưới đây là một số ví dụ cụ thể:
+      Công nghệ Thông tin:
+      - Phát triển phần mềm an toàn: Áp dụng mô hình để thiết kế và phát triển phần
+mềm với các biện pháp an toàn tích hợp, chẳng hạn như các cơ chế bảo vệ chống lại
+tấn công mạng và lỗi hệ thống. Quá trình này bao gồm việc phân tích nguy cơ và
+đánh giá rủi ro liên quan đến lỗi phần mềm và các mối đe dọa bảo mật.
+      - Quản lý an toàn dữ liệu: Sử dụng mô hình để phát triển các biện pháp bảo vệ
+dữ liệu, bao gồm việc mã hóa dữ liệu, kiểm soát truy cập và giám sát an ninh mạng
+để đảm bảo an toàn thông tin.
+      Công nghiệp sản xuất:
+      - Thiết kế hệ thống sản xuất an toàn: Áp dụng mô hình để thiết kế các hệ thống
+sản xuất với các biện pháp an toàn tích hợp, chẳng hạn như các hệ thống tự động
+dừng khi phát hiện sự cố và các biện pháp bảo vệ cho nhân viên làm việc trong môi
+trường nguy hiểm.
+      - Phân tích và quản lý rủi ro trong quy trình Sản xuất: Sử dụng mô hình để
+phân tích và quản lý các rủi ro trong quy trình sản xuất, bao gồm việc giám sát và
+đánh giá các điều kiện hoạt động để phát hiện sớm các nguy cơ và thực hiện các biện
+pháp phòng ngừa.
+      Mô hình thiết kế an toàn của Nancy Leveson là một công cụ mạnh mẽ và toàn
+diện để đảm bảo an toàn cho các hệ thống kỹ thuật phức tạp. Việc áp dụng mô hình
+
+                                             10
+                   GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+này không chỉ giúp giảm thiểu nguy cơ và sự cố mà còn nâng cao hiệu quả và độ tin
+cậy của các hệ thống.
+       2. Mô hình thiết kế dựa trên rủi ro (Risk-Based Design Model)36
+       Mô hình thiết kế dựa trên rủi ro do Stanley Kaplan và B. John Garrick đề xuất
+vào năm 1981 là một trong những tiếp cận quan trọng trong việc đưa yếu tố rủi ro vào
+quá trình thiết kế kỹ thuật (Kaplan and Garrick, 1981). Khác với các mô hình truyền
+thống chỉ tập trung vào việc đáp ứng các yêu cầu kỹ thuật, mô hình này nhấn mạnh
+tầm quan trọng của việc xác định, đánh giá và kiểm soát các rủi ro trong suốt vòng
+đời của sản phẩm/hệ thống.
+       Cốt lõi của mô hình là các nguyên tắc sau:
+       - Rủi ro là yếu tố cốt lõi trong thiết kế: Thay vì chỉ xem xét các yêu cầu kỹ
+thuật, mô hình này đặt rủi ro lên hàng đầu trong quá trình thiết kế. Các kỹ sư cần xác
+định và đánh giá các rủi ro tiềm ẩn, từ đó đưa ra các biện pháp kiểm soát phù hợp.
+       - Đánh giá rủi ro định lượng: Mô hình đề xuất sử dụng các phương pháp định
+lượng như phân tích cây sự cố (Fault Tree Analysis) và phân tích hậu quả
+(Consequence Analysis) để ước tính xác suất và mức độ nghiêm trọng của các rủi ro
+(Kaplan and Garrick, 1981).
+       - Quản lý rủi ro có hệ thống: Thay vì chỉ tập trung vào một số rủi ro cụ thể, mô
+hình này yêu cầu phải quản lý rủi ro một cách có hệ thống, bao gồm xác định, đánh
+giá, kiểm soát và giám sát các rủi ro trong suốt vòng đời của sản phẩm/hệ thống.
+       - Tích hợp rủi ro vào quy trình thiết kế: Các kết quả đánh giá rủi ro phải được
+tích hợp vào các quyết định thiết kế, chứ không chỉ là một bước bổ sung cuối cùng.
+       Quá trình áp dụng mô hình thiết kế dựa trên rủi ro bao gồm các bước sau:
+       - Xác định các nguồn gây rủi ro: Xác định các mối nguy hiểm và sự kiện bất
+lợi có thể dẫn đến các hậu quả không mong muốn.
+       - Phân tích và đánh giá rủi ro: Sử dụng các phương pháp định lượng như phân
+tích cây sự cố và phân tích hậu quả để ước tính xác suất và mức độ nghiêm trọng của
+các rủi ro.
+       - Lập kế hoạch kiểm soát rủi ro: Đưa ra các biện pháp kỹ thuật, quản lý và tổ
+chức nhằm loại bỏ hoặc giảm thiểu các rủi ro đã xác định.
+       - Tích hợp rủi ro vào quá trình thiết kế: Kết hợp các kết quả đánh giá rủi ro vào
+các quyết định thiết kế như lựa chọn vật liệu, công nghệ, cấu trúc, v.v.
+
+                                             11
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      - Giám sát và cải tiến liên tục: Theo dõi, kiểm tra và cập nhật các biện pháp
+kiểm soát rủi ro trong suốt vòng đời của sản phẩm/hệ thống.
+      Mô hình thiết kế dựa trên rủi ro có thể được áp dụng trong nhiều lĩnh vực khác
+nhau. Dưới đây là một số ví dụ cụ thể:
+      Công nghiệp sản xuất:
+      - Quản lý rủi ro trong quy trình sản xuất: Áp dụng mô hình để phân tích và
+giảm thiểu rủi ro trong các quy trình sản xuất, từ khâu thiết kế, sản xuất đến bảo trì.
+      - Cải tiến thiết kế và công nghệ: Sử dụng mô hình để đánh giá rủi ro liên quan
+đến việc áp dụng các công nghệ mới và thiết kế mới, nhằm đảm bảo an toàn và hiệu
+quả.
+      Công nghệ thông tin:
+       - Bảo mật và an toàn thông tin: Sử dụng mô hình để phân tích và quản lý các
+rủi ro liên quan đến bảo mật thông tin, bao gồm các mối đe dọa từ tấn công mạng, lỗi
+hệ thống và rủi ro từ yếu tố con người.
+       - Phát triển phần mềm: Áp dụng mô hình để đánh giá rủi ro trong quá trình
+phát triển phần mềm, từ giai đoạn thiết kế, lập trình, kiểm thử đến triển khai. Điều
+này bao gồm việc xác định các lỗi tiềm ẩn và xây dựng các biện pháp phòng ngừa.
+       Như vậy: Mô hình thiết kế dựa trên rủi ro của Kaplan và Garrick là một công
+cụ mạnh mẽ và toàn diện trong việc phân tích và quản lý rủi ro trong các hệ thống kỹ
+thuật và tổ chức. Việc hiểu và áp dụng mô hình này không chỉ giúp giảm thiểu các rủi
+ro và sự cố mà còn nâng cao hiệu quả và an toàn của các hệ thống.
+      3.4.2. Sức khỏe trong thiết kế kỹ thuật
+      Sức khỏe trong thiết kế kỹ thuật là một yếu tố quan trọng cần được chú trọng
+không kém so với các yếu tố về kỹ thuật, chức năng hay thẩm mỹ. Mục đích chính là
+để giảm thiểu tác động tiêu cực lên sức khỏe người sử dụng từ việc tiếp xúc hay sử
+dụng sản phẩm, cũng như tạo ra môi trường làm việc thân thiện, an toàn và khỏe
+mạnh.
+       Sức khỏe cơ thể: Thiết kế kỹ thuật cần tôn trọng hiện tượng sinh lý và hạn chế
+tác động tiêu cực đến sức khỏe cơ thể của người sử dụng. Điều này bao gồm việc sử
+dụng các vật liệu không gây dị ứng, không độc hại; thiết bị và công nghệ không gây
+tiếng ồn, ánh sáng chói lọi, bức xạ hay nhiệt quá mức, không tạo ra áp lực cơ học gây
+mệt mỏi, khó chịu hay tổn thương cơ thể.
+
+
+                                             12
+                   GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      Sức khỏe tinh thần: Thiết kế kỹ thuật cũng ảnh hưởng đến sức khỏe tinh thần
+của người sử dụng. Giao diện người dùng cần được thiết kế trực quan, dễ hiểu, không
+gây áp lực tâm lý hay mệt mỏi tinh thần. Các yếu tố màu sắc, đèn, âm thanh cũng cần
+được thiết kế tốt để tạo cảm giác thoải mái, thú vị và giúp tăng cường tập trung, sáng
+tạo.
+        Sức khỏe môi trường: Thiết kế kỹ thuật cũng cần chú trọng đến việc bảo vệ sức
+khỏe môi trường, nhằm giảm thiểu ảnh hưởng tiêu cực đến môi trường tự nhiên và
+sức khỏe cộng đồng. Các sản phẩm cần được thiết kế sao cho giảm thiểu lượng chất
+thải, tiết kiệm năng lượng, dễ tái chế và không gây hại cho môi trường.
+      Thông qua việc tập trung vào yếu tố sức khỏe trong thiết kế kỹ thuật, không
+những làm tăng chất lượng cuộc sống và công việc của người sử dụng, mà còn góp
+phần vào việc bảo vệ sức khỏe cộng đồng và môi trường.
+      3.4.3. Tiện lợi trong thiết kế kỹ thuật
+       Thiết kế tiện lợi được hiểu là việc tạo ra các sản phẩm, hệ thống hay môi
+trường làm việc dễ sử dụng, thân thiện và linh hoạt theo nhu cầu của người sử dụng.
+Điều này bao gồm việc giảm thiểu sự phức tạp, tối ưu hóa hiệu suất và độ an toàn,
+cũng như tăng cường sự thoải mái và hài lòng của người sử dụng. Tính tiện lợi có thể
+được thể hiện qua giao diện người dùng (UI), cách thức hoạt động hay thậm chí là
+cấu trúc vật lý của thiết bị.
+       Thiết kế tiện lợi quan trọng vì nó tạo ra sự linh hoạt trong việc sử dụng và nâng
+cao trải nghiệm người dùng. Điều này không chỉ cải thiện hiệu suất và độ tin cậy của
+sản phẩm, hệ thống hay môi trường làm việc, mà còn góp phần vào sự hài lòng, sự
+thoải mái và hạnh phúc của người sử dụng. Trong một thế giới ngày càng tập trung
+vào người dùng, việc hiểu và phục vụ nhu cầu, mong muốn và khả năng của họ qua
+thiết kế tiện lợi là mấu chốt của sự thành công.
+      Thiết kế tiện lợi có thể được thể hiện qua nhiều phương tiện khác nhau như:
+       - Giao diện người dùng (UI): Thiết kế UI dễ sử dụng, trực quan và phản hồi tốt
+làm tăng sự tiện lợi cho người dùng. Chẳng hạn, menu điều hướng rõ ràng, nút và
+biểu tượng mà người dùng thường xuyên tương tác nên được đặt ở vị trí thuận tiện.
+      - Cách sử dụng: Việc giảm bớt số lượng các bước yêu cầu để thực hiện một tác
+vụ cũng giúp tăng tính tiện lợi. Ví dụ, việc cho phép người dùng lưu thông tin đăng
+nhập để không phải nhập lại mỗi lần truy cập là một phương pháp tăng tính tiện lợi.
+      - Tính năng tự động: Các tính năng tự động như tự động lưu, tự động cập nhật,
+hoặc tự động kiểm tra lỗi giúp người dùng tiết kiệm thời gian và công sức.
+       - Trợ giúp và hỗ trợ: Việc cung cấp hướng dẫn sử dụng chi tiết, FAQ (thông tin
+trợ giúp) hay cung cấp hỗ trợ trực tuyến cũng tăng tính tiện lợi cho người dùng.
+
+
+
+                                                13
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+      - Tính tương thích và linh hoạt: Đảm bảo rằng sản phẩm hoặc dịch vụ của bạn
+hoạt động trên nhiều nền tảng, thiết bị khác nhau và có khả năng tùy chỉnh để phù
+hợp với nhu cầu cụ thể của người sử dụng.
+      - Thiết kế vật lý: Đối với sản phẩm vật lý, kích thước, trọng lượng, cấu trúc và
+cách thức hoạt động của chúng cũng ảnh hưởng rất lớn đến tính tiện lợi. Ví dụ, một
+chiếc điện thoại di động phải nhẹ và nhỏ gọn để dễ dàng mang theo.
+      3.5. Những trường hợp điển hình trong tối ưu hóa thiết kế kỹ thuật
+      Tối ưu hóa trong thiết kế kỹ thuật là quá trình điều chỉnh và cải thiện các yếu
+tố của một hệ thống, thiết bị, sản phẩm hoặc quy trình nhằm đạt được hiệu suất tốt
+nhất có thể. Điều này có thể liên quan đến việc giảm thiểu chi phí, cải thiện hiệu suất
+hoạt động, hoặc tối đa hóa sức chứa hoặc tuổi thọ của hệ thống hoặc sản phẩm.
+      Quá trình này thường bao gồm việc đánh giá các lựa chọn thiết kế khác nhau,
+phân tích hiệu quả của từng giải pháp và lựa chọn tùy chọn tốt nhất phù hợp với các
+ràng buộc và yêu cầu của vấn đề cụ thể.
+     Tối ưu hóa có thể áp dụng cho hầu hết các lĩnh vực của kỹ thuật, từ thiết kế
+máy móc, vi mạch, tới quy trình sản xuất và hệ thống giao thông vận tải.
+      Sức mạnh của tối ưu hóa trong thiết kế kỹ thuật nằm ở khả năng nó tìm ra giải
+pháp tốt nhất cho vấn đề, thay vì chỉ cải thiện một cách tuỳ tiện hoặc tạo ra một giải
+pháp đủ tốt.
+     Trong lĩnh vực tối ưu hóa thiết kế kỹ thuật, có một số trường hợp điển hình mà
+chuyên gia tâm lý học kỹ thuật cần lưu ý và trình bày cụ thể như sau:
+
+
+
+
+                      CÂU HỎI ÔN TẬP VÀ BÀI TẬP CỦNG CỐ
+      Câu 1: Em hãy phân tích đặc điểm của sản phẩm dành cho những đối tượng
+đặc biệt? Trên cơ sở đặc điểm của sản phẩm đó hãy đề xuất các giải pháp trong thiết
+kế để phù hợp với những đối tượng đặc biệt?
+      Câu 2: Xây dựng biện pháp đảm bảo an toàn, sức khỏe, tiện lợi cho một hệ
+thống sản xuất trong chuyên ngành được đào tạo?
+
+
+
+
+                                             14
+                 GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                      * TÀI LIỆU THAM KHẢO CHƯƠNG 3
+      [1] Cross, N. (2021). Engineering design methods: strategies for product
+design. John Wiley & Sons.
+      [2] Sanders, M. S., & McCormick, E. J. (1993). Human Factors in Engineering
+and Design. McGraw-Hill.
+      [3] Norman, D. A. (2013). The Design of Everyday Things. Basic Books.
+      [4] Norman, D. A., & Draper, S. W. (1986). User Centered System Design:
+New Perspectives on Human-Computer Interaction. CRC Press.
+      [5] Woods, D. D., & Hollnagel, E. (1987). Mapping Cognitive Demands in
+Complex Problem-Solving Worlds. International Journal of Man-Machine Studies,
+26(2), 257-275.
+                                          15
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       [6] Woods, D. D., & Hollnagel, E. (1987). Mapping Cognitive Demands in
+Complex Problem-Solving Worlds. International Journal of Man-Machine Studies,
+26(2), 257-275.
+       [7] Salvendy, G. (2012). Handbook of Human Factors and Ergonomics (4th
+ed.). Wiley.
+       [8] Chaffin, D. B. (2005). Improving digital human modelling for proactive
+ergonomics in design. Ergonomics, 48(5), 478–491.
+       [9] Lee, J. D., & Liu, X. (2003). Rapid prototyping of an augmented vision
+system for aircraft. The International Journal of Aviation Psychology, 13(3), 259–
+272.
+       [10] Occupational Safety and Health Administration. (n.d.). OSHA Technical
+Manual (OTM) | Section III: Chapter 5 - Noise | Occupational Safety and Health
+Administration. www.osha.gov.
+       [11] ASHRAE. (2017). ASHRAE Standard 55-2017: Thermal Environmental
+Conditions for Human Occupancy.
+       [12] U.S. Environmental Protection Agency. (n.d.). Indoor Air Facts No. 4
+(revised) Sick Building Syndrome | US EPA. www.epa.gov.
+       [13] Reason, J. (2008). The Human Contribution: Unsafe Acts, Accidents and
+Heroic Recoveries.
+       [14] Weick, K. E., & Sutcliffe, K. M. (2007). Managing the Unexpected:
+Resilient Performance in an Age of Uncertainty.
+       [15] Karwowski, W. (2006). International Encyclopedia of Ergonomics and
+Human Factors (2nd ed.). CRC Press.
+       [16] World Health Organization. (n.d.). Blindness and visual impairment.
+https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+       [17] American Foundation for the Blind. (n.d.). Home | American Foundation
+for the Blind. https://www.afb.org/
+       [18] National Federation of the Blind. (n.d.). https://nfb.org/
+       [19] Massof, R. W., & Stelmack, G. (2001). Interpreting low vision test
+results. Optometry and Vision Science, 78(2), 82-89.
+       [20] Dain, S. J. (2004). Clinical colour vision tests. Clinical and Experimental
+Optometry, 87(4-5), 276-293.
+       [21] Hersh, M., Johnson, M. A., & Johnson, B. T. (2002). Empowering older
+people with early stage vision loss: A new approach. Visual Impairment Research,
+4(1), 1-16.
+       [22] López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer,
+G. (2013). The hallmarks of aging. Cell, 153(6), 1194-1217.
+       [23] Campisi, J., & d'Adda di Fagagna, F. (2007). Cellular senescence: when
+bad things happen to good cells. Nature reviews Molecular cell biology, 8(9), 729-
+740.
+       [24] Kirkwood, T. B. (2005). Understanding the odd science of aging. Cell,
+120(4), 437-447.
+                                              16
+                  GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+       [25] Niccoli, T., & Partridge, L. (2012). Ageing as a risk factor for disease.
+Current biology, 22(17), R741-R752.
+       [26] Leveson, N. (2004). A new accident model for engineering safer
+systems. Safety Science, 42(4), 237-270.
+       [27] Kaplan, S. M., & Garrick, B. J. (1981). On The Quantitative Definition
+of Risk. Risk Analysis, 1, 11-27.
+       [28] Interaction Design Foundation - IxDF. (2015, July 5). Human error
+(slips and mistakes). https://www.interaction-design.org/literature/book/the-glossary-
+of-human-computer-interaction/human-error-slips-and-mistakes
+       [29] Parhi, P., Karlson, A. K., & Bederson, B. B. (2006, September). Target
+size study for one-handed thumb use on small touchscreen devices. In Proceedings of
+the 8th Conference on Human-computer Interaction with Mobile Devices and
+Services (pp. 203-210).
+       [30] XENON Collaboration, Aprile, E., Aalbers, J., Agostini, F., Alfonsi, M.,
+Althueser, L., ... & Zhu, T. (2018). Dark matter search results from a one ton-year
+exposure of XENON1T. Physical review letters, 121(11), 111302.
+       [31] Wickens, C. D., Hutchins, S. D., Laux, L., & Sebok, A. (2015). The
+impact of sleep disruption on complex cognitive performance. Human factors, 57(4),
+569-588.
+       [32] Vischer, J. C. (2007). The effects of the physical environment on job
+performance: towards a theoretical model of workspace stress. Stress and health,
+23(3), 175-184.
+
+
+
+
+                                             17
+GIÁO TRÌNH NỘI BỘ TÂM LÍ HỌC KỸ THUẬT
+
+
+
+
+                 18
+
