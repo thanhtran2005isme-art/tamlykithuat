@@ -1,12 +1,21 @@
 // ProductCard - IVY moda style: clean, minimal
+// Áp dụng nguyên tắc Tâm lý học Kỹ thuật (TLHKT):
+//  - Bài 2 (Lý thuyết phát hiện tín hiệu): cảnh báo tồn kho THẬT, tránh "báo động giả".
+//  - Bài 4 (Định luật Fitts): nút bấm đủ lớn, dễ nhắm trúng.
+//  - Bài 4 (Định luật Doherty): phản hồi thao tác tức thì (<400ms).
+//  - Bài 5 (Dung sai cho lỗi): vô hiệu hoá thao tác khi hết hàng.
 
 import { useState, useCallback } from 'react';
-import { PiHeartStraight, PiHeartStraightFill, PiShoppingBagOpenFill, PiScalesBold, PiScales } from 'react-icons/pi';
+import { PiHeartStraight, PiHeartStraightFill, PiShoppingBagOpenFill, PiScalesBold, PiScales, PiCheckBold } from 'react-icons/pi';
 import { Link } from 'react-router-dom';
 import type { Product } from '../../types';
 import { formatCurrency } from '../../utils/format';
 import { useCart } from '../../context/CartContext';
 import ProductVariantModal from './ProductVariantModal';
+
+// Ngưỡng tồn kho thấp để hiển thị "tín hiệu" cảnh báo (Bài 2 - Signal Detection)
+const LOW_STOCK_THRESHOLD = 5;
+
 
 interface ProductCardProps {
   product: Product;
@@ -50,7 +59,14 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
   const [wishlisted, setWishlisted] = useState(() => isWishlisted ?? getWishlist().includes(product.id));
   const [variantModalOpen, setVariantModalOpen] = useState(false);
   const [compared, setCompared] = useState(() => getCompare().includes(product.id));
+  // Bài 4 (Doherty): phản hồi tức thì - hiển thị trạng thái "đã thêm" sau khi bấm.
+  const [justAdded, setJustAdded] = useState(false);
   const { addItem } = useCart();
+
+  // Bài 2 (Phát hiện tín hiệu): xác định "tín hiệu" tồn kho dựa trên dữ liệu THẬT.
+  const isOutOfStock = product.status === 'out-of-stock' || product.stock <= 0;
+  const isLowStock = !isOutOfStock && product.stock <= LOW_STOCK_THRESHOLD;
+
 
   const handleWishlist = useCallback(() => {
     if (onToggleWishlist) {
@@ -77,6 +93,9 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
 
   const handleConfirmAddCart = async (size: string, color: string, quantity: number) => {
     await addItem(product, size, color, quantity);
+    // Bài 4 (Doherty): phản hồi tức thì để người dùng biết thao tác đã thành công.
+    setJustAdded(true);
+    setTimeout(() => setJustAdded(false), 1500);
   };
 
   return (
@@ -90,6 +109,8 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
         {product.isNew && <span className="ivy-badge ivy-badge-new">NEW</span>}
         {product.isSale && !product.isNew && <span className="ivy-badge ivy-badge-sale">SALE</span>}
         {product.isBestSeller && !product.isNew && !product.isSale && <span className="ivy-badge ivy-badge-hot">HOT</span>}
+        {/* Bài 2 (Phát hiện tín hiệu): cảnh báo HẾT HÀNG - tín hiệu rõ ràng, độ nổi bật cao */}
+        {isOutOfStock && <span className="ivy-stock-overlay">Hết hàng</span>}
       </div>
 
       {/* Color dot + Wishlist row */}
@@ -111,10 +132,26 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
         >
           {wishlisted ? <PiHeartStraightFill aria-hidden="true" /> : <PiHeartStraight aria-hidden="true" />}
         </button>
+        {/* Bài 5 (Linh hoạt trong sử dụng): cho phép thêm/bớt so sánh ngay tại thẻ */}
+        <button
+          className={`ivy-compare-btn ${compared ? 'active' : ''}`}
+          onClick={handleCompare}
+          type="button"
+          aria-label={compared ? 'Bỏ so sánh' : 'Thêm vào so sánh'}
+          title={compared ? 'Bỏ so sánh' : 'So sánh sản phẩm'}
+        >
+          {compared ? <PiScalesBold aria-hidden="true" /> : <PiScales aria-hidden="true" />}
+        </button>
       </div>
 
       {/* Name */}
       <Link to={`/product/${product.id}`} className="ivy-card-name">{product.name}</Link>
+
+      {/* Bài 2 (Phát hiện tín hiệu): cảnh báo tồn kho thấp dựa trên số liệu THẬT.
+          Chỉ hiện khi thực sự sắp hết để tránh "báo động giả" làm khách mất tin tưởng. */}
+      {isLowStock && (
+        <p className="ivy-low-stock" role="status">Chỉ còn {product.stock} sản phẩm</p>
+      )}
 
       {/* Price + Cart */}
       <div className="ivy-card-bottom">
@@ -122,10 +159,19 @@ export default function ProductCard({ product, onToggleWishlist, isWishlisted }:
           <span className="ivy-price-current">{formatCurrency(product.price)}</span>
           {product.oldPrice && <span className="ivy-price-old">{formatCurrency(product.oldPrice)}</span>}
         </div>
-        <button className="ivy-cart-btn" onClick={handleAddToCart} type="button" aria-label="Thêm vào giỏ">
-          <PiShoppingBagOpenFill aria-hidden="true" />
+        {/* Bài 4 (Fitts): nút đủ lớn, dễ nhắm. Bài 4 (Doherty): phản hồi tức thì khi thêm.
+            Bài 5 (Dung sai lỗi): vô hiệu hoá khi hết hàng để ngăn thao tác vô nghĩa. */}
+        <button
+          className={`ivy-cart-btn ${justAdded ? 'added' : ''}`}
+          onClick={handleAddToCart}
+          type="button"
+          disabled={isOutOfStock}
+          aria-label={isOutOfStock ? 'Sản phẩm đã hết hàng' : justAdded ? 'Đã thêm vào giỏ' : 'Thêm vào giỏ'}
+        >
+          {justAdded ? <PiCheckBold aria-hidden="true" /> : <PiShoppingBagOpenFill aria-hidden="true" />}
         </button>
       </div>
+
 
       <ProductVariantModal
         product={product}
