@@ -267,6 +267,12 @@
 10. ✅ Tăng kích thước nút chọn size/màu: padding 12px 18px, minHeight 48px (C7 - Parhi 2006: +20% tốc độ, +12% chính xác).
 11. ✅ Áp dụng cho cả ProductVariantModal và VariantPickerModal + CSS.
 
+**Đã làm (Hiệu ứng Zeigarnik - Nhắc giỏ hàng):**
+12. ✅ Tooltip "Giỏ còn N SP chưa thanh toán" hiển thị khi hover vào icon giỏ hàng (C4 - Zeigarnik).
+13. ✅ Animation nhẹ sau 3s để thu hút chú ý (SEEV - Salience).
+14. ✅ CSS responsive với gradient đẹp, shadow, và mũi tên tooltip.
+15. ✅ Files: `Header.tsx` (logic), `style.css` (CSS tooltip).
+
 **Nên làm tiếp — tác động cao, dễ minh họa trong báo cáo:**
 | Ưu tiên | Việc | Chương | File | Trạng thái |
 |---|---|---|---|---|
@@ -274,7 +280,7 @@
 | ⭐⭐⭐ | Nhóm bộ lọc theo Miller 7±2 + Hick | C3, C4 | `Products.tsx`, `ProductListPage.tsx` | ✅ **XONG** |
 | ⭐⭐ | Bảng size trẻ em theo tuổi/chiều cao + chất liệu | C6 | `ProductDetail.tsx` | ✅ **XONG** |
 | ⭐⭐ | Tăng nút chọn size/màu (số liệu Parhi +20%) | C7 | `VariantPickerModal.tsx`, `ProductVariantModal.tsx` | ✅ **XONG** |
-| ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `NotificationBell.tsx`, `Header.tsx` | 🔄 Tiếp theo |
+| ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `Header.tsx`, `style.css` | ✅ **XONG** |
 | ⭐ | Accessibility: aria, tương phản, focus-trap modal | C5, C6 | toàn site, `useFocusTrap.ts` | Một phần đã có |
 | ⭐ | Admin: cảnh báo tồn kho + xác nhận hành động xóa | C8, C10 | `AdminInventoryAlerts.tsx`, các trang xóa | 🔄 Sau |
 

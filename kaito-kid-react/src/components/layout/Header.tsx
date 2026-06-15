@@ -167,9 +167,14 @@ const handleLogout = () => {
             <PiHeartStraight aria-hidden="true" />
             {wishlistCount > 0 && <span className="cart-badge">{wishlistCount}</span>}
           </Link>
-          <Link to="/cart" className="icon-link cart-link">
+          <Link to="/cart" className="icon-link cart-link" title={totalItems > 0 ? `Giỏ hàng có ${totalItems} sản phẩm chưa thanh toán` : 'Giỏ hàng'}>
             <PiShoppingBagOpenBold aria-hidden="true" />
             <span className="cart-badge">{totalItems}</span>
+            {totalItems > 0 && (
+              <span className="cart-reminder-tooltip">
+                Giỏ còn {totalItems} SP chưa thanh toán
+              </span>
+            )}
           </Link>
           <button className="mobile-menu-btn" type="button" aria-label="Mở menu" aria-expanded={mobileOpen} onClick={() => setMobileOpen(true)}>
             <PiListBold aria-hidden="true" />

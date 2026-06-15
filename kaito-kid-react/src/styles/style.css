@@ -594,3 +594,67 @@ footer {
     color: #fff;
   }
 }
+
+/* ========================================
+   HIỆU ỨNG ZEIGARNIK (C4) - Nhắc giỏ hàng chưa thanh toán
+   ======================================== */
+.cart-link {
+  position: relative;
+}
+
+.cart-reminder-tooltip {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: -10px;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff8787 100%);
+  color: white;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 6px;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(255, 107, 107, 0.3);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-5px);
+  transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  pointer-events: none;
+  z-index: 1000;
+}
+
+/* Hiển thị tooltip khi hover vào icon giỏ hàng */
+.cart-link:hover .cart-reminder-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+/* Mũi tên tooltip */
+.cart-reminder-tooltip::before {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  right: 20px;
+  border: 6px solid transparent;
+  border-bottom-color: #ff6b6b;
+}
+
+/* Animation nhẹ cho tooltip */
+@keyframes gentle-pulse {
+  0%, 100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+
+/* Hiệu ứng nhấp nháy nhẹ sau 3s để thu hút chú ý (SEEV - Salience) */
+.cart-link:not(:hover) .cart-reminder-tooltip {
+  animation: gentle-pulse 2s ease-in-out 3s 2;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .cart-reminder-tooltip {
+    font-size: 10px;
+    padding: 4px 8px;
+    right: -5px;
+  }
+}
