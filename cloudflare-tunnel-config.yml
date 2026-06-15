@@ -1,0 +1,24 @@
+tunnel: kaitokid-shop
+credentials-file: /home/kaito/.cloudflared/kaitokid-shop.json
+
+ingress:
+  # Main website
+  - hostname: kaitokid.io.vn
+    service: http://localhost:5173
+  - hostname: www.kaitokid.io.vn
+    service: http://localhost:5173
+  
+  # API Gateway (reverse proxy tổng)
+  - hostname: api.kaitokid.io.vn
+    service: http://localhost:5155
+  
+  # API riêng lẻ (nếu cần truy cập trực tiếp)
+  - hostname: auth.kaitokid.io.vn
+    service: http://localhost:5053
+  - hostname: admin.kaitokid.io.vn
+    service: http://localhost:5089
+  - hostname: customer.kaitokid.io.vn
+    service: http://localhost:5265
+  
+  # Catch-all rule (bắt buộc phải có ở cuối)
+  - service: http_status:404
