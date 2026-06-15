@@ -62,15 +62,20 @@ export default function PaymentStep({ orderCode, total, bankAccounts, allowSimul
 
   return (
     <div className="ivy-checkout-page">
-      {/* Steps - Step 3 active */}
+      {/* TLHKT - Chương 3 (Chunking): Hiển thị tiến trình rõ ràng "Bước 3/4".
+          TLHKT - Chương 4 (Zeigarnik): Việc chưa hoàn thành thúc đẩy tiếp tục. */}
       <div className="ivy-cart-steps">
+        <div className="ivy-step-header">
+          <h2 className="ivy-step-title">Thanh toán - Bước 3/4</h2>
+          <p className="ivy-step-desc">Vui lòng thanh toán trong thời gian quy định</p>
+        </div>
         <div className="ivy-step done"><div className="ivy-step-num">✓</div><span>Giỏ hàng</span></div>
         <div className="ivy-step-line active"></div>
         <div className="ivy-step done"><div className="ivy-step-num">✓</div><span>Đặt hàng</span></div>
         <div className="ivy-step-line active"></div>
         <div className="ivy-step active"><div className="ivy-step-num">3</div><span>Thanh toán</span></div>
         <div className="ivy-step-line"></div>
-        <div className="ivy-step"><div className="ivy-step-num">4</div><span>Hoàn thành đơn</span></div>
+        <div className="ivy-step"><div className="ivy-step-num">4</div><span>Hoàn thành</span></div>
       </div>
 
       <div className="ivy-payment-step">

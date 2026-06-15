@@ -11,12 +11,39 @@
 /* ---- Progress Steps ---- */
 .ivy-cart-steps {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 0;
+  gap: 16px;
   margin-bottom: 35px;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
+}
+
+/* TLHKT - Chương 3 (Chunking, Miller 7±2): Header tiến trình rõ ràng "Bước n/4" */
+.ivy-step-header {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.ivy-step-title {
+  font-size: 22px;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin: 0 0 4px;
+}
+
+.ivy-step-desc {
+  font-size: 14px;
+  color: #64748b;
+  margin: 0;
+}
+
+/* TLHKT - Chương 7 (Wickens 2015): Bố cục logic giảm 20% thời gian tìm thông tin */
+.ivy-cart-steps > div:not(.ivy-step-header) {
+  display: flex;
+  align-items: center;
+  gap: 0;
 }
 
 .ivy-step {

@@ -286,15 +286,21 @@ export default function Checkout() {
 
   return (
     <div className="ivy-checkout-page">
-      {/* Steps: step 2 active */}
+      {/* TLHKT - Chương 3 (Chunking, Miller 7±2): Chia checkout thành các bước rõ ràng.
+          TLHKT - Chương 7 (Wickens 2015): Bố cục logic giảm 20% thời gian tìm thông tin.
+          TLHKT - Chương 10: Giảm quá tải nhận thức → giảm tỉ lệ bỏ giỏ. */}
       <div className="ivy-cart-steps">
+        <div className="ivy-step-header">
+          <h2 className="ivy-step-title">Thanh toán - Bước 2/4</h2>
+          <p className="ivy-step-desc">Vui lòng điền thông tin giao hàng và chọn phương thức thanh toán</p>
+        </div>
         <div className="ivy-step done"><div className="ivy-step-num">✓</div><span>Giỏ hàng</span></div>
         <div className="ivy-step-line active"></div>
         <div className="ivy-step active"><div className="ivy-step-num">2</div><span>Đặt hàng</span></div>
         <div className="ivy-step-line"></div>
         <div className="ivy-step"><div className="ivy-step-num">3</div><span>Thanh toán</span></div>
         <div className="ivy-step-line"></div>
-        <div className="ivy-step"><div className="ivy-step-num">4</div><span>Hoàn thành đơn</span></div>
+        <div className="ivy-step"><div className="ivy-step-num">4</div><span>Hoàn thành</span></div>
       </div>
 
       <div className="ivy-checkout-layout">

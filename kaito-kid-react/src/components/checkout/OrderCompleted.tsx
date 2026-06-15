@@ -15,14 +15,20 @@ export default function OrderCompleted({ orderCode, total, paymentMethod }: Prop
 
   return (
     <div className="ivy-checkout-page">
+      {/* TLHKT - Chương 3 (Chunking): Bước 4/4 - Hoàn thành.
+          TLHKT - Chương 4 (Peak-End Rule): Kết thúc tích cực để lại ấn tượng tốt. */}
       <div className="ivy-cart-steps">
+        <div className="ivy-step-header">
+          <h2 className="ivy-step-title">Hoàn thành - Bước 4/4</h2>
+          <p className="ivy-step-desc">Đơn hàng của bạn đã được đặt thành công</p>
+        </div>
         <div className="ivy-step done"><div className="ivy-step-num">✓</div><span>Giỏ hàng</span></div>
         <div className="ivy-step-line active"></div>
         <div className="ivy-step done"><div className="ivy-step-num">✓</div><span>Đặt hàng</span></div>
         <div className="ivy-step-line active"></div>
         <div className="ivy-step done"><div className="ivy-step-num">✓</div><span>Thanh toán</span></div>
         <div className="ivy-step-line active"></div>
-        <div className="ivy-step active"><div className="ivy-step-num">4</div><span>Hoàn thành đơn</span></div>
+        <div className="ivy-step active"><div className="ivy-step-num">✓</div><span>Hoàn thành</span></div>
       </div>
 
       <div className="ivy-order-completed">

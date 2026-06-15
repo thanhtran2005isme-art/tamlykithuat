@@ -251,16 +251,24 @@
 2. ✅ Fitts (tăng touch target) + Doherty (nút "đã thêm ✓") (C4).
 3. ✅ Dung sai lỗi (disable khi hết hàng) + aria-label + nút so sánh (C5).
 
+**Đã làm (Checkout flow - Cart, Checkout, PaymentStep, OrderCompleted):**
+4. ✅ Thanh tiến trình "Bước n/4" rõ ràng với header mô tả (C3 - Chunking, C7 - Wickens, C10 - giảm quá tải).
+5. ✅ Chia checkout thành 4 bước logic với feedback tiến trình tại mỗi bước (C3, C4 - Zeigarnik).
+
+**Đã làm (ProductListPage - bộ lọc):**
+6. ✅ Nhóm màu sắc theo Miller 7±2: 7 màu phổ biến + nút "Xem thêm" (C3 - Miller, C4 - Hick).
+7. ✅ Size giới hạn 5 mục (phù hợp Miller 7±2) (C3).
+
 **Nên làm tiếp — tác động cao, dễ minh họa trong báo cáo:**
-| Ưu tiên | Việc | Chương | File |
-|---|---|---|---|
-| ⭐⭐⭐ | Thanh tiến trình "Bước n/4" + chia bước rõ | C3, C7, C10 | `Checkout.tsx`, `components/checkout/*` |
-| ⭐⭐⭐ | Nhóm bộ lọc theo Miller 7±2 + Hick | C3, C4 | `Products.tsx` |
-| ⭐⭐ | Bảng size trẻ em theo tuổi/chiều cao + chất liệu | C6 | `ProductDetail.tsx` |
-| ⭐⭐ | Tăng nút chọn size/màu (số liệu Parhi +20%) | C7 | `VariantPickerModal.tsx`, `ProductVariantModal.tsx` |
-| ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `NotificationBell.tsx`, `CartContext.tsx` |
-| ⭐ | Accessibility: aria, tương phản, focus-trap modal | C5, C6 | toàn site, `useFocusTrap.ts` |
-| ⭐ | Admin: cảnh báo tồn kho + xác nhận hành động xóa | C8, C10 | `AdminInventoryAlerts.tsx`, các trang xóa |
+| Ưu tiên | Việc | Chương | File | Trạng thái |
+|---|---|---|---|---|
+| ⭐⭐⭐ | Thanh tiến trình "Bước n/4" + chia bước rõ | C3, C7, C10 | `Checkout.tsx`, `components/checkout/*` | ✅ **XONG** |
+| ⭐⭐⭐ | Nhóm bộ lọc theo Miller 7±2 + Hick | C3, C4 | `Products.tsx`, `ProductListPage.tsx` | ✅ **XONG** |
+| ⭐⭐ | Bảng size trẻ em theo tuổi/chiều cao + chất liệu | C6 | `ProductDetail.tsx` | 🔄 Tiếp theo |
+| ⭐⭐ | Tăng nút chọn size/màu (số liệu Parhi +20%) | C7 | `VariantPickerModal.tsx`, `ProductVariantModal.tsx` | 🔄 Tiếp theo |
+| ⭐⭐ | Nhắc giỏ hàng chưa thanh toán (Zeigarnik) | C4 | `NotificationBell.tsx`, `CartContext.tsx` | 🔄 Tiếp theo |
+| ⭐ | Accessibility: aria, tương phản, focus-trap modal | C5, C6 | toàn site, `useFocusTrap.ts` | Một phần đã có |
+| ⭐ | Admin: cảnh báo tồn kho + xác nhận hành động xóa | C8, C10 | `AdminInventoryAlerts.tsx`, các trang xóa | 🔄 Sau |
 
 ---
 

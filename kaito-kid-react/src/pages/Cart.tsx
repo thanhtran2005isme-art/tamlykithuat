@@ -204,15 +204,20 @@ export default function Cart() {
 
   return (
     <div className="ivy-cart-page">
-      {/* Progress Steps */}
+      {/* TLHKT - Chương 3 (Chunking, Miller 7±2): Chia checkout thành các bước rõ ràng.
+          Hiển thị "Bước 1/4" giúp khách hiểu vị trí trong quy trình. */}
       <div className="ivy-cart-steps">
+        <div className="ivy-step-header">
+          <h2 className="ivy-step-title">Giỏ hàng - Bước 1/4</h2>
+          <p className="ivy-step-desc">Kiểm tra sản phẩm trước khi đặt hàng</p>
+        </div>
         <div className="ivy-step active"><div className="ivy-step-num">1</div><span>Giỏ hàng</span></div>
         <div className="ivy-step-line"></div>
         <div className="ivy-step"><div className="ivy-step-num">2</div><span>Đặt hàng</span></div>
         <div className="ivy-step-line"></div>
         <div className="ivy-step"><div className="ivy-step-num">3</div><span>Thanh toán</span></div>
         <div className="ivy-step-line"></div>
-        <div className="ivy-step"><div className="ivy-step-num">4</div><span>Hoàn thành đơn</span></div>
+        <div className="ivy-step"><div className="ivy-step-num">4</div><span>Hoàn thành</span></div>
       </div>
 
       {/* Reservation banner — dùng dữ liệu thật từ ReservedUntil */}
